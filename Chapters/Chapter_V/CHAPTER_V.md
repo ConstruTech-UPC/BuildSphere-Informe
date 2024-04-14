@@ -18,7 +18,7 @@ En esta sección se describirán los productos para el desarrollo de software qu
 - **Frontend Web Application**: Para la realización del está sección de nuestra aplicación web se usarán las mismas tecnologías que en el Landing Page. Adicionalmente, nos estaremos apoyando del framework Angular para su realización como librería complementaria de JavaScript.
 - **Herramientas:** Node, npm, ng
 ### Web Services
-Para los diversos servicios web que se desarrollaran, se empleará el estilo de arquitectura RESTful API. Se usará el lenguaje C#, ya que estaremos usando ASP .NET.
+Para los diversos servicios web que se desarrollaran, se empleará el estilo de arquitectura RESTful API. Se usará el lenguaje JAVA, ya que estaremos usando SPRINT BOOT.
 ### IDE's de desarrollo
 [**Webstorm**](https://www.jetbrains.com/webstorm/): Este IDE será usado para el desarrollo de la parte del frontend de la aplicación web.
 
@@ -38,9 +38,9 @@ El manejo y la organización de las diferentes modificaciones se llevaron a cabo
 [ConstruTech-UPC](https://github.com/ConstruTech-UPC)
 ![](https://lh7-us.googleusercontent.com/Zi13t8pIT3exNojOJXOe4K7YSeR668wkDM4K6KGQ3bNvIK4-Z2L58sCzsltOvz9r6LNryRmX8TVV5NWIZSEkCsgXuGSfT5rI2tgnM_JZZh2Fx44R4DTJ-XXuR9VHa2bWLnnvjIBp8uSBDwek7gGWy1U)
 #### Repository:
-- [Informe](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics)
-- [Landing Page](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics)
-- [Acceptance test](https://github.com/upc-pre-SI730-2401-SW51-equipo1/ChromaComics)
+- [Informe](https://github.com/ConstruTech-UPC/BuildSphere-Informe)
+- [Landing Page](https://github.com/ConstruTech-UPC/BuildSphere-Landing-Page)
+- [Acceptance test](https://github.com/ConstruTech-UPC/BuildSphere-acceptance-tests)
 #### Control de versiones con GitFlo:w:
 Para llevar un control de las ramas, los commits y los cambios realizados en el código fuente, se procedió a utilizar GitFlow.
 Se tenían las siguientes ramas en cada repositorio:
