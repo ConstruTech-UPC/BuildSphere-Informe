@@ -5,7 +5,7 @@
 ### 5.1.1. Software Development Environment Configuration.
 En esta sección se describirán los productos para el desarrollo de software que han sido implementados para este proyecto. Así mismo, esta sección da su importancia al contar con información relevante para futuros equipos de desarrollo que deseen continuar con el ciclo de vida del producto de software.
 ### Project Management
-- [**Discord**](https://discord.com/): Plataforma que funciona como aplicación web y mobile. Se empleó esta plataforma como medio para las reuniones virtuales, las diversas ceremonias de SCRUM con el equipo.
+- [**Google Meet**](https://meet.google.com/): Plataforma que funciona como aplicación web y mobile. Se empleó esta plataforma como medio para las reuniones virtuales, las diversas ceremonias de SCRUM con el equipo.
 - [**Trello**](https://trello.com/es): La herramienta es una aplicación web empleada para realizar la asignación de tareas en el formato (do, doing & done). De tal forma que todo el equipo tenga conocimiento de las tareas que se están realizando con el fin de tener un buen proyecto.
 ### Requirements Management
 - [**Trello**](https://trello.com/es): La herramienta nos permite realizar un backlog de equipo y colaborar en el mismo. Adicionalmente, proporciona una vista cómoda respecto a este dejando en claro los puntos de interés o prioridad del equipo.
