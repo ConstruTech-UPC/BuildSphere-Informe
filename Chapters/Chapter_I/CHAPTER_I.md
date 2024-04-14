@@ -45,6 +45,84 @@ Acorde a las distintas fórmulas que aplicó el tesista, se demostró que ambas 
 En el caso de la obra A, hay un desperdicio de 90% de cemento , eso se debió al error de los trabajadores al realizar la mezcla. A pesar de que ese error fue solucionado, igual hubo una pérdida de 42% del material en los meses siguientes.
 En el caso de la obra B, para la construcción de distintos muros en el terreno con el uso de concreto, hubo un desperdicio de 37%, un número bastante elevado debido a que solo se consideran las plantas de departamentos, mas no el de los sótanos. Además, se tiene en cuenta el acero, en la primera etapa, hubo un desperdicio de 15%; sin embargo, a medida que la obra avanzaba, se pudo reutilizar gran parte de lo sobrado y bajó a 7%.
 
+#### 1.2.2. Lean UX Process 
+##### 1.2.2.1. Lean UX Problem Statement
+**Problem Statement 1:** En el entorno actual, los ingenieros civiles que dirigen constructoras independientes enfrentan desafíos significativos en la gestión eficiente de recursos y en la coordinación de tareas críticas dentro de sus proyectos.
+
+Estos desafíos incluyen una utilización subóptima de materiales y maquinaria que resulta en desperdicios y retrasos, afectando negativamente la rentabilidad y los tiempos de entrega. Estas ineficiencias suelen originarse en una planificación y seguimiento deficientes, lo que conduce a una ejecución ineficaz del proyecto. 
+
+¿Cómo podemos mejorar la coordinación y gestión de recursos en proyectos de construcción de pequeña escala para evitar desperdicios y retrasos, asegurando una ejecución más eficiente y rentable?
+
+**Problem Statement 2:** En el contexto de grandes empresas constructoras, que gestionan múltiples proyectos simultáneamente, existe una dificultad notable en mantener una comunicación efectiva y transparente entre los múltiples participantes del proyecto, desde los ingenieros y arquitectos hasta los trabajadores en campo.
+
+​​La falta de una plataforma centralizada que facilite el intercambio de información en tiempo real y la actualización constante del progreso de la obra agrava estos problemas, llevando a malentendidos y errores en la ejecución, lo que impacta directamente en la calidad y en los plazos de entrega del proyecto. 
+
+¿Cómo podemos implementar soluciones que faciliten una mejor comunicación y coordinación entre todos los participantes de proyectos de construcción a gran escala para minimizar los errores y mejorar la eficiencia y calidad del proceso constructivo?
+##### 1.2.2.1. Lean UX Assumptions
+Los supuestos, o "assumptions" en inglés, desempeñan un papel crucial en la identificación de los riesgos del proyecto y en estimular la expresión de opiniones y la participación activa del equipo de trabajo. 
+**User outcomes**
+
+**¿Quién es el usuario?**
+
+Los usuarios son profesionales del sector de la construcción, como gerentes de proyecto y contratistas que buscan mejorar la gestión de sus proyectos.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto se integra en el entorno laboral de nuestros usuarios, ofreciéndoles una herramienta esencial para la planificación, ejecución y seguimiento de proyectos de construcción.
+
+**¿Qué problemas tiene que resolver nuestro producto?**
+
+Nuestro producto resuelve la problemática de la gestión ineficiente de recursos, la comunicación deficiente entre los actores del proyecto y la falta de visibilidad en tiempo real sobre el avance de la obra.
+
+**¿Cuándo y cómo es nuestro producto usado?**
+
+Nuestro producto es usado a lo largo de todo el ciclo de vida del proyecto de construcción, accesible desde cualquier dispositivo con conexión a internet, permitiendo un acceso continuo y en tiempo real a la información del proyecto.
+
+**¿Qué características son importantes?** 
+
+Las características importantes incluyen la gestión de inventario inteligente, planificación de maquinaria, comunicación eficaz entre equipos, seguimiento del progreso en tiempo real y reporte de incidentes.
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+Nuestro producto debe presentar una interfaz clara y fácil de usar, con funcionalidades intuitivas que permitan a los usuarios gestionar sus proyectos de manera eficiente, adaptándose a diferentes dispositivos para garantizar accesibilidad en todo momento.
+
+**Business outcomes**
+
+- Creo que mis clientes necesitan una plataforma integral que optimice la gestión de proyectos de construcción, mejorando la eficiencia, reduciendo los desperdicios y facilitando la comunicación entre los diferentes actores del proyecto.
+- Estas necesidades se pueden resolver con una solución digital que ofrezca gestión de inventario inteligente, seguimiento de adquisiciones, planificación y uso de maquinaria, comunicación eficaz y monitoreo en tiempo real del avance de la construcción.
+- Mis clientes iniciales son gerentes de proyecto, contratistas y empresas de construcción que buscan mejorar la eficiencia operativa y la rentabilidad de sus proyectos.
+- El valor #1 que un cliente quiere de mi servicio es la capacidad de gestionar de manera eficiente y centralizada todos los aspectos de un proyecto de construcción, desde la planificación hasta la ejecución.
+- El cliente también puede obtener estos beneficios adicionales: reducción de costos por desperdicio de materiales, optimización del tiempo de trabajo y mejora en la toma de decisiones basada en datos precisos y actualizados.
+- Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, asociaciones estratégicas con empresas de construcción y participación en ferias y eventos del sector.
+- Haré dinero a través de modelos de suscripción para acceder a la plataforma, ofreciendo planes adaptados a las necesidades y el tamaño de los proyectos de los clientes.
+- Mi competencia principal en el mercado será otras soluciones de software de gestión de proyectos de construcción.
+- Los venceremos debido a nuestra capacidad de integrar todas las herramientas necesarias en una única plataforma, nuestra interfaz intuitiva y adaptativa, y la personalización de nuestros servicios según las necesidades específicas de cada proyecto.
+- Mi mayor riesgo es la resistencia al cambio por parte de la industria de la construcción, tradicionalmente lenta en adoptar nuevas tecnologías.
+- Resolveremos esto a través de demostraciones convincentes del valor agregado de nuestra solución, casos de éxito detallados y ofreciendo una transición asistida y capacitación para los usuarios.
+
+##### 1.2.2.1. Lean UX Hypothesis Statements
+- **Creemos que** implementar un sistema de inventario inteligente para materiales de construcción reducirá el desperdicio de recursos como cemento, acero y madera.
+
+  **Sabremos** hemos tenido éxito
+
+  **Cuando** logremos una reducción del 25% en el desperdicio de materiales en los proyectos que utilicen nuestra plataforma.
+
+- **Creemos que** facilitar una plataforma de comunicación efectiva entre todos los actores involucrados en un proyecto de construcción mejorará la coordinación y ejecución de las obras. 
+
+  **Sabremos que** hemos tenido éxito
+  **Cuando** se disminuyan en un 30% los errores o malentendidos reportados en los proyectos.
+
+- **Creemos que** ofrecer herramientas para el seguimiento y planificación del uso de maquinaria pesada optimizará la eficiencia operativa y minimizará los tiempos de inactividad.
+  **Sabremos que** hemos tenido éxito
+  **Cuando** incrementemos la utilización de maquinaria en un 20% en todos los proyectos gestionados a través de nuestra plataforma.
+- **Creemos que** proporcionar capacidades para el monitoreo en tiempo real del avance de los proyectos de construcción 
+  **Sabremos que** hemos tenido éxito
+  **Cuando** consigamos reducir en un 15% los retrasos en la entrega de proyectos.
+##### 1.2.2.1. Lean UX Canvas
+<table><tr><th valign="top"><p><b>1. Business Problem</b> </p><p>El problema central en la gestión de proyectos de construcción reside en la ineficiencia operativa, que se manifiesta a través del desperdicio significativo de materiales y la subutilización de maquinaria, lo que se atribuye a la falta de herramientas de planificación y seguimiento precisas. Además, se enfrenta una comunicación fragmentada y poco fiable entre todos los actores involucrados, desde ingenieros y arquitectos hasta contratistas y trabajadores. Estas deficiencias operativas conducen a un aumento en los costos directos e indirectos, extensión de los plazos de entrega, y un impacto adverso en la calidad final de las obras, poniendo en riesgo la rentabilidad y la sostenibilidad de los proyectos. Este conjunto de problemas señala una necesidad urgente de digitalización y optimización procesal, resaltando la importancia de una solución integral como BuildSphere para transformar y modernizar la industria de la construcción hacia la eficiencia y la excelencia operativa.</p></th><th rowspan="2" valign="top"><p><b>5. Solutions</b> </p><p>- Una herramienta que utilice datos históricos y tendencias de proyectos para predecir las necesidades de materiales y reducir el desperdicio. Esto puede incluir alertas anticipadas cuando los niveles de inventario están bajando y sugerencias automáticas de pedidos.</p><p>- Un módulo dentro de la aplicación que permita la programación y seguimiento de toda la maquinaria de construcción, incluyendo la planificación de mantenimiento preventivo y reparaciones, para asegurar el máximo tiempo de actividad.</p><p>- Un sistema de mensajería integrado que permita la comunicación instantánea entre los ingenieros civiles, subcontratistas, proveedores y demás partes interesadas del proyecto, con la capacidad de compartir documentos, imágenes y actualizaciones de estado.</p><p>- Dashboards que proporcionen a los usuarios un análisis en tiempo real del progreso del proyecto, incluyendo el seguimiento del presupuesto, la eficiencia de la mano de obra y el cumplimiento de los plazos, todo personalizable para atender las necesidades específicas de cada proyecto.</p></th><th valign="top"><p><b>2. Business Outcomes</b>  </p><p>- Incremento en el porcentaje de proyectos completados en o antes de la fecha de entrega prevista.</p><p>- Disminución en el promedio de gastos operativos de construcción por proyecto, incluyendo costos de materiales y maquinaria.</p><p>- Reducción medible en el porcentaje de materiales desperdiciados.</p><p>- Disminución en el tiempo de inactividad de maquinaria pesada por una planificación más eficaz y mantenimiento preventivo.</p></th></tr>
+<tr><td valign="top"><p><b>3. Users</b> </p><p>- Profesionales autónomos o que operan pequeñas empresas de construcción. Estos usuarios buscan soluciones accesibles para gestionar proyectos de menor escala con eficiencia, integrando todas las etapas de construcción, desde el diseño hasta la entrega final.</p><p>- Encargados de liderar y coordinar múltiples proyectos de construcción simultáneamente, necesitando herramientas avanzadas para el seguimiento en tiempo real, la planificación logística y la gestión de recursos a gran escala.</p></td><td valign="top"><p><b>4. Users Outcomes & Benefits</b> </p><p><b>Maximización de la Eficiencia Operativa</b></p><p>Los ingenieros civiles y gerentes de proyecto podrán gestionar sus recursos con mayor precisión, minimizando el desperdicio de materiales y optimizando el uso de maquinaria, lo que se traduce en una reducción de costos y tiempos de proyecto.</p><p><b>Mejora en la Colaboración y Comunicación</b></p><p>La coordinación entre diferentes equipos se hace más eficaz gracias a la comunicación en tiempo real, mejorando la toma de decisiones y evitando malentendidos que pueden llevar a errores costosos.</p><p></p><p><b>Agilidad en la Planificación y Respuesta en Cambios</b></p><p>La capacidad de monitorizar y ajustar la planificación de proyectos en tiempo real permite a los usuarios responder rápidamente a imprevistos, manteniendo los proyectos en curso y dentro de los plazos establecidos.</p></td></tr>
+<tr><td valign="top"><p><b>6. Hypothesis</b> </p><p>- Creemos que la implementación de un sistema predictivo de inventarios beneficiará a los gerentes de proyecto al reducir el desperdicio de materiales. Sabremos que tuvimos éxito cuando observemos una disminución del 20% en el gasto de materiales en los proyectos, reflejado en los informes de costos.</p><p>- Creemos que una herramienta de gestión integrada de maquinaria maximizará el tiempo de actividad de los equipos pesados y reducirá los tiempos de inactividad. Sabremos que tuvimos éxito cuando los registros muestren una reducción del tiempo de inactividad y un aumento en la eficiencia operativa de la maquinaria en los proyectos.</p><p>- Creemos que una plataforma de comunicación en tiempo real mejorará la coordinación y eficiencia del proyecto. Sabremos que tuvimos éxito cuando los usuarios reporten una mejora significativa en la gestión del proyecto y en la satisfacción del equipo en las encuestas de feedback.</p><p>- Creemos que los dashboards de análisis de progreso y personalizables facilitarán a los ingenieros civiles el seguimiento y ajuste de los planes de construcción en tiempo real. Sabremos que tuvimos éxito cuando los usuarios indiquen una mejora en la toma de decisiones basada en datos y en la gestión de proyectos en las revisiones de uso del producto.</p></td><td valign="top"><p><b>7. What’s the most important thing we need to learn first?</b> </p><p>Necesitamos validar la eficacia de nuestra plataforma en mejorar la coordinación y eficiencia de los proyectos de construcción. Es crucial determinar si nuestras soluciones específicas para la gestión de inventario, maquinaria, y comunicación realmente se traducen en una reducción de costos y tiempo en los proyectos.</p></td><td valign="top"><p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b>  </p><p>Para validar nuestra hipótesis, lanzaremos una versión beta de la plataforma con funcionalidades clave y la implementaremos en un número limitado de proyectos piloto. Analizaremos el impacto en la gestión de materiales, la eficiencia de la maquinaria, y la comunicación del proyecto para evaluar la efectividad de nuestra solución.</p></td></tr>
+</table>
 
 ### 1.3 Segmentos objetivo
 Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
