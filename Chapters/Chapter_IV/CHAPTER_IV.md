@@ -287,8 +287,8 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ## 4.6. Domain-Driven Software Architecture.
 4.6.1. Software Architecture Context Diagram. 
-![](Assets/ContextDiagram.png)
+![](/Assets/ContextDiagram.png)
 4.6.2. Software Architecture Container Diagrams. 
-![](Assets/ContainerDiagram.png)
+![](/Assets/ContainerDiagram.png)
 4.6.3. Software Architecture Components Diagrams. 
-![](Assets/ComponentsDiagram.png)
+![](/Assets/ComponentsDiagram.png)
