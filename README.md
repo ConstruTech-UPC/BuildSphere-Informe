@@ -25,7 +25,7 @@
 |---------------------------------|------------|
 | Eduardo Renato Ventura Chancafe | u202212645 |
 | Alvaro Esteban Crispin Ccancce  | U202020328 |
-| Camila Cristina Loli Ramirez    | U20201C607 |
+| Camila Cristina Loli Ramirez    | U202110385 |
 | Carlos Andres Rojas Ccama       | U202217241 |
 | Piero Mendoza Pimentel          | U201923446 |
 
