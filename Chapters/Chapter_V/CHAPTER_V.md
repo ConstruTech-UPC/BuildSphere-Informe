@@ -229,3 +229,19 @@ Para el lenguaje de programación TypeScript que se utilizará en el entorno fro
 |-------------------------|-------------------------------------------------|----------|---------------------|
 | Lograr la creación de la Landing Page a partir de las user stories del Sprint Backlog 1 y su respectivo despliegue. | - | 10       | 8                   |
 
+### 5.2.1.3 Development Evidence for Sprint Review
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="10" valign="top">landing</td><td rowspan="10" valign="top">develop</td><td valign="top">f6d0bc6c84fde8f03f612d2c873897f62fe4000b</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">9/04/2024</td></tr>
+<tr><td valign="top">92c38ef84e51cc54f1716cc622579bede8b4f6ab</td><td valign="top">Update README.md</td><td valign="top"></td><td valign="top">9/04/2024</td></tr>
+<tr><td valign="top">d85c4171401f63a4ba115f2b8dc1b6472187a3e1</td><td valign="top">feat: adding navbar & banner</td><td valign="top"></td><td valign="top">10/04/2024</td></tr>
+<tr><td valign="top">3b9f05453e5c1f15ece59b07ef1ec5a6e8b4b910</td><td valign="top"><p>fix: adding logo & images</p><p></p></td><td valign="top"></td><td valign="top">11/04/2024</td></tr>
+<tr><td valign="top">842b2a4f3080fd3149bfbd6dde5e242c4ea77205</td><td valign="top">fix: changing language to EN</td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">cc50b26257ab0213f38ee474f0888d713291a887</td><td valign="top"><p>feat: add about us and features sections</p><p></p></td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">37bacb7b604ef1f2b94c9a76945a448e0a195201</td><td valign="top"><p>feat: Contact us form added</p><p></p><p></p><p></p></td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">8107fca1336b3e72ffbc497f63a759311998a79e</td><td valign="top">feat: add Mission and Vision, and Our Plans to index.html</td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">014b64f5e077f05e8debd452b345a7ec9ca21b5b</td><td valign="top">feat: add respective style for Mission and Vision, and Our Plans styles.css</td><td valign="top"></td><td valign="top">13/04/2024</td></tr>
+<tr><td valign="top">2b70b7d652a8b190bc7db02966c7d2770a9d1814</td><td valign="top">fix: correct the id for section Mission and Vision index.html</td><td valign="top"></td><td valign="top">14/04/2024</td></tr>
+</table>
+
+### 5.2.1.5 Execution Evidence for Sprint Review
