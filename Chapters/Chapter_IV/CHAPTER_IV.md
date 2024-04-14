@@ -285,6 +285,12 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ## 4.5. Web Applications Prototyping
 
+ En la sección se mostrará la funcionalidad del prototipo en aplicación web
+ Link: [Prototipo Open Source 1.mkv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ESLcs_gdttVMrdLJv04c2xABKHWJiCcfPOcyLJzHklipPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IHun72)
+
+ ![](/Assets/CHAPTER_IV/Captura%20de%20pantalla%202024-04-14%20153727.png)
+
+
 ## 4.6. Domain-Driven Software Architecture.
 4.6.1. Software Architecture Context Diagram. 
 ![](/Assets/ContextDiagram.png)
