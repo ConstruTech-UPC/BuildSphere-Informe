@@ -27,6 +27,8 @@ Soy estudiante de la carrera Ingeniería de Software. Mi carrera se basa en los 
 ![Carlos Rojas](Assets/CarlosRojas.jpeg)
 Estudió la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con la lógica, más que todo está asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Tengo conocimientos de C++, python, html y css. Me considero una persona amable y dar ideas, especialmente en grupos. Un trabajo en equipo consiste en la comunicación y dar opiniones.
 
+##### Mendoza Pimentel, Piero - U20193446
+Soy estudiante de Ingeniería de Software. En el transcurso de mis estudios universitarios he aprendido lenguajes como C++, Python y JavaScript. En este curso espero poder entender y aplicar lo aprendido para poder mejorar mis conocimientos.
 
 ### 1.2. Solution Profile
 BuildSphere de ConstruTech Group redefine la gestión de proyectos de construcción al optimizar procesos clave como la gestión de materiales y maquinaria, y la comunicación y planificación del proyecto. Su sistema de inventario inteligente previene el desperdicio al predecir necesidades de materiales, mientras que el seguimiento de adquisiciones automatiza pedidos y planificación logística. 
