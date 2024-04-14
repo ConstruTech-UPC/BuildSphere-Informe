@@ -98,3 +98,112 @@ En esta sección, presentamos los User Journey Maps para nuestros dos segmentos 
 ### User Journey Mapping: Grandes empresas de construcción
 
 ![](/Assets/CHAPTER_II/Mónica%20Rodríguez%20Journey%20map.png)
+### 2.3.4
+### 2.3.5 As - Is Scenario Mapping
+**As-is del segmento pequeñas y medianas constructoras**
+
+**Preparación de la actividad**
+
+Dibujamos el cuadro y  la dividimos en secciones basándonos en el tipo de contenido que necesitamos incorporar: Fases, Haciendo, Pensando y Sintiendo.
+
+![](/Assets/CHAPTER_II/planificacion.jpg)
+
+**Brainstorming**
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas en base al panorama actual y cómo es que gestionan sus proyectos.
+
+![](/Assets/CHAPTER_II/brain.jpg)
+
+**Identificación de Fases**
+
+Por último, organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Planning, Pre-construction, Construction, Monitoring-Control y Ending.
+
+![](/Assets/CHAPTER_II/as-is-Gran%20Escala.jpg)
+
+**As-is del segmento grandes empresas de construcción.**
+
+**Preparación de la actividad**
+
+Dibujamos el cuadro y  la dividimos en secciones basándonos en el tipo de contenido que necesitamos incorporar: Fases, Haciendo, Pensando y Sintiendo.
+
+![](/Assets/CHAPTER_II/planificacion.jpg)
+
+**Brainstorming**
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas en base al panorama actual y cómo es que gestionan sus proyectos.
+
+![](/Assets/CHAPTER_II/brain.jpg)
+
+**Identificación de Fases**
+
+Por último, organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Planning, Pre-construction, Construction, Monitoring-Control y Ending.
+
+![](/Assets/CHAPTER_II/as-is-autonomo.jpg)
+## 2.4 Ubiquitous Language
+- **Licitación:**
+
+  Proceso mediante el cual se invita a contratistas a presentar propuestas para ejecutar un proyecto de construcción, especificando los trabajos a realizar y el presupuesto disponible.
+
+- **Cubicación:**
+
+  Cálculo del volumen de materiales necesarios para realizar una obra, como concreto, grava o arena.
+
+- **Hito:**
+
+  Punto de referencia importante dentro del cronograma del proyecto que indica un logro significativo en la obra.
+
+- **Replanteo:**
+
+  Proceso de trasladar a terreno los detalles constructivos y dimensiones exactas previstas en los planos.
+
+- **Valor Ganado:**
+
+  Métrica de gestión de proyectos que compara el trabajo realizado con el presupuesto y el cronograma planificados.
+
+- **Mano de Obra Directa:**
+
+  Trabajadores que participan directamente en las tareas de construcción, como albañiles, carpinteros, y electricistas.
+
+- **Rendimiento:**
+
+  Medida de la eficacia con que se utilizan los recursos en el sitio de construcción, como la mano de obra y los materiales.
+
+- **Vía Muerta:**
+
+  Referencia a trabajos que se han detenido temporalmente en el sitio de construcción, a menudo por falta de recursos o por espera de decisiones.
+
+- **Certificación de Avance:**
+
+  Documento que verifica el progreso de la obra en un momento dado, utilizado para solicitar pagos parciales.
+
+- **Desmonte:**
+
+  Retirada de estructuras, vegetación o escombros existentes en el sitio de construcción antes de comenzar los trabajos.
+
+- **Carga Viva:**
+
+  Peso de los usuarios, muebles, equipos, y otros objetos móviles que una estructura debe ser capaz de soportar, a diferencia de la carga muerta que considera el peso de la propia estructura.
+
+- **Orden de Compra:**
+
+  Documento emitido hacia un proveedor para adquirir materiales o servicios, especificando cantidades y precios.
+
+- **Adquisición:**
+
+  Proceso de selección y compra de recursos necesarios a través de proveedores.
+
+- **Control de Costos:**
+
+  Proceso de gestión y monitoreo del presupuesto para evitar sobrecostos.
+
+- **Acta de Reunión:**
+
+  Resumen escrito de los puntos discutidos y las decisiones tomadas en una reunión.
+
+- **Indicador de Rendimiento:**
+
+  Métrica utilizada para medir el éxito de aspectos específicos del proyecto.
+
+- **Capacitación:**
+
+  Entrenamiento ofrecido a los usuarios para maximizar el uso de la app
