@@ -41,11 +41,11 @@
 
 **Enlace del Project Report: [Enlace de nuestro proyecto)**
 ## Contenido
-- [Capítulo I: Introducción]
-- [Capítulo II: Requirements Elicitation & Analysis]
-- [Capítulo III: Requirements Specification]
-- [Capítulo IV: Product Design]
-- [Capítulo V: Product Implementation, Validation & Deployment]
+- Capítulo I: Introducción]
+- Capítulo II: Requirements Elicitation & Analysis
+- Capítulo III: Requirements Specification
+- Capítulo IV: Product Design
+- Capítulo V: Product Implementation, Validation & Deployment
 
 
 
