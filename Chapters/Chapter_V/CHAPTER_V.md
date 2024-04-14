@@ -67,23 +67,134 @@ Ejemplo de commit:
 
 `feat: Implementación del componente de 'add new comic'`
 ### 5.1.3. Source Code Style Guide & Conventions.
-**Convenciones de versiones de lanzamiento:**
-Para el formato de versiones se aplicará "Semantic Versioning 2.0.0". Donde las versiones siguen el formato de (X.Y.Z). Donde:
+**HTML/CSS Style Guide**
 
-- X: Representa una versión mayor. Aquí se encuentran los cambios que no son compatibles con las versiones anteriores.
-- Y: Versión menor. Aquí se encuentran los cambios que sí son compatibles con las versiones anteriores.
-- Z: Parches y correcciones de errores menores.
+Para nuestro proyecto, hemos decidido seguir el Google HTML/CSS Style Guide([Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)) y HTML Style Guide([HTML Style Guide and Coding Conventions (w3schools.com)](https://www.w3schools.com/html/html5_syntax.asp)) de w3Scholls , garantizando así un código claro y coherente que se alinea con las mejores prácticas de la industria. Dentro de las convenciones de esta guía de estilo que adoptaremos se encuentran:
 
-**Guía de estilo y convenciones de código fuente:**
-- **HTML y CSS**: Se utilizará [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html), ya que contiene los formatos que se deben tener en cuenta al trabajar con dichas tecnología.
-- **JavaScript:** Se utilizará la [guia de estilos para js](https://google.github.io/styleguide/jsguide.html).
-- **Gherkin:** Se usarán las convenciones mencionadas en [Make your Gherkin Specifications More Readable](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/).
-- **Sprint Boot:** Para las convenciones de se utilizarán las ya mencionadas por el equipo de [Sprint Boot](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.9/tap/spring-boot-conventions-reference-CONVENTIONS.html).
-- Java: Con el fin de cumplir los estándares del leguaje, se usará la [guia proporcionada por Oracle](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf) para cumplir con su su correcta nomenclatura.
-- .NET Framework: Para cumplir con la guia de estilos, Microsoft también nos proporciona una guia en su propio [repositorio github](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines).
-### 5.1.4. Software Deployment Configuration.
-Para el despliege en la plataforma, lo realizaremos de la siguiente manera:
-1.  Accedemos  a [Netlify](https://www.netlify.com/) y nos creamos una cuenta (si ya contamos con una cuenta, ingresamos). Luego, realizamos la busqueda de la sección de ''add new site'' e importaremos un proyecto existente con la opción ''Import an existing project''.
-2. Seleccionamos cuál será la plataforma con el repositorio donde tenemos el código de nuestra aplicación. En nuestro caso será GitHub.
-3. Seleccionamos la organización en donde se instalará el deploy de nuestra página web
-4. Finalmente, indicamos el repositorio y la ruta o branch de la cuál se realizará el despliegue.
+- General:
+    - Nos aseguramos de usar siempre HTTPS para recursos embebidos para mejorar la seguridad. Adoptamos una indentación consistente de dos espacios, evitando mezclar espacios con tabulaciones, y mantenemos todo el código en minúsculas, incluidos nombres de elementos, atributos y selectores. Además, eliminamos los espacios en blanco al final de las líneas para facilitar la revisión del código.
+- Metadatos Generales:
+    - En nuestros documentos, utilizamos la codificación UTF-8 sin marca de orden de bytes, especificada con meta charset="utf-8".
+- Reglas de Estilo HTML:
+    - Adoptamos HTML5 como tipo de documento estándar, según lo recomendado por Google. Nos aseguramos de que nuestro HTML sea válido para mantener una calidad de código medible. Usamos elementos HTML según su propósito, como < p> para párrafos y < a> para enlaces, lo cual es importante para la accesibilidad y la eficiencia del código. Mantenemos una clara separación entre la estructura, la presentación y el comportamiento, delegando la presentación al CSS y el comportamiento a los scripts.
+- Reglas de Estilo CSS:
+    - Nos adherimos a las directrices de Google para utilizar CSS válido y seleccionar nombres de clases que reflejan el propósito del elemento en lugar de nombres presentacionales. Preferimos las propiedades en forma abreviada y omitimos las unidades después de los ceros cuando no son necesarias, lo que mejora la eficiencia y la comprensibilidad del código. También evitamos los selectores de ID para prevenir conflictos y mantener una especificidad manejable.
+- Formato CSS:
+    - Consideramos ordenar las declaraciones CSS alfabéticamente para mejorar la coherencia y mantenibilidad. Aseguramos que cada selector y declaración comience en una nueva línea y separamos cada bloque de reglas claramente con líneas en blanco, lo que facilita la lectura y la edición del código.
+
+
+**Gherkin Style Guide**
+
+Para la escritura de los *acceptance test* en nuestro proyecto, seguiremos el Gherkin Style Guide([Make your Gherkin Specifications More Readable (specflow.org)](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)) hecho por SpecFlow. Esto garantizará que nuestros tests sean claros y mantenibles, facilitando la colaboración y comprensión entre los miembros del equipo y asegurando una alta calidad en nuestras pruebas.
+
+- Discernible Given-When-Then Blocks:
+    - Utilizaremos la indentación para separar claramente los bloques Given-When-Then. Los pasos adicionales marcados con "And" se indentarán para mantener la legibilidad y distinguir fácilmente el inicio y fin de cada sección.
+- Steps with Tables:
+    - Para pasos que incluyan tablas, emplearemos dos puntos al final de cada paso para indicar la presencia de datos tabulados. Esto mantendrá nuestras especificaciones ordenadas y facilitará la identificación de los datos requeridos.
+- Reducing Noise:
+    - Minimizamos el ruido en nuestros escenarios utilizando valores predeterminados para campos irrelevantes al contexto del test. Esto mantendrá el enfoque en los aspectos importantes y mejorará la claridad de nuestros tests.
+- Parameters in Steps:
+    - Destacaremos los parámetros dentro de los pasos utilizando comillas simples. Esto ayudará a identificar rápidamente los parámetros y sus valores esperados en cada paso de nuestros escenarios.
+- Newlines within Scenarios:
+    - Incorporaremos líneas nuevas para separar lógicamente las unidades de información dentro de nuestros escenarios. Esto ayudará a agrupar pasos relacionados y mejorará significativamente la legibilidad.
+- Newlines between scenarios and separator comments:
+    - Añadiremos dos líneas nuevas y comentarios separadores entre escenarios para facilitar la navegación visual en los archivos de características. Estos separadores nos ayudarán a identificar rápidamente dónde termina un escenario y comienza otro.
+
+**Angular Style Guide**
+
+Para el desarrollo de la parte front-end de nuestra aplicación web, seguiremos el Angular coding style guide([Angular - Angular coding style guide](https://angular.io/guide/styleguide#toc)). Esto garantizará que nuestro código sea consistente y siga las mejores prácticas establecidas por la comunidad Angular, facilitando así el mantenimiento y la escalabilidad de nuestra aplicación. Además, promoveremos una estructura clara y modular que permita a cualquier miembro del equipo comprender y contribuir eficientemente al proyecto. En resumen, haremos usos de estas convenciones.
+
+- Estructura de archivos y responsabilidad única:
+    - Cada componente, servicio u otro símbolo debe definirse en su propio archivo, preferiblemente limitado a 400 líneas de código para facilitar el mantenimiento. Separaremos la lógica de arranque de la aplicación en un archivo main.ts, manteniendo los archivos de aplicación lo más limpios posible.
+- Funciones pequeñas:
+    - Definiremos funciones pequeñas que no superen las 75 líneas para promover la reutilización y facilitar las pruebas y el mantenimiento.
+- Convenciones de nomenclatura:
+    - Usaremos nombres consistentes para todos los símbolos, siguiendo el patrón de característica.tipo.ts. Para los selectores de componentes y directivas, usaremos kebab-case y un prefijo personalizado que identifique la característica o la aplicación en sí.
+- Módulos de Angular:
+    - Crearemos un NgModule para cada característica distintiva de la aplicación, colocándolos en carpetas con nombres que reflejen la característica que representan.
+- Estructura de carpetas por funcionalidad:
+    - Organizaremos el código en carpetas basadas en características para facilitar la localización e identificación del código a simple vista. Esto nos ayudará a mantener una estructura plana y manejable.
+- Módulo raíz de la aplicación y módulos de características:
+    - El módulo raíz de la aplicación se llamará app.module.ts y cada módulo de características llevará el nombre de la característica que define, como machines.module.ts para una característica de maquinarias.
+- Módulos compartidos:
+    - Utilizaremos un SharedModule para declarar componentes, directivas y pipes que se reutilizarán en todo el proyecto, evitando proporcionar servicios en este módulo para no generar instancias separadas en módulos con carga diferida.
+- Servicios como singletons:
+    - Implementaremos servicios como singletons dentro del mismo inyector para compartir datos y funcionalidades. Estos servicios tendrán responsabilidades únicas y se les proporcionará en el inyector raíz de la aplicación.
+- Decoradores de propiedad de entrada y salida:
+    - Usaremos los decoradores @Input() y @Output() para las propiedades de entrada y salida de los componentes en lugar de las propiedades inputs y outputs de los metadatos @Directive y @Component.
+- Lógica de presentación:
+    - Mantendremos la lógica de presentación en la clase del componente, extrayendo plantillas y estilos a sus propios archivos cuando superen las 3 líneas para mantener la legibilidad y la capacidad de mantenimiento.
+
+**Java Style Guide**
+
+Para el uso de buenas prácticas de codificación en Java, seguiremos la Guía de Estilo de Google para Java ([Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)), asegurando así la claridad y consistencia en nuestro código. A continuación se detallan las convenciones clave que aplicaremos:
+
+- Estructura de archivos de origen:
+    - Cada archivo de código fuente llevará el nombre de la clase de nivel superior que contiene y estará codificado en UTF-8.
+    - Se utilizarán secuencias de escape para caracteres especiales, optando por caracteres Unicode cuando aumente la legibilidad.
+- Estructura de archivos fuente:
+    - Cada archivo contendrá una declaración de paquete sin ajuste de línea.
+    - Evitaremos las importaciones con comodines, manteniendo todas las declaraciones de importación sin ajuste de línea y agrupadas según corresponda.
+- Formateo:
+    - Incrementaremos la indentación en bloques en +2 espacios y continuaremos las líneas en al menos +4 espacios.
+    - Mantendremos un límite máximo de 100 caracteres por línea, aplicando ajuste de línea donde sea necesario.
+- Nombramiento:
+    - Todos los identificadores usarán solo letras ASCII y números, evitando guiones bajos, prefijos o sufijos especiales.
+    - Nombraremos las clases con UpperCamelCase, los métodos con lowerCamelCase, y las constantes con UPPER\_SNAKE\_CASE.
+- Prácticas de programación:
+    - Siempre usaremos la anotación @Override cuando sea legal hacerlo.
+    - Nunca ignoraremos las excepciones capturadas, optando por registrarlas o manejarlas como corresponda.
+- Javadoc:
+    - Proporcionaremos Javadoc para todas las clases públicas y miembros protegidos o públicos, con excepciones para miembros autoexplicativos y anulaciones.
+    - Cada bloque de Javadoc comenzará con un breve resumen, escrito como un fragmento y no como una oración completa
+- Otro:
+    - Formateamos las clases enum de manera que sean claras y organizadas, separando constantes con comas y permitiendo saltos de línea opcionales.
+    - Colocaremos anotaciones directamente antes del tipo que anotan y en su propia línea para las clases.
+
+**TypeScript Style Guide**
+
+Para el lenguaje de programación TypeScript que se utilizará en el entorno front-end, seguiremos las directrices de estilo proporcionadas por la guía de estilo de TypeScript de Google([Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)). Aquí hay un resumen de las convenciones clave:
+
+- Fundamentos del archivo de código fuente:
+    - Los archivos TypeScript deben estar codificados en UTF-8 y contener únicamente el carácter de espacio horizontal ASCII, exceptuando la secuencia de terminación de línea. Las secuencias de escape especiales deben ser utilizadas en lugar de las numéricas o Unicode, y para caracteres no ASCII se recomienda usar el carácter Unicode real junto con un comentario explicativo.
+- Estructura del archivo fuente:
+    - ​​Un archivo TypeScript se compone de información de derechos de autor, un JSDoc de resumen del archivo cuando corresponda, seguido por las secciones de importaciones y finalmente, la implementación del código.
+- Importaciones:
+    - Se deben manejar con cuidado, usando la sintaxis de ES6 y TypeScript apropiadamente. Se prefieren las importaciones nombradas sobre las de espacios de nombres para evitar la introducción de muchos símbolos distintos desde grandes APIs.
+- Tipos:
+    - Se debe confiar en la inferencia de tipos del compilador para todos los tipos de expresiones siempre que sea posible. Sin embargo, si el tipo no es obvio a partir del contexto, se deben proporcionar anotaciones de tipo explícitas para mayor claridad.
+- Control de flujo:
+    - Los bloques de control de flujo siempre deben usar llaves, incluso si contienen solo una declaración. Esto mejora la legibilidad y mantiene la consistencia del código.
+- Control de excepciones:
+    - Los bloques try-catch deben utilizarse para manejar casos excepcionales y se debe explicar con comentarios cuando se elige no tomar ninguna acción en un bloque catch.
+- Declaraciones de funciones y métodos:
+    - Prefiera declaraciones de funciones para funciones nombradas y utilice funciones flecha para funciones anónimas o callbacks. Evite la asignación dentro de las declaraciones de control si se puede realizar fuera de ellas.
+- Herramientas del compilador TypeScript:
+    - Todos los archivos deben ser verificados y aprobados por el compilador de TypeScript sin errores para asegurar la integridad del código.
+- Comentarios y documentación:
+    - Utilice comentarios de estilo JSDoc para documentar el código que será utilizado por otros y comentarios de una sola línea para notas relacionadas con la implementación interna del código. Todos los símbolos exportados deben estar adecuadamente documentados.
+- Convenciones y nomenclatura:
+    - Los identificadores deben seguir las convenciones de UpperCamelCase para clases y tipos y lowerCamelCase para variables y funciones. Evite los prefijos y sufijos de guiones bajos y use nombres descriptivos y claros.
+- Formato del código:
+    - Sea coherente con el uso de puntos y comas y siga las convenciones de formato establecidas para mantener la legibilidad y estructura del código.
+- Prácticas generales:
+    - Evite el uso de características no estándar de ECMAScript y la modificación de los objetos integrados para mantener la compatibilidad y la claridad del código en toda la base de código.
+
+**Spring Boot Style Guide**
+
+Para el lenguaje de programación TypeScript que se utilizará en el entorno front-end, seguiremos las directrices de estilo proporcionadas por la guía de estilo de TypeScript de Google([Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)). Aquí hay un resumen de las convenciones clave:
+
+- Inicio automatizado: Usaremos la clase SpringApplication para iniciar nuestra aplicación desde el método main(). Este método estático arrancará la aplicación, creará el contexto de la aplicación y configurará los beans predeterminados.
+- Información de Inicio: Configuraremos la aplicación para que al iniciar, se muestre información útil como la versión de la aplicación, los perfiles activos y la inicialización del servidor web, aprovechando la salida de registro a nivel INFO.
+- Manejo de Fallos de Inicio: En caso de fallos de inicio, como puertos ocupados, Spring Boot nos ayudará a diagnosticar y corregir problemas con mensajes de error específicos y acciones sugeridas a través de sus analizadores de fallos.
+- Inicialización Perezosa: Podemos optar por habilitar la inicialización perezosa para mejorar el tiempo de inicio de la aplicación. Esto pospondrá la creación de los beans hasta que se necesiten realmente, lo cual es útil durante el desarrollo y en entornos de prueba.
+- Personalización del Banner: Personalizaremos el banner que se muestra al inicio para reflejar la identidad de nuestro proyecto. Podemos incluir información útil o simplemente estilizar la salida en la consola para mejorar la experiencia del desarrollador.
+- Configuración Personalizada: A través de una instancia de SpringApplication personalizada, tendremos la posibilidad de modificar la configuración predeterminada, como deshabilitar el banner de arranque si es necesario.
+- API Constructora Fluida: Utilizaremos SpringApplicationBuilder en situaciones en las que necesitemos construir jerarquías de contextos de aplicación o si preferimos una API fluida para configurar nuestra aplicación.
+- Eventos y Escuchadores de Aplicación: Registraremos escuchadores de eventos de aplicación que nos permitan ejecutar acciones específicas en momentos críticos del ciclo de vida de la aplicación.
+- Entorno Web: SpringApplication configurará automáticamente el tipo de ApplicationContext apropiado, asegurando que tengamos todas las funcionalidades necesarias para un entorno web completo.
+- Argumentos de la Aplicación: Accederemos a los argumentos de línea de comandos dentro de la aplicación utilizando ApplicationArguments para ajustar el comportamiento de la aplicación en tiempo de ejecución según sea necesario.
+- Ejecución de Código Post-Inicio: Implementaremos ApplicationRunner o CommandLineRunner para ejecutar cualquier configuración o lógica de inicialización que necesite tener lugar justo después de que la aplicación haya arrancado.
+- Salida de la Aplicación: Aseguraremos una salida y limpieza elegantes del contexto de la aplicación cuando se cierre, mediante el gancho de apagado que SpringApplication registra en la JVM.
+
+
