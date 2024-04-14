@@ -67,3 +67,222 @@ Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
 ![](https://lh7-us.googleusercontent.com/x6wxByr-PRAYL0X6v1HZJYUKFOwqjviRhuA3f3ZdX6PY_rOXAbZytTKXvYHrpW174DP2XzR--lST8UPtRnQfNVTv_acxMrZq2pWfaii4tIjws7IkHQ3UTDKW0zqA2OhRIbk0nEO7cQUKlpwqJZawX3c)
 
 Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
+
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1 Web Applications Wireframes
+
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+Iniciar sesión
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/IniciarSesionVacio.png)
+Registrarse
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/RegistroVacio.png)
+Recuperar contraseña
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/IniciarSesionVacio-1.png)
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+Vista proyectos
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Gestion%20de%20proyectos.png)
+Formulario nuevo proyecto
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Registrar%20proyecto.png)
+Nuevo proyecto agregado
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Gestion%20de%20proyectos-1.png)
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+Vista gestión de recursos
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/GESTION%20DE%20RECURSOS.png)
+Formulario nuevo material
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/GESTION%20DE%20RECURSOS%20-%20Formulario%20materiales.png)
+Formulario nueva maquinaria
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/GESTION%20DE%20RECURSOS%20-%20Formulario%20maquinaria.png)
+
+### User goal: Crear un nuevo equipo.
+Vista colaboración y comunicación
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION.png)
+Formulario nuevo equipo
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION%20-%20Formulario%20equipos.png)
+
+### User goal: Agregar un nuevo trabajador.
+Vista comunicación y colaboración
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION.png)
+Formulario nuevo trabajador
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION%20-%20Formulario%20trabajadores.png)
+
+### User goal: Crear una nueva tarea.
+Vista comunicación y colaboración
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION.png)
+Formulario nueva tarea
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/COMUNICACION%20Y%20COLABORACION%20-%20Formalario%20tareas.png)
+
+### User goal: Crear una nueva carpeta.
+Vista documentos – carpetas
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/DOCUMENTOS.png)
+Formulario nueva carpeta
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/DOCUMENTOS%20-%20Formulario%20grupo.png)
+
+### User goal: Subir un nuevo archivo.
+Vista documentos – carpeta seleccionada
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/DOCUMENTOS%20-%20Archivo-2.png)
+Formulario nuevo archivo
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/DOCUMENTOS%20-%20Archivo-1.png)
+
+### User goal: Editar datos personales
+Vista datos personales
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Configuracion.png)
+
+### 4.4.2 Web Applications Wireflow Diagrams
+
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Iniciar%20sesion,%20registrarse%20y%20recuperar%20contraseña.png)
+Descripción:
+Al iniciar la aplicación, el usuario se encuentra en la vista de bienvenida, donde podrá seleccionar dos opciones: iniciar sesión, que lo llevará a la pantalla de inicio de sesión para acceder a la aplicación, y además recuperar su contraseña o registrarse con sus datos personales. 
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Crear%20proyecto.png)
+Descripción:
+Desde la vista de proyectos, el usuario puede crear nuevos proyectos al seleccionar el botón 'Crear nuevo proyecto'. Al completar correctamente los datos requeridos en el formulario, podrá visualizar la información del nuevo proyecto. 
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Agregar%20material%20y%20maquinaria.png)
+Descripción:
+Desde la vista de gestión de recursos, el usuario puede crear un nuevo material o una nueva maquinaria al presionar el botón 'Agregar' correspondiente. Se mostrará un formulario donde el usuario completará los datos correspondientes y al presionar el botón 'Guardar', verá el nuevo elemento agregado. 
+
+### User goal: Crear un nuevo equipo.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Agregar%20equipos.png)
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear un nuevo equipo al presionar el botón 'Agregar' en la sección de equipos. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará el nuevo equipo. 
+
+### User goal: Agregar un nuevo trabajador.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Agregar%20trabajador.png)
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede agregar un nuevo trabajador al presionar el botón 'Agregar' en la sección de trabajadores. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se agregará al nuevo trabajador. 
+
+### User goal: Crear una nueva tarea.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Agregar%20tareas.png)
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear una nueva tarea al presionar el botón 'Agregar' en la sección de tareas. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará una nueva tarea.
+ 
+### User goal: Crear una nueva carpeta.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Crear%20carpeta.png)
+Descripción:
+Desde la vista de documentos, al seleccionar el botón 'Crear carpeta', el usuario verá un formulario donde podrá ingresar el nombre de la carpeta, y al hacerlo, se creará la nueva carpeta. 
+
+### User goal: Subir un nuevo archivo.
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Subir%20archivos.png)
+Descripción:
+Al seleccionar una carpeta disponible, el usuario puede subir un archivo al hacer clic en 'Subir archivo', donde podrá elegir el nombre de este. 
+
+### User goal: Editar datos personales
+![](/Assets/CHAPTER_IV/Web%20aplications%20wireframes%20and%20wireflows/Editar%20perfil.png)
+Descripción:
+Al estar en la vista configuración, el usuario puede editar su perfil y cambiar su foto de perfil.
+
+### 4.4.3 Web Applications Mock-ups
+
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+Iniciar sesión
+![]()
+Registrarse
+![]()
+Recuperar contraseña
+![]()
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+Vista proyectos
+![]()
+Formulario nuevo proyecto
+![]()
+Nuevo proyecto agregado
+![]()
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+Vista gestión de recursos
+![]()
+Formulario nuevo material
+![]()
+Formulario nueva maquinaria
+![]()
+
+### User goal: Crear un nuevo equipo.
+Vista colaboración y comunicación
+![]()
+Formulario nuevo equipo
+![]()
+
+### User goal: Agregar un nuevo trabajador.
+Vista comunicación y colaboración
+![]()
+Formulario nuevo trabajador
+![]()
+
+### User goal: Crear una nueva tarea.
+Vista comunicación y colaboración
+![]()
+Formulario nueva tarea
+![]()
+
+### User goal: Crear una nueva carpeta.
+Vista documentos – carpetas
+![]()
+Formulario nueva carpeta
+![]()
+
+### User goal: Subir un nuevo archivo.
+Vista documentos – carpeta seleccionada
+![]()
+Formulario nuevo archivo
+![]()
+
+### User goal: Editar datos personales
+Vista datos personales
+![]()
+
+### 4.4.4 Web Applications UserFlow Diagrams
+
+### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
+![]()
+Descripción:
+Al iniciar la aplicación, el usuario se encuentra en la vista de bienvenida, donde podrá seleccionar dos opciones: iniciar sesión, que lo llevará a la pantalla de inicio de sesión para acceder a la aplicación, y además recuperar su contraseña o registrarse con sus datos personales. 
+
+### User goal: Crear un nuevo proyecto y ver información de un proyecto.
+![]()
+Descripción:
+Desde la vista de proyectos, el usuario puede crear nuevos proyectos al seleccionar el botón 'Crear nuevo proyecto'. Al completar correctamente los datos requeridos en el formulario, podrá visualizar la información del nuevo proyecto. 
+
+### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
+![]()
+Descripción:
+Desde la vista de gestión de recursos, el usuario puede crear un nuevo material o una nueva maquinaria al presionar el botón 'Agregar' correspondiente. Se mostrará un formulario donde el usuario completará los datos correspondientes y al presionar el botón 'Guardar', verá el nuevo elemento agregado. 
+
+### User goal: Crear un nuevo equipo.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear un nuevo equipo al presionar el botón 'Agregar' en la sección de equipos. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará el nuevo equipo. 
+
+### User goal: Agregar un nuevo trabajador.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede agregar un nuevo trabajador al presionar el botón 'Agregar' en la sección de trabajadores. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se agregará al nuevo trabajador. 
+
+### User goal: Crear una nueva tarea.
+![]()
+Descripción:
+Desde la vista de comunicación y colaboración, el usuario puede crear una nueva tarea al presionar el botón 'Agregar' en la sección de tareas. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará una nueva tarea.
+ 
+### User goal: Crear una nueva carpeta.
+![]()
+Descripción:
+Desde la vista de documentos, al seleccionar el botón 'Crear carpeta', el usuario verá un formulario donde podrá ingresar el nombre de la carpeta, y al hacerlo, se creará la nueva carpeta. 
+
+### User goal: Subir un nuevo archivo.
+![]()
+Descripción:
+Al seleccionar una carpeta disponible, el usuario puede subir un archivo al hacer clic en 'Subir archivo', donde podrá elegir el nombre de este. 
+
+### User goal: Editar datos personales
+![]()
+Descripción:
+Al estar en la vista configuración, el usuario puede editar su perfil y cambiar su foto de perfil.
+
+## 4.5. Web Applications Prototyping
