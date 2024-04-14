@@ -58,14 +58,12 @@ Finalmente, se implementará un sistema de migas de pan que muestre la ruta de n
 
 ### 4.3.1. Landing Page Wireframe
 
-![](https://lh7-us.googleusercontent.com/jdEvR1k0PFD5xVaye9QS2t9Gu4J9WFBA7NYEvlO56jOoOdNNuWUQxtOX63hGh_6TXEZrfhZdEtFPUS8j8-1FgY8iSCyuXyochMW8u2EbbMXBlwyUHBHvDx0MVWQo9OVEEAZv5qYLafCJe91Fc0eDEB0)
-
+![](https://lh7-us.googleusercontent.com/K7nr0rjfty_dzpdooG_d3BI8LdzkThEq0MF6_VeXETGX2tIzzky6yLwXSktAI7kJSkpGGjK6A4PivN1gJykQ8fHhh_xOty5AdnroMpJ1IJsmeA1y2tPmNev3U6SJ2mhcmdZzLzCVkr4j1u6w-XAorVg)
 Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
 
 ### 4.3.2. Landing Page Mock-up. 6/34 V1.0
 
-![](https://lh7-us.googleusercontent.com/x6wxByr-PRAYL0X6v1HZJYUKFOwqjviRhuA3f3ZdX6PY_rOXAbZytTKXvYHrpW174DP2XzR--lST8UPtRnQfNVTv_acxMrZq2pWfaii4tIjws7IkHQ3UTDKW0zqA2OhRIbk0nEO7cQUKlpwqJZawX3c)
-
+![](https://lh7-us.googleusercontent.com/l_hT2G4fvHGCT3mwCG0aGL1pMCy_A6bvehh4LTgTiQGJvOmUkTPgzv3h1lhMclhAKC2SidEjK3VynvLJxznfyzA3_dehr_6rOC6SwnvJc_7GRHM6tK1HJyhJAq3c0Oz3MWn-bcmkpok73HUg5B55Grw)
 Enlace figma: [https://shorturl.at/adtFZ](https://shorturl.at/adtFZ)
 
 
