@@ -57,7 +57,7 @@ A diferencia de las demás aplicaciones, BuildSphere contará con una interfaz i
 BuildSphere tiene un amplio campo con respecto a la obra, no solo se enfoca en los activos como en varias aplicaciones de nuestros competidores. Se ofrecerá una solución integral por la capacidad de planeación, este producto permitirá seguir la obra desde el punto de inicio hasta su conclusión. Asimismo, brindamos el control de materiales por medio de un inventario, las maquinarias a usar y comunicación en equipo para demostrar nuestro punto.
 
 ### 2.2.2. Registro de Entrevistas
-![Interview1](Assets/Interview1.png)
+![Interview1](/Assets/Interview1.png)
 Entrevistador: Camila Loli
 Entrevistado: Stefany Iturrino Cárdenas
 Duración: 7:41 minutos
@@ -67,7 +67,7 @@ Resumen de la entrevista:
 En la entrevista, Stefany Iturrino, arquitecta en la empresa Aces Arquitectos, nos menciona que sería bastante útil una aplicación que les permita una comunicación a tiempo real y que contenga herramientas para poder facilitar el diseño y otras ramas. El tema sobre la comunicación constante es un punto muy importante debido a que considera que ahorraría bastante tiempo; asimismo, la comunicación a tiempo real brindaría el mismo beneficio porque, lo más importante, es que no tengan la necesidad de movilizarse a cada obra que tienen en desarrollo. A pesar de que usan herramientas conocidas como WhatsApp y Google Drive, no las consideran muy cómodas para la magnitud de información que manejan. También, el mayor dispositivo utilizado por la arquitecta es su computadora portátil. En resumen, al momento de presentarles nuestra propuesta BuildSphere, admitió que sería una muy buena herramienta para el desarrollo de la empresa, que permitiría ahorrar bastante material y prever fallos en las distintas ramas que contiene. Además, nos mencionó que el sistema de alarmas a implementar era una gran idea porque les brinda la oportunidad de revisar cómo van a llevar a cabo su uso de manera que no desperdicien tiempo.
 
 Entrevista 2:
-![Interview2](Assets/Interview2.png)
+![Interview2](/Assets/Interview2.png)
 Entrevistador: Camila Loli
 Entrevistado: Andrea Loli
 Duración: 7:31
@@ -77,29 +77,29 @@ Resumen de la entrevista:
 En la entrevista, Andrea Loli, arquitecta de 25 años que trabaja en ProLima, nos menciona que sería bastante útil mostrar los prototipos de vivienda que se suelen construir desde un principio, para ayudar al cliente a tener una idea de cómo podría ir su proyecto. Además, considera que las herramientas más útiles y un registro de fotos sobre cada día para tener un seguimiento de la obra. En su ambiente de trabajo, el mayor dispositivo que usan es la computadora portátil debido a las facilidades que brindan y solo utilizan Google Drive y WhatsApp, en el cual hay un supervisor de obra y su respectivo de trabajo. De esa manera, se envían fotografías mediante el chat y, en caso haya un problema, el jefe de área irá. Le presentamos nuestra propuesta, ella nos explicó que sería una muy buena solución para el tema del tiempo, de manera que, ese tiempo que sobre, se pueda usar en otras áreas que requieran más atención. Asimismo, como es un punto difícil de trabajo, un programa que les ayude a gestionar las tareas sería un cambio importante para sus métodos.
  
 Entrevista 3:
-![Interview3](Assets/Interview3.png)
+![Interview3](/Assets/Interview3.png)
 Entrevistador: Piero Mendoza
-Entrevistado: Fabio Abelarde
+Entrevistado: Fabio Velarde
 Duración: 
 Link: https://drive.google.com/file/d/1PPmqYpzs1sU6XX6vsJHttUoYVOKKMXnP/view?usp=drive_link
  
 Resumen de la entrevista:
  
-En la entrevista, Fabio Abelarde, trabajador de *no escuché bien qué empresa es* inmobiliaria, comparte que, lo más importante para una aplicación que les pueda facilitar el cumplimiento de tareas es poder acceder a la información del proyecto desde cualquier lugar. De esa forma, se puede avanzar de manera continua y sin causar problemas debido a que todos estarían al tanto de qué cambios se han realizado. Además, señaló que la mayor característica que la aplicación les debe brindar es la comunicación a tiempo real debido a la dificultad de comunicarse en grandes proyectos, de esta forma, se puede medir el avance y saber qué interferencias hay para evitar los errores. Actualmente, utilizan Building Information Modelling para poder ingresar la documentación necesaria y analizarla, para que puedan hallar qué errores se cometieron y deben de arreglar. Asimismo, la implementación de una aplicación que permita dividir los proyectos en hitos y fechas permitirá a la empresa poder entregar en el plazo correspondiente. Finalmente, luego de explicar el funcionamiento de nuestro proyecto para BuildSphere, considera que nuestro producto sería realmente útil para evitar problemas al momento de cada avance y revisión. De esa forma, cada uno trabajaría con la información grupal y no individual, como suele ser.
+En la entrevista, Fabio Velarde, trabajador de Beca Inmobiliaria Peru SAC, comparte que, lo más importante para una aplicación que les pueda facilitar el cumplimiento de tareas es poder acceder a la información del proyecto desde cualquier lugar. De esa forma, se puede avanzar de manera continua y sin causar problemas debido a que todos estarían al tanto de qué cambios se han realizado. Además, señaló que la mayor característica que la aplicación les debe brindar es la comunicación a tiempo real debido a la dificultad de comunicarse en grandes proyectos, de esta forma, se puede medir el avance y saber qué interferencias hay para evitar los errores. Actualmente, utilizan Building Information Modelling para poder ingresar la documentación necesaria y analizarla, para que puedan hallar qué errores se cometieron y deben de arreglar. Asimismo, la implementación de una aplicación que permita dividir los proyectos en hitos y fechas permitirá a la empresa poder entregar en el plazo correspondiente. Finalmente, luego de explicar el funcionamiento de nuestro proyecto para BuildSphere, considera que nuestro producto sería realmente útil para evitar problemas al momento de cada avance y revisión. De esa forma, cada uno trabajaría con la información grupal y no individual, como suele ser.
  
  
 Entrevista 4:
-![Interview4](Assets/Interview4.png)
+![Interview4](/Assets/Interview4.png)
 Entrevistador: Piero Mendoza
 Entrevistado: Martin Araujo
 Duración: 4:40 minutos
 Link: https://drive.google.com/file/d/1tZ9DJ4GpT3plOoY2hmmIN0-ViSf4c2DZ/view?usp=sharing
 Resumen de la entrevista:
  
-En la entrevista, Martin Araujo de 26 años, trabajador de la empresa 1008 arquitectos, en el cual lleva cuatro años laborando, menciona que la especialidad de la empresa son las viviendas de alta densidad, es decir, para albergar a más de 100 personas. Es un movimiento que se ha visto de manera más regular en el país. Asimismo, nos menciona que los desafíos son enfrentados con paciencia y en equipo, una buena planificación. Sin embargo, nos explica que no cuentan con herramientas tecnológicas especiales para el rubro, lo cual complica el cumplimiento de las tareas. Es por ello que, al momento de presentarles nuestro producto, obtuvimos una respuesta positiva. BuildSphere implicaría una mejora exponencial en los aspectos de organización, inventario, etc.
+En la entrevista, Martin Araujo de 26 años, trabajador de la empresa 1018 arquitectos, en el cual lleva cuatro años laborando, menciona que la especialidad de la empresa son las viviendas de alta densidad, es decir, para albergar a más de 100 personas. Es un movimiento que se ha visto de manera más regular en el país. Asimismo, nos menciona que los desafíos son enfrentados con paciencia y en equipo, una buena planificación. Sin embargo, nos explica que no cuentan con herramientas tecnológicas especiales para el rubro, lo cual complica el cumplimiento de las tareas. Es por ello que, al momento de presentarles nuestro producto, obtuvimos una respuesta positiva. BuildSphere implicaría una mejora exponencial en los aspectos de organización, inventario, etc.
  
 Entrevista 5:
-![Interview5](Assets/Interview5.png)
+![Interview5](/Assets/Interview5.png)
 Entrevistador: Eduardo Ventura
 Entrevistado: Sebastian Ventura Chancafe
 Duración: 7:51
@@ -109,7 +109,7 @@ Resumen de la entrevista:
 En la entrevista, Sebastian Ventura, practicante de 22 años que trabaja en el sector estructural de la empresa Ulma Encofrados y Andamios. El desafío principal identificado por el practicante, dentro de su sector, es la magnitud de percances que se presentan con el uso de los materiales, especialmente, el concreto. Dependiendo de la hora, los problemas pueden variar de que el concreto se seque o se fragüe. Asimismo, señala que, para poder gestionar el tiempo y recursos para sus proyectos, se guían de los superiores asignados para crear un plan de acción un día antes o un fin de semana antes para llevarlo a cabo. Además, como forma de evitar pérdida de tiempo, dejan algunas horas extras o libres para arreglar los posibles errores cometidos. Lamentablemente, no cuentan con ninguna herramienta tecnológica, lo cual genera que estén en busca de uno eficiente y completo. Es por ello que se le presentó nuestro producto BuildSphere, con las características que contará, y reaccionó de forma positiva. Específicamente porque tiene la opción de conversar constantemente con los clientes, que es muy importante si se trata de una persona está haciendo el proyecto de manera independiente.
  
 Entrevista 6:
-![Interview6](Assets/Interview6.png)
+![Interview6](/Assets/Interview6.png)
 Entrevistador: Eduardo Ventura
 Entrevistado: Juan Venture Damián
 Duración: 10:07
