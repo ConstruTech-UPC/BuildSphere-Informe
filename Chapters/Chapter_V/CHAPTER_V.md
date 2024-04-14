@@ -15,8 +15,8 @@ En esta sección se describirán los productos para el desarrollo de software qu
 - [**Miro**](https://miro.com/): La aplicación web de Miro ha sido utilizada en el desarrollo de los escenarios mapping y customer journey map
 ### Software Development
 - **Landing Page**: Para la realización del landing page se utilizarán las tecnologías de: HTML5, CSS3 y JavaScript. Además, para realizar un óptimo desarrollo para la forma responsiva, se utilizará el framework de BootStrap.
-- **Frontend Web Application**: Para la realización del está sección de nuestra aplicación web se usarán las mismas tecnologías que en el Landing Page. Adicionalmente, nos estaremos apoyando del framework Vue para su realización como librería complementaria de JavaScript.
-- **Herramientas:** Node, npm, Vite
+- **Frontend Web Application**: Para la realización del está sección de nuestra aplicación web se usarán las mismas tecnologías que en el Landing Page. Adicionalmente, nos estaremos apoyando del framework Angular para su realización como librería complementaria de JavaScript.
+- **Herramientas:** Node, npm, ng
 ### Web Services
 Para los diversos servicios web que se desarrollaran, se empleará el estilo de arquitectura RESTful API. Se usará el lenguaje C#, ya que estaremos usando ASP .NET.
 ### IDE's de desarrollo
