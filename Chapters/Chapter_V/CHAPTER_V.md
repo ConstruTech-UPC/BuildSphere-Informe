@@ -197,4 +197,35 @@ Para el lenguaje de programación TypeScript que se utilizará en el entorno fro
 - Ejecución de Código Post-Inicio: Implementaremos ApplicationRunner o CommandLineRunner para ejecutar cualquier configuración o lógica de inicialización que necesite tener lugar justo después de que la aplicación haya arrancado.
 - Salida de la Aplicación: Aseguraremos una salida y limpieza elegantes del contexto de la aplicación cuando se cierre, mediante el gancho de apagado que SpringApplication registra en la JVM.
 
+# 5.2. Landing Page, Services & Applications Implementation.
+## 5.2.1. Sprint 1
+## 5.2.1.1 Sprint 1
+
+## Sprint Planning Background
+
+| Attribute               | Detail                                          |
+|-------------------------|-------------------------------------------------|
+| **Date**                | 2024/04/07                                      |
+| **Time**                | 11:00 AM                                        |
+| **Location**            | Modalidad virtual, uso de Google Meets          |
+| **Prepared by**         | ConstruTech                                      |
+| **Attendees**           | Camila Loli                                     |
+
+## Sprint n - 0 Review Summary
+
+| Review Summary          | Detail                                          |
+|-------------------------|-------------------------------------------------|
+| **Previous Sprints**    | No hay Sprints anteriores, por lo tanto, no aplica. |
+
+## Sprint n - 1 Retrospective Summary
+
+| Retrospective Summary   | Detail                                          |
+|-------------------------|-------------------------------------------------|
+| **Summary**             | En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue. |
+
+## Sprint Goal & User Stories
+
+| Sprint Goal             | User Stories                                    | Velocity | Sum of Story Points |
+|-------------------------|-------------------------------------------------|----------|---------------------|
+| Lograr la creación de la Landing Page a partir de las user stories del Sprint Backlog 1 y su respectivo despliegue. | - | 10       | 8                   |
 
