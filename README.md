@@ -49,9 +49,3 @@
 - [Capítulo V: Product Implementation, Validation & Deployment](Chapters/Chapter_V/CHAPTER_V.md)
 
 
-
-# Student Outcome
-| Criterio específico   | Acciones realizadas   | Conclusiones    |
-|----------------------|------------------------|-------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Alumno 2 <br> **TB1:** <br> Acción 1 <br> Acción 2 <br> Acción 3 <br> Acción 4 <br> Acción 5 <br> Acción 6 | **TB1** <br> Conclusiones del alumno 2 |uada. <br><br> Arrieta, Leonardo<br> **TB1:** <br> Investigue sobre nuevos proyectos de software que busquen solucionar problemas comunes para tener ideas y plantear posibles soluciones que busquen resolver dichos problemas. | **TB1** <br> Durante la fase de elaboración, nuestro equipo utilizó principalmente la plataforma Discord como canal de comunicación para coordinar los diferentes subentregables establecidos para el proyecto, con el fin de completar cada sección a tiempo. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Alumno 2 <br> **TB1:** <br> Acción 1 <br> Acción 2 <br> Acción 3 <br> Acción 4 <br> Acción 5 <br> Acción 6 | **TB1** <br> Conclusiones del alumno 2 | de mis entrevistas. Además, concreté los artefactos de los To-be Scenary Mapping e Impacts Maps. Asimismo, estuve involucrado en la redacción de las User Stories y el Product Backlog. <br><br> Arrieta, Leonardo<br> **TB1:** <br>Participé activamente en las reuniones de coordinación a través de mi contribución verbal. Además, llevé a cabo la entrevista asignada y cumplí con todas las tareas que se me habían asignado.| **TB1** <br> Para mantenernos en comunicación y trabajar de manera sincronizada y activa, el equipo utilizó la herramienta Discord. Esto nos permitió ver en tiempo real los avances de cada miembro del equipo, lo que facilitó el apoyo a aquellos que lo necesitaban. |
