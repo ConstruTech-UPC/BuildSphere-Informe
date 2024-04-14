@@ -182,106 +182,106 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
 Iniciar sesión
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/IniciarSesionVacio.png)
 Registrarse
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/RegistroVacio.png)
 Recuperar contraseña
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/IniciarSesionVacio%20aa.png)
 
 ### User goal: Crear un nuevo proyecto y ver información de un proyecto.
 Vista proyectos
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/PROYECTOS.png)
 Formulario nuevo proyecto
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/PROYECTOS%20-%20Formulario%20proyecto.png)
 Nuevo proyecto agregado
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/PROYECTOS%20-%20Proyecto%20añadido.png)
 
 ### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
 Vista gestión de recursos
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/GESTION%20DE%20RECURSOS.png)
 Formulario nuevo material
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/GESTION%20DE%20RECURSOS%20-%20Formulario%20materiales.png)
 Formulario nueva maquinaria
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/GESTION%20DE%20RECURSOS%20-%20Formulario%20maquinaria.png)
 
 ### User goal: Crear un nuevo equipo.
 Vista colaboración y comunicación
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION.png)
 Formulario nuevo equipo
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION%20-%20Formulario%20equipos.png)
 
 ### User goal: Agregar un nuevo trabajador.
 Vista comunicación y colaboración
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION.png)
 Formulario nuevo trabajador
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION%20-%20Formulario%20trabajadores.png)
 
 ### User goal: Crear una nueva tarea.
 Vista comunicación y colaboración
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION.png)
 Formulario nueva tarea
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/COMUNICACION%20Y%20COLABORACION%20-%20Formalario%20tareas.png)
 
 ### User goal: Crear una nueva carpeta.
 Vista documentos – carpetas
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/DOCUMENTOS.png)
 Formulario nueva carpeta
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/DOCUMENTOS%20-%20Formulario%20grupo.png)
 
 ### User goal: Subir un nuevo archivo.
 Vista documentos – carpeta seleccionada
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/DOCUMENTOS%20-%20Archivo%20d.png)
 Formulario nuevo archivo
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/DOCUMENTOS%20-%20Archivo.png)
 
 ### User goal: Editar datos personales
 Vista datos personales
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/CONFIGURACION.png)
 
 ### 4.4.4 Web Applications UserFlow Diagrams
 
 ### User goal: Iniciar sesión, registro de un nuevo usuario y recuperación de contraseña.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Iniciar%20sesion,%20registrarse%20y%20recupera%20contraseña.png)
 Descripción:
 Al iniciar la aplicación, el usuario se encuentra en la vista de bienvenida, donde podrá seleccionar dos opciones: iniciar sesión, que lo llevará a la pantalla de inicio de sesión para acceder a la aplicación, y además recuperar su contraseña o registrarse con sus datos personales. 
 
 ### User goal: Crear un nuevo proyecto y ver información de un proyecto.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Crear%20proyecto.png)
 Descripción:
 Desde la vista de proyectos, el usuario puede crear nuevos proyectos al seleccionar el botón 'Crear nuevo proyecto'. Al completar correctamente los datos requeridos en el formulario, podrá visualizar la información del nuevo proyecto. 
 
 ### User goal: Agregar un nuevo material y agregar una nueva maquinaria.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Agregar%20material%20y%20maquinaria.png)
 Descripción:
 Desde la vista de gestión de recursos, el usuario puede crear un nuevo material o una nueva maquinaria al presionar el botón 'Agregar' correspondiente. Se mostrará un formulario donde el usuario completará los datos correspondientes y al presionar el botón 'Guardar', verá el nuevo elemento agregado. 
 
 ### User goal: Crear un nuevo equipo.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Agregar%20equipo.png)
 Descripción:
 Desde la vista de comunicación y colaboración, el usuario puede crear un nuevo equipo al presionar el botón 'Agregar' en la sección de equipos. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará el nuevo equipo. 
 
 ### User goal: Agregar un nuevo trabajador.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Agregar%20trabajador.png)
 Descripción:
 Desde la vista de comunicación y colaboración, el usuario puede agregar un nuevo trabajador al presionar el botón 'Agregar' en la sección de trabajadores. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se agregará al nuevo trabajador. 
 
 ### User goal: Crear una nueva tarea.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Agregar%20nueva%20%20tarea.png)
 Descripción:
 Desde la vista de comunicación y colaboración, el usuario puede crear una nueva tarea al presionar el botón 'Agregar' en la sección de tareas. Aparecerá un formulario que deberá completar con los datos correctos y al hacerlo, se creará una nueva tarea.
  
 ### User goal: Crear una nueva carpeta.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Agregar%20carpeta.png)
 Descripción:
 Desde la vista de documentos, al seleccionar el botón 'Crear carpeta', el usuario verá un formulario donde podrá ingresar el nombre de la carpeta, y al hacerlo, se creará la nueva carpeta. 
 
 ### User goal: Subir un nuevo archivo.
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Subir%20archivo.png)
 Descripción:
 Al seleccionar una carpeta disponible, el usuario puede subir un archivo al hacer clic en 'Subir archivo', donde podrá elegir el nombre de este. 
 
 ### User goal: Editar datos personales
-![]()
+![](/Assets/CHAPTER_IV/Web%20aplications%20mock-ups%20and%20userflows/Cambiar%20datos.png)
 Descripción:
 Al estar en la vista configuración, el usuario puede editar su perfil y cambiar su foto de perfil.
 
