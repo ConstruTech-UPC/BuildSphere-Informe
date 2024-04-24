@@ -12,19 +12,19 @@ Nuestro enfoque está en redefinir la eficiencia operativa en el sector de la co
 #### 1.1.2 Perfiles de integrantes del equipo
 
 ##### Alvaro Crispin Ccancce - 
-![Alvaro Crispin](Assets/AlvaroCrispin.jpeg)
+![Alvaro Crispin](/Assets/AlvaroCrispin.jpeg)
 Soy un estudiante universitario de séptimo ciclo de Ingeniería de Software. Me desempeño correctamente en equipo y de manera organizada. Siempre dedicado y comprometido para lograr los objetivos propuestos. Conocimientos en C++, HTML, JavaScript, BootsTrap y Kotlin. Mi meta personal es lograr que las personas puedan aprender a proteger sus datos, dentro de los sistemas, de manera sencilla.
 
 ##### Eduardo Renato Ventura Chancafe - U202212645
-![Eduardo Ventura](Assets/EduardoVentura.jpeg)
+![Eduardo Ventura](/Assets/EduardoVentura.jpeg)
 Estudiante universitario que cursa su 5to ciclo. Dentro del startup me encargo con el desarrollo del diseño ,QA y gestión del equipo, pues tengo conocimientos adicionales a los de mi sector. Además, apoyaré en el desarrollo del código trabajando de forma cohesionada con mis compañeros. Asimismo, cuento con conocimientos en herramientas como HTML, CSS, JavaScript, Python, C++, Cypress, NodeJs, NestJs y Agile Project Management.
 
 ##### Camila Cristina Loli Ramirez - U202110385
-![Camila Loli](Assets/CamilaLoli.jpeg)
+![Camila Loli](/Assets/CamilaLoli.jpeg)
 Soy estudiante de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.
 
 ##### Carlos Andres Rojas Ccama - U202114657
-![Carlos Rojas](Assets/CarlosRojas.jpeg)
+![Carlos Rojas](/Assets/CarlosRojas.jpeg)
 Estudió la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con la lógica, más que todo está asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Tengo conocimientos de C++, python, html y css. Me considero una persona amable y dar ideas, especialmente en grupos. Un trabajo en equipo consiste en la comunicación y dar opiniones.
 
 ##### Mendoza Pimentel, Piero - U20193446
