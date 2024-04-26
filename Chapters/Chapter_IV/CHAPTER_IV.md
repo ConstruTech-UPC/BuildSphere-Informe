@@ -292,9 +292,13 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 
 ## 4.6. Domain-Driven Software Architecture.
-4.6.1. Software Architecture Context Diagram. 
+**4.6.1. Software Architecture Context Diagram.**  <br>
 ![](/Assets/ContextDiagram.png)
-4.6.2. Software Architecture Container Diagrams. 
+**4.6.2. Software Architecture Container Diagrams.**   <br>
 ![](/Assets/ContainerDiagram.png)
-4.6.3. Software Architecture Components Diagrams. 
-![](/Assets/ComponentsDiagram.png)
+**4.6.3. Software Architecture Components Diagrams.** <br>
+**Single-Page Application (SPA) Components Diagram** <br>
+![](/Assets/ComponentsDiagramSPA.png) <br>
+**API Application Diagram** <br>
+![](/Assets/ComponentsDiagram.png) 
+
