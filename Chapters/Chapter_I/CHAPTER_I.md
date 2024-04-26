@@ -11,24 +11,47 @@ Nuestro enfoque está en redefinir la eficiencia operativa en el sector de la co
 
 #### 1.1.2 Perfiles de integrantes del equipo
 
-##### Alvaro Crispin Ccancce - 
-![Alvaro Crispin](/Assets/AlvaroCrispin.jpeg)
+##### Alvaro Crispin Ccancce - U202020328
+<div align="center">
+<img src="/Assets/AlvaroCrispin.jpeg" alt="Alvaro Crispin" width="300" height="400"/> <br>
+</div>
+<br>
 Soy un estudiante universitario de séptimo ciclo de Ingeniería de Software. Me desempeño correctamente en equipo y de manera organizada. Siempre dedicado y comprometido para lograr los objetivos propuestos. Conocimientos en C++, HTML, JavaScript, BootsTrap y Kotlin. Mi meta personal es lograr que las personas puedan aprender a proteger sus datos, dentro de los sistemas, de manera sencilla.
+<br>
 
 ##### Eduardo Renato Ventura Chancafe - U202212645
-![Eduardo Ventura](/Assets/EduardoVentura.jpeg)
+<div align="center">
+<img src="/Assets/EduardoVentura.jpeg" alt="Eduardo Ventura" width="300" height="400"/> <br>
+</div>
+<br>
 Estudiante universitario que cursa su 5to ciclo. Dentro del startup me encargo con el desarrollo del diseño ,QA y gestión del equipo, pues tengo conocimientos adicionales a los de mi sector. Además, apoyaré en el desarrollo del código trabajando de forma cohesionada con mis compañeros. Asimismo, cuento con conocimientos en herramientas como HTML, CSS, JavaScript, Python, C++, Cypress, NodeJs, NestJs y Agile Project Management.
+<br>
 
 ##### Camila Cristina Loli Ramirez - U202110385
-![Camila Loli](/Assets/CamilaLoli.jpeg)
+<div align="center">
+<img src="/Assets/CamilaLoli.jpeg" alt="Camila Loli" width="300" height="300"/> <br>
+</div>
+<br>
 Soy estudiante de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.
+<br>
 
 ##### Carlos Andres Rojas Ccama - U202114657
-![Carlos Rojas](/Assets/CarlosRojas.jpeg)
-Estudió la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con la lógica, más que todo está asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Tengo conocimientos de C++, python, html y css. Me considero una persona amable y dar ideas, especialmente en grupos. Un trabajo en equipo consiste en la comunicación y dar opiniones.
 
-##### Mendoza Pimentel, Piero - U20193446
+<div align="center">
+<img src="/Assets/CarlosRojas.jpeg" alt="Carlos Rojas" width="300" height="280"> <br>
+</div>
+<br>
+Estudió la carrera de Ingeniería de Software. Mi carrera consiste en crear softwares inteligentes y sistemas informáticos usando un lenguaje de programación con la lógica, más que todo está asociado a la tecnología, herramientas para el diseño, mantenimiento de software, etc. Tengo conocimientos de C++, python, html y css. Me considero una persona amable y dar ideas, especialmente en grupos. Un trabajo en equipo consiste en la comunicación y dar opiniones.
+<br>
+
+##### Piero Mendoza Pimentel - U20193446
+<div align="center">
+<img src="/Assets/Piero%20Mendoza.jpg" alt="Carlos Rojas" width="300" height="400"> <br>
+</div>
+<br>
+
 Soy estudiante de Ingeniería de Software. En el transcurso de mis estudios universitarios he aprendido lenguajes como C++, Python y JavaScript. En este curso espero poder entender y aplicar lo aprendido para poder mejorar mis conocimientos.
+<br>
 
 ### 1.2. Solution Profile
 BuildSphere de ConstruTech Group redefine la gestión de proyectos de construcción al optimizar procesos clave como la gestión de materiales y maquinaria, y la comunicación y planificación del proyecto. Su sistema de inventario inteligente previene el desperdicio al predecir necesidades de materiales, mientras que el seguimiento de adquisiciones automatiza pedidos y planificación logística. 
@@ -40,8 +63,53 @@ Nuestro producto de software ofrece dos planes de suscripción diseñados para a
 #### 1.2.1. Antecedentes y Problemáticas
 **Problemática**: La industria de la construcción enfrenta desafíos críticos debido a la gestión ineficiente de materiales y maquinaria, junto con una comunicación fragmentada entre los actores del proyecto. La inadecuada gestión de inventario conduce a desperdicios y retrasos, mientras que la coordinación deficiente en el uso de maquinaria incrementa los costos por inactividad y mantenimiento. Además, la falta de un sistema unificado para el intercambio de información resulta en errores y retrasos en la ejecución de obras. La ausencia de herramientas para el seguimiento en tiempo real y la gestión de incidentes dificulta una respuesta rápida a contratiempos, comprometiendo la eficiencia, rentabilidad y éxito de los proyectos. Estos problemas subrayan la urgente necesidad de digitalización y optimización en el sector, haciendo evidente el vacío que BuildSphere busca llenar.
 
+##### Las "5W y 2H"
+
+###### WHAT
+* **¿Cuál es el problema?** <br>
+El problema radica en la gestión ineficiente de los recursos en proyectos de construcción, que conlleva a desperdicios significativos de materiales, subutilización de la maquinaria, y retrasos en los cronogramas. Esto se debe a una planificación inadecuada, seguimiento deficiente y comunicación fragmentada entre los diferentes actores del proyecto.
+
+* **¿Cuál es la relación con la persona en cuestión?** <br>
+Los involucrados en el proyecto, desde contratistas hasta ingenieros, enfrentan el desafío de coordinar eficazmente sus actividades, asegurar el uso óptimo de los recursos y mantener una comunicación fluida, lo que afecta directamente la rentabilidad y el éxito de sus proyectos.
+
+###### WHEN
+* **¿Cuándo sucede el problema?** <br>
+El problema se presenta a lo largo de todas las etapas del proyecto de construcción, desde la planificación inicial hasta la ejecución final. Se intensifica especialmente en momentos de alta demanda de recursos o cuando se requiere una coordinación intensiva entre diferentes equipos.
+
+* **¿Cuándo utiliza el cliente el producto?** <br>
+El cliente utiliza BuildSphere durante todo el ciclo de vida del proyecto de construcción para planificar, monitorear, y ajustar la gestión de recursos y la comunicación entre los equipos, asegurando así un flujo de trabajo eficiente y cohesivo.
+
+###### WHERE
+* **¿Dónde está el cliente cuando usa el producto?** <br>
+El cliente utiliza BuildSphere en cualquier lugar donde tenga acceso a una conexión de internet, ya sea en la oficina, en el sitio de construcción, o remotamente, permitiendo una supervisión y gestión constantes del proyecto.
+
+* **¿A dónde se dirige?** <br>
+El cliente se dirige hacia una gestión de proyecto más integrada y eficiente, donde BuildSphere actúa como el nexo central entre todas las fases de construcción y los participantes del proyecto.
+
+* **¿Dónde surge el problema?** <br>
+El problema surge en el campo de la construcción, donde la falta de herramientas adecuadas impide una gestión eficaz de los recursos y una comunicación efectiva entre los involucrados en el proyecto.
+
+###### WHO
+* **¿Quiénes están involucrados?** <br>
+Están involucrados todos los actores de un proyecto de construcción, incluyendo gerentes de proyecto, contratistas, ingenieros, arquitectos y trabajadores.
+
+* **¿A quiénes le sucede el problema?** <br>
+El problema afecta a todos los participantes en el proyecto de construcción, pero impacta principalmente a los gerentes de proyecto y contratistas responsables de la entrega a tiempo y dentro del presupuesto.
+
+* **¿Quién lo utilizará?** <br>
+BuildSphere está diseñado para ser utilizado por profesionales de la construcción que buscan mejorar la eficiencia, la comunicación y la gestión de recursos en sus proyectos.
+
+###### WHY
+* **¿Cuál es la causa del problema?** <br>
+La causa del problema es la falta de herramientas integradas que permitan una planificación eficiente, seguimiento en tiempo real y comunicación efectiva entre los diferentes actores del proyecto de construcción.
+
+###### HOW
+* **¿Cómo usan mi producto?** <br>
+Los usuarios emplean BuildSphere para planificar recursos, asignar maquinaria, comunicarse con el equipo, y monitorear el progreso del proyecto en tiempo real a través de una interfaz intuitiva y accesible desde cualquier dispositivo conectado a internet.
+
+
 ###### HOW MUCH
-* **Estadística de la problemática**
+* **Estadística de la problemática** <br>
 Según la investigación realizada por Marco Galarza Meza para su tesis de título de Ingeniero Civil - basada en dos edificaciones, en este caso, viviendas -, se puede analizar la estadística de desperdicio en materiales correspondientes a una construcción. Para la investigación, el primer edificio se denomina como “A” y el segundo como “B”. La obra A contiene diecisiete pisos, en cada uno hay dos departamentos, en el primero solo hay uno (en total, treinta y tres departamentos); asimismo, cuenta con tres sótanos y  un semisótano. Mientras que la obra B tiene dieciocho pisos; al igual que con la obra previamente mencionada, solo el primer piso cuenta con un departamento, el resto cuenta con dos, además, los cuatro sótanos contienen sesenta y siete estacionamientos y treinta y tres depósitos. 
 Acorde a las distintas fórmulas que aplicó el tesista, se demostró que ambas obras cuentan con un desperdicio de ladrillos de 0.58%, material comúnmente usado para las construcciones. 
 En el caso de la obra A, hay un desperdicio de 90% de cemento , eso se debió al error de los trabajadores al realizar la mezcla. A pesar de que ese error fue solucionado, igual hubo una pérdida de 42% del material en los meses siguientes.
@@ -119,7 +187,7 @@ Nuestro producto debe presentar una interfaz clara y fácil de usar, con funcion
   **Cuando** incrementemos la utilización de maquinaria en un 20% en todos los proyectos gestionados a través de nuestra plataforma.
 - **Creemos que** proporcionar capacidades para el monitoreo en tiempo real del avance de los proyectos de construcción 
   **Sabremos que** hemos tenido éxito
-  **Cuando** consigamos reducir en un 15% los retrasos en la entrega de proyectos.
+  **Cuando** consigamos reducir en un 15% los retrasos en la entrega de proyectos. <br> 
 ##### 1.2.2.1. Lean UX Canvas
 <table><tr><th valign="top"><p><b>1. Business Problem</b> </p><p>El problema central en la gestión de proyectos de construcción reside en la ineficiencia operativa, que se manifiesta a través del desperdicio significativo de materiales y la subutilización de maquinaria, lo que se atribuye a la falta de herramientas de planificación y seguimiento precisas. Además, se enfrenta una comunicación fragmentada y poco fiable entre todos los actores involucrados, desde ingenieros y arquitectos hasta contratistas y trabajadores. Estas deficiencias operativas conducen a un aumento en los costos directos e indirectos, extensión de los plazos de entrega, y un impacto adverso en la calidad final de las obras, poniendo en riesgo la rentabilidad y la sostenibilidad de los proyectos. Este conjunto de problemas señala una necesidad urgente de digitalización y optimización procesal, resaltando la importancia de una solución integral como BuildSphere para transformar y modernizar la industria de la construcción hacia la eficiencia y la excelencia operativa.</p></th><th rowspan="2" valign="top"><p><b>5. Solutions</b> </p><p>- Una herramienta que utilice datos históricos y tendencias de proyectos para predecir las necesidades de materiales y reducir el desperdicio. Esto puede incluir alertas anticipadas cuando los niveles de inventario están bajando y sugerencias automáticas de pedidos.</p><p>- Un módulo dentro de la aplicación que permita la programación y seguimiento de toda la maquinaria de construcción, incluyendo la planificación de mantenimiento preventivo y reparaciones, para asegurar el máximo tiempo de actividad.</p><p>- Un sistema de mensajería integrado que permita la comunicación instantánea entre los ingenieros civiles, subcontratistas, proveedores y demás partes interesadas del proyecto, con la capacidad de compartir documentos, imágenes y actualizaciones de estado.</p><p>- Dashboards que proporcionen a los usuarios un análisis en tiempo real del progreso del proyecto, incluyendo el seguimiento del presupuesto, la eficiencia de la mano de obra y el cumplimiento de los plazos, todo personalizable para atender las necesidades específicas de cada proyecto.</p></th><th valign="top"><p><b>2. Business Outcomes</b>  </p><p>- Incremento en el porcentaje de proyectos completados en o antes de la fecha de entrega prevista.</p><p>- Disminución en el promedio de gastos operativos de construcción por proyecto, incluyendo costos de materiales y maquinaria.</p><p>- Reducción medible en el porcentaje de materiales desperdiciados.</p><p>- Disminución en el tiempo de inactividad de maquinaria pesada por una planificación más eficaz y mantenimiento preventivo.</p></th></tr>
 <tr><td valign="top"><p><b>3. Users</b> </p><p>- Profesionales autónomos o que operan pequeñas empresas de construcción. Estos usuarios buscan soluciones accesibles para gestionar proyectos de menor escala con eficiencia, integrando todas las etapas de construcción, desde el diseño hasta la entrega final.</p><p>- Encargados de liderar y coordinar múltiples proyectos de construcción simultáneamente, necesitando herramientas avanzadas para el seguimiento en tiempo real, la planificación logística y la gestión de recursos a gran escala.</p></td><td valign="top"><p><b>4. Users Outcomes & Benefits</b> </p><p><b>Maximización de la Eficiencia Operativa</b></p><p>Los ingenieros civiles y gerentes de proyecto podrán gestionar sus recursos con mayor precisión, minimizando el desperdicio de materiales y optimizando el uso de maquinaria, lo que se traduce en una reducción de costos y tiempos de proyecto.</p><p><b>Mejora en la Colaboración y Comunicación</b></p><p>La coordinación entre diferentes equipos se hace más eficaz gracias a la comunicación en tiempo real, mejorando la toma de decisiones y evitando malentendidos que pueden llevar a errores costosos.</p><p></p><p><b>Agilidad en la Planificación y Respuesta en Cambios</b></p><p>La capacidad de monitorizar y ajustar la planificación de proyectos en tiempo real permite a los usuarios responder rápidamente a imprevistos, manteniendo los proyectos en curso y dentro de los plazos establecidos.</p></td></tr>
@@ -127,9 +195,9 @@ Nuestro producto debe presentar una interfaz clara y fácil de usar, con funcion
 </table>
 
 ### 1.3 Segmentos objetivo
-Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
-**Contratistas Independientes y Pequeñas Empresas Constructoras:**
+Nuestro segmento objetivo está compuesto por dos tipos de usuarios: <br>
+**Contratistas Independientes y Pequeñas Empresas Constructoras:** <br>
 Este segmento está enfocado en contratistas independientes y pequeñas empresas constructoras que se especializan en proyectos de menor escala, como la construcción o renovación de viviendas unifamiliares, pequeños locales comerciales o proyectos de remodelación específicos. Estos usuarios valoran la simplicidad, la eficiencia y la flexibilidad debido a sus recursos limitados y la necesidad de maximizar la rentabilidad de cada proyecto.
 
-**Grandes Empresas de Construcción:**
+**Grandes Empresas de Construcción:** <br>
 Dirigido a grandes empresas de construcción involucradas en la gestión de múltiples proyectos de construcción simultáneamente, tales como desarrollos de viviendas multifamiliares, grandes infraestructuras y proyectos comerciales de gran escala. Este segmento enfrenta desafíos relacionados con la complejidad de coordinar vastos recursos humanos y materiales, gestionar cadenas de suministro extensas y mantener la comunicación entre múltiples equipos y subcontratistas.
