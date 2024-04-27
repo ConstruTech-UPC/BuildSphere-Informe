@@ -292,3 +292,4 @@ Por último, organizamos e identificamos las ideas realizadas anteriormente seg�
 - **Capacitación:**
 
   Entrenamiento ofrecido a los usuarios para maximizar el uso de la app
+

@@ -197,37 +197,27 @@ Para el lenguaje de programación TypeScript que se utilizará en el entorno fro
 - Ejecución de Código Post-Inicio: Implementaremos ApplicationRunner o CommandLineRunner para ejecutar cualquier configuración o lógica de inicialización que necesite tener lugar justo después de que la aplicación haya arrancado.
 - Salida de la Aplicación: Aseguraremos una salida y limpieza elegantes del contexto de la aplicación cuando se cierre, mediante el gancho de apagado que SpringApplication registra en la JVM.
 
+## 5.1.4. Software Deployment Configuration.
+Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, esta plataforma permite a los desarrolladores contruir, desplegar y esscalar aplicaciones front-end sin necesidad de servidores. Decidimos usar esta plataforma debido a la facilidad que nos brinda, solo necesitamos colocar el repositorio de nuestra Landing Page para que la despliegue sin problemas, es un proceso automatizado y rápido.
+
 # 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.1. Sprint 1
-## 5.2.1.1 Sprint 1
+## 5.2.1.1 Sprint Planning 1
 
-## Sprint Planning Background
-
-| Attribute               | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Date**                | 2024/04/07                                      |
-| **Time**                | 11:00 AM                                        |
-| **Location**            | Modalidad virtual, uso de Google Meets          |
-| **Prepared by**         | ConstruTech                                      |
-| **Attendees**           | Camila Loli                                     |
-
-## Sprint n - 0 Review Summary
-
-| Review Summary          | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Previous Sprints**    | No hay Sprints anteriores, por lo tanto, no aplica. |
-
-## Sprint n - 1 Retrospective Summary
-
-| Retrospective Summary   | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Summary**             | En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue. |
-
-## Sprint Goal & User Stories
-
-| Sprint Goal             | User Stories                                    | Velocity | Sum of Story Points |
-|-------------------------|-------------------------------------------------|----------|---------------------|
-| Lograr la creación de la Landing Page a partir de las user stories del Sprint Backlog 1 y su respectivo despliegue. | - | 10       | 8                   |
+| Sprint #                               | Sprint 1                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background             |
+| **Date**                               | 2024/04/07                                                                                                                                                                                                                                                                                                                          |
+| **Time**                               | 11:00 AM                                                                                                                                                                                                                                                                                                                            |
+| **Location**                           | Modalidad virtual, uso de Google Meets                                                                                                                                                                                                                                                                                              |
+| **Prepared by**                        | ConstruTech                                                                                                                                                                                                                                                                                                                         |
+| **Attendees (to planning meeting)**    | ConstruTech                                                                                                                                                                                                                                                                                                                         |
+| **Sprint n - 0 Review Summary**        | No hay Sprints anteriores, por lo tanto, no aplica.                                                                                                                                                                                                                                                                                 |
+| **Sprint n - 1 Retrospective Summary** | En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue.  |
+| **Sprint Goal & User Stories**         |
+| **Sprint 1 Goal**                      |
+| **Sprint 1 Velocity**                  |
+| **Sum of Story Points**                |
 
 ### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -245,3 +235,27 @@ Para el lenguaje de programación TypeScript que se utilizará en el entorno fro
 </table>
 
 ### 5.2.1.5 Execution Evidence for Sprint Review
+
+## 5.2.1.8. Team Collaboration Insights during Sprint.
+Se representan los commits y actividad del grupo durante el Sprint 1. En este caso, es sobre el avance de la Landing Page.
+
+![](/Assets/InsightsSprint1A.png)
+![](/Assets/InsightsSprint1B.png)
+
+## 5.2.2. Sprint 2
+## 5.2.2.1 Sprint Planning 2
+
+| Sprint #                               | Sprint 1                                                                                                                                                                                                                |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background             |
+| **Date**                               | 2024/04/22                                                                                                                                                                                                              |
+| **Time**                               | 12:00 PM                                                                                                                                                                                                                |
+| **Location**                           | Modalidad virtual, uso de Google Meets                                                                                                                                                                                  |
+| **Prepared by**                        | ConstruTech                                                                                                                                                                                                             |
+| **Attendees (to planning meeting)**    | ConstruTech                                                                                                                                                                                                             |
+| **Sprint n - 1 Review Summary**        | Se desplegó la Landing Page en Vercel y se empezó la planificación del Front-End de la aplicación                                                                                                                       |
+| **Sprint n - 2 Retrospective Summary** | Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core). |
+| **Sprint Goal & User Stories**         |
+| **Sprint 2 Goal**                      |
+| **Sprint 2 Velocity**                  |
+| **Sum of Story Points**                |
