@@ -195,7 +195,12 @@ En esta sección, presentamos los User Journey Maps para nuestros dos segmentos 
 ### User Journey Mapping: Grandes empresas de construcción
 
 ![](/Assets/CHAPTER_II/Mónica%20Rodríguez%20Journey%20map.png)
-### 2.3.4
+### 2.3.4 Empathy Mapping
+
+![foto_empathy_mappingv1](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/empathy_mappingv1.png)
+
+![foto_empathy_mappingv2](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/empathy_mappingv2.png)
+
 ### 2.3.5 As - Is Scenario Mapping
 **As-is del segmento pequeñas y medianas constructoras**
 
