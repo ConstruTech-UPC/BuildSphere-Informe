@@ -302,3 +302,10 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 **API Application Diagram** <br>
 ![](/Assets/ComponentsDiagram.png) 
 
+## 4.7. Software Object-Oriented Design
+### 4.7.1 Class Diagrams
+
+### 4.7.2 Class Dictionary
+
+## 4.8. Database Design
+
