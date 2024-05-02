@@ -38,6 +38,11 @@
 |:-----------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
 |   **TB1**   | **09/04/2024** | <p>**Ventura Chancafe, Eduardo Renato**</p><p></p><p>**Camila Cristina Loli Ramirez**</p><p></p><p>**Alvaro Esteban Crispin Ccancce**</p><p></p><p>**Carlos Andres Rojas Ccama**</p><p></p><p>**Piero Mendoza Pimentel**</p><p></p> | **Capítulo I<br>Capítulo II<br>Capítulo III<br>Capítulo IV<br>Capítulo V** |
 
+# Student Outcome
+
+| Criterio Específico | AccionesRealizadas | Conclusiones |
+|---------------------|--------------------|--------------|
+
 ## Project Report Collaboration Insights
 
 **Enlace del Project Report: [Enlace de nuestro proyecto)**
