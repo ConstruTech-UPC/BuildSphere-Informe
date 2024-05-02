@@ -11,6 +11,7 @@
 **Nombre del profesor:** Angel Velasquez
 
 # Informe TB1
+# Informe Trabajo Parcial
 
 **Nombre del startup:** ConstruTech
 
