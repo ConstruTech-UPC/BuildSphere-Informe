@@ -84,3 +84,4 @@ Por último, organizamos e identificamos las ideas de las cuales nuestro proyect
 | 10 | HU010 | Recomendaciones personalizadas de la aplicación | Como usuario de la aplicación, quiero recibir recomendaciones de la aplicación para luego usarlos. | 5 |
 | 11 | HU011 | Suscripción plan profesional | Como contratista independiente, quiero poder acceder al plan Professional de BuildSphere para gestionar de manera eficiente proyectos.| 5 |
 | 12 | HU012 | Suscripción plan business | Como gerente de una gran empresa de construcción, quiero utilizar el plan Business de BuildSphere para coordinar la gestión de múltiples unidades de construcción simultáneamente y la seguridad en todos los proyectos. | 5 |
+| 13 | HU013 | Proyectos |Como usuario de BuildSphere, Quiero poder crear un nuevo proyecto de construcción, para gestionar y dar seguimiento a las actividades y recursos relacionados con el proyecto. | 5 |
