@@ -219,6 +219,8 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
 | **Sprint 1 Velocity**                  |
 | **Sum of Story Points**                |
 
+## 5.2.1.2 Sprint Backlog 1
+
 ### 5.2.1.3 Development Evidence for Sprint Review
 
 <table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
@@ -234,7 +236,13 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
 <tr><td valign="top">2b70b7d652a8b190bc7db02966c7d2770a9d1814</td><td valign="top">fix: correct the id for section Mission and Vision index.html</td><td valign="top"></td><td valign="top">14/04/2024</td></tr>
 </table>
 
-### 5.2.1.5 Execution Evidence for Sprint Review
+## 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+## 5.2.1.5 Execution Evidence for Sprint Review
+
+## 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+## 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
 Se representan los commits y actividad del grupo durante el Sprint 1. En este caso, es sobre el avance de la Landing Page.
