@@ -57,7 +57,16 @@ Por último, organizamos e identificamos las ideas de las cuales nuestro proyect
 | HU012 | Suscripción plan business. | Como gerente de una gran empresa de construcción, quiero utilizar el plan Business de BuildSphere para coordinar la gestión de múltiples unidades de construcción simultáneamente y la seguridad en todos los proyectos. | Escenario N°1: Usuario recibe una suscripción plan profesional Dado que soy un una gran empresa de construcción, Cuando necesito gestionar proyectos de manera eficiente, Entonces quiero poder acceder al plan Business de BuildSphere.
 
 ### 3.3. **Impact Mapping**
-![foto_impact_mapping](https://github.com/Andres2580/OpenSource-Images/blob/9f2fdf2508b9b7ea46df611d104148bb15d61630/images/impactMapping.png)
+
+## Grandes Empresas
+![foto_impact_mapping_grandesv1](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-GrandesEmpresasv1.png)
+
+![foto_impact_mapping_grandesv2](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-GrandesEmpresasv2.png)
+
+## Pequeñas Empresas
+![foto_impact_mapping_pequeñasv1](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-Peque%C3%B1asEmpresasv1.png)
+
+![foto_impact_mapping_pequeñasv2](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-Peque%C3%B1asEmpresasv2.png)
 
 ### 3.4. **Product Backlog**
 
