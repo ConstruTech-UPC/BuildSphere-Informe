@@ -453,7 +453,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end.git</td>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
     <td align="center">Carlos</td>
     <td align="center">-</td>
     <td align="center">-</td>
