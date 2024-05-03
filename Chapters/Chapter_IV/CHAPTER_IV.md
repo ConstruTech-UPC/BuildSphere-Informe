@@ -304,8 +304,19 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/217a760bb98afe9cc81a66a260992d09a47eb4f5/images/classDiagram.png)
 
 ### 4.7.2 Class Dictionary
 
-## 4.8. Database Design
+|**User**|Representa a los usuarios de la plataforma, como contratistas, gerentes de proyecto, etc. El perfil del usuario incluiría información personal y de contacto, así como detalles sobre su rol en los proyectos.|
+| :- | :- |
+|**Profile**|Podría representar la información detallada de un usuario, incluyendo sus habilidades, certificaciones, experiencia, etc. |
+|**Collection**|Se refiere a una agrupación de elementos relacionados, como una colección de proyectos, una colección de facturas, etc. Es una forma de organizar y gestionar conjuntos de datos relacionados.|
+|**Payment Factory (Plan)**|Representa los planes de suscripción que ofrece BuildSphere a los usuarios. Puede incluir detalles sobre los beneficios, costos, períodos de suscripción, etc.|
+|**Projects**|Representa los proyectos de construcción que son gestionados a través de BuildSphere. Puede incluir detalles como el nombre del proyecto, la ubicación, el presupuesto, las fechas clave, etc.|
+|**Progress Visualization**|Representa la funcionalidad de BuildSphere que permite a los usuarios visualizar el progreso de los proyectos a través de imágenes, informes y otros medios visuales.|
+|**Incident Report**|Representa los informes generados en caso de incidentes o problemas durante la ejecución de un proyecto. Puede incluir detalles sobre el incidente, las acciones tomadas y las medidas correctivas necesarias.|
+|**Invoices**|Representa la factura para que luego puedan ser utilizadas para solicitar el pago al cliente y para llevar un registro de las transacciones comerciales|
 
+## 4.8. Database Design
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/217a760bb98afe9cc81a66a260992d09a47eb4f5/images/DatabaseDiagram.png)
