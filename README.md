@@ -42,6 +42,8 @@
 
 | Criterio Específico | AccionesRealizadas | Conclusiones |
 |---------------------|--------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Carlos Andres Rojas Ccama <br>**TB1**<br>Completado del capítulo 3 para el diseño de la pagina <br>**TP**<br>Entendí que diseño de los user stories y el empathy mapping ayuda de manera significativa para la creación de una pagina <br> | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos completar la primera parte del trabajo.<br> **TP**<br>Nos reunimos como equipo en distintas ocasiones para ir completando las metas propuestas para el sprint 2, lo cual ayudó a mejorar el diseño de la pagina.<br>| 
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Carlos Andres Rojas Ccama<br>**TB1**<br>Completando algunos puntos del sprint 2 <br>**TP**<br>Entendí que diseño de los user stories y el empathy mapping ayuda de manera significativa para la creación de una pagina <br>|<br>**TB1**<br>Aprendimos a usar GitHub. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>**TP**<br>Aprendimos a usar distintos componentes del Angular para la parte del frontend para nuestra pagina.<br>|
 
 ## Project Report Collaboration Insights
 
