@@ -350,7 +350,7 @@ En esta parte del trabajo aún no se desarrolla el fronted, debido a eso no se p
 
 ## 5.2.1.5 Execution Evidence for Sprint Review
 
-Creo q aqui seria los mockups:)
+Creo q aqui seria los mockups del landing:)
 
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 
