@@ -599,7 +599,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
   </tr>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
-    <td align="center">Carlos</td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -638,14 +638,14 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
   <td align="center">01/05/2024</td>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
-    <td align="center">-</td>
+    <td align="center">Carlos Rojas</td>
     <td align="center">-</td>
     <td align="center">Add Login component & Udate Login</td>
     <td align="center">Add Login component & Udate Login</td>
   <td align="center">01/05/2024</td>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
-    <td align="center">-</td>
+    <td align="center">Carlos Rojas</td>
     <td align="center">-</td>
     <td align="center">Merge pull request #15</td>
     <td align="center">Merge pull request #15</td>
