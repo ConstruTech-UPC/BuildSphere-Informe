@@ -458,7 +458,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">24/04/2024</td>
+    <td align="center">01/05/2024</td>
   </tr>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
@@ -466,16 +466,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">24/04/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-
-</td>
-    <td align="center">24/04/2024</td>
+    <td align="center">01/05/2024</td>
   </tr>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
@@ -484,7 +475,16 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">-</td>
     <td align="center">-
 </td>
-    <td align="center">24/04/2024</td>
+    <td align="center">01/05/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-
+</td>
+    <td align="center">01/05/2024</td>
   </tr>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
@@ -492,21 +492,21 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
-  <td align="center">24/04/2024</td>
+  <td align="center">01/05/2024</td>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">Add Login component & Udate Login</td>
     <td align="center">Add Login component & Udate Login</td>
-  <td align="center">25/04/2024</td>
+  <td align="center">01/05/2024</td>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">Merge pull request #15</td>
     <td align="center">Merge pull request #15</td>
-  <td align="center">25/04/2024</td>
+  <td align="center">01/05/2024</td>
   
 </table>
 
