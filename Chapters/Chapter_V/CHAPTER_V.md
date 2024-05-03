@@ -406,9 +406,11 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
 </table>
 
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
-
+En esta parte del trabajo aún no se desarrolla el fronted, debido a eso no se pueden realizar Unit Test. Pero se agregaron nuevas user stories a las que ayudara mucho en el diseño de la pagina.
 
 ## 5.2.1.5 Execution Evidence for Sprint Review
+
+Creo q aqui seria los mockups:)
 
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 
