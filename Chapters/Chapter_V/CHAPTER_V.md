@@ -443,6 +443,72 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
 </table>
 
 ## 5.2.2.3. Development Evidence for Sprint Review. 
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end.git</td>
+    <td align="center">Carlos</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-
+</td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-
+</td>
+    <td align="center">24/04/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  <td align="center">24/04/2024</td>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">Add Login component & Udate Login</td>
+  <td align="center">25/04/2024</td>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">25/04/2024</td>
+  
+</table>
 
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review. 
 
