@@ -512,10 +512,31 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
 
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review. 
 
+#Login
+
+#Registro
+
 ## 5.2.2.5. Execution Evidence for Sprint Review. 
+
 
 ## 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente. 
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend. 
+
+*Angular (Frameworks):* Usamos Angular como Frameworks de trabajo.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
 ## 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+
 ## 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+Insights
+
+### Bibliografía 
+
+
+### Conclusiones 
