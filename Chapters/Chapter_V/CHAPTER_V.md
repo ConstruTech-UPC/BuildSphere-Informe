@@ -308,7 +308,139 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">No aplica</td>
   </tr>
 </table>
+
 ## 5.2.2.2 Sprint Backlog 2
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Perfil (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de perfil para pequeña y gran empresa</td>
+    <td align="center">6</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">7</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Login (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de login para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Registro (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de registro para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Notificaciones</td>
+    <td align="center">Crear las páginas de notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
 ## 5.2.2.3. Development Evidence for Sprint Review. 
 
