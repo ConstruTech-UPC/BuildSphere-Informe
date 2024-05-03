@@ -354,7 +354,14 @@ Creo q aqui seria los mockups:)
 
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+HTML: Se hizo uso de HTML y Javacript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git.
+
 ## 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, si hay un bug o error presentando en esta landing será adecuadamente corregido en las proximas entregas.
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
 Se representan los commits y actividad del grupo durante el Sprint 1. En este caso, es sobre el avance de la Landing Page.
