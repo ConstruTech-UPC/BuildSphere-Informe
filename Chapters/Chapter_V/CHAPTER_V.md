@@ -492,7 +492,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">4</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">-</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -542,7 +542,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">Login (Pequeña Empresa y Gran Empresa)</td>
     <td align="center">Crear las páginas de login para pequeña y gran empresa</td>
     <td align="center">4</td>
-    <td align="center">-</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -552,7 +552,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">Registro (Pequeña Empresa y Gran Empresa)</td>
     <td align="center">Crear las páginas de registro para pequeña y gran empresa</td>
     <td align="center">4</td>
-    <td align="center">-</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
     <td align="center">Done</td>
   </tr>
   <tr>
