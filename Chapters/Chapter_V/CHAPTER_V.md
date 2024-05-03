@@ -27,7 +27,9 @@ Para los diversos servicios web que se desarrollaran, se empleará el estilo de 
 Para realizar pruebas del landing page y la aplicación web, se utilizaron los principlaes navegadores web como [Google Chrome]([https://www.google.com/chrome/](https://www.google.com/chrome/)), [Microsoft Edge]([https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge)) y [Mozilla Firefox]([https://www.mozilla.org/en-US/firefox/new/](https://www.mozilla.org/en-US/firefox/new/)).
 Adicionalmente, se usará la extensión [Google Lighthouse]([https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk))para tener un panorama automatizado y actualizado del landing page.
 ### Project Deployment
-[**Netlify**](https://www.netlify.com/): Para llevar a cabo el deployment del landing page, se procedió a vincular el repositorio de Github con Netlify. De este modo, Netlify gestionará de manera automática el deploy del landing page cada vez que exista un nuevo cambio en el repositorio.
+[**Vercel**](https://vercel.com/): Para llevar a cabo el deployment del landing page, se procedió a vincular el repositorio de Github con Netlify. De este modo, Netlify gestionará de manera automática el deploy del landing page cada vez que exista un nuevo cambio en el repositorio.
+
+[**Netlify**](https://www.netlify.com/): Para llevar a cabo el deployment del front-end, se procedió a vincular el repositorio de Github con el servicio de Vercel. De este modo, el despliegue de la página será de manera óptima.
 ### Software Documentation
 - [**GitHub**](https://github.com/): Para la realización del informe y diversos entregables, se ha creado un repositorio en el formato markdown para tener un control de versiones de los archivos.
 - [**Lucidchart**](https://www.lucidchart.com/): Aplicación web que fue utilizada para el desarrollo de los wireflows, user flows y diagramas UML.
