@@ -324,19 +324,9 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
     <td align="center">WI05</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
+    <td align="center">2</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-do</td>
   </tr>
 </table>
 
