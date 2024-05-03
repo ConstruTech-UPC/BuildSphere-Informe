@@ -203,23 +203,192 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
 # 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.1. Sprint 1
 ## 5.2.1.1 Sprint Planning 1
-
-| Sprint #                               | Sprint 1                                                                                                                                                                                                                                                                                                                            |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background             |
-| **Date**                               | 2024/04/07                                                                                                                                                                                                                                                                                                                          |
-| **Time**                               | 11:00 AM                                                                                                                                                                                                                                                                                                                            |
-| **Location**                           | Modalidad virtual, uso de Google Meets                                                                                                                                                                                                                                                                                              |
-| **Prepared by**                        | ConstruTech                                                                                                                                                                                                                                                                                                                         |
-| **Attendees (to planning meeting)**    | ConstruTech                                                                                                                                                                                                                                                                                                                         |
-| **Sprint n - 0 Review Summary**        | No hay Sprints anteriores, por lo tanto, no aplica.                                                                                                                                                                                                                                                                                 |
-| **Sprint n - 1 Retrospective Summary** | En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue.  |
-| **Sprint Goal & User Stories**         |
-| **Sprint 1 Goal**                      |
-| **Sprint 1 Velocity**                  |
-| **Sum of Story Points**                |
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024/04/07</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:00 AM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Modalidad virtual, uso de Google Meets</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Camila Cristina Loli Ramirez</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alvaro Esteban Crispin Ccancce<br>Camila Cristina Loli Ramirez<br>Carlos Andres Rojas Ccama<br>Eduardo Renato Ventura Chancafe<br>Piero Mendoza Pimentel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">No hay Sprints anteriores, por lo tanto, no aplica. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe completar el imforme con los capitulos 1,2,3,4,5</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
 
 ## 5.2.1.2 Sprint Backlog 1
+
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">7</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -237,6 +406,7 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
 </table>
 
 ## 5.2.1.4 Testing Suite Evidence for Sprint Review
+
 
 ## 5.2.1.5 Execution Evidence for Sprint Review
 
