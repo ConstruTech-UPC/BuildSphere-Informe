@@ -199,35 +199,501 @@ Para el lenguaje de programación TypeScript que se utilizará en el entorno fro
 - Ejecución de Código Post-Inicio: Implementaremos ApplicationRunner o CommandLineRunner para ejecutar cualquier configuración o lógica de inicialización que necesite tener lugar justo después de que la aplicación haya arrancado.
 - Salida de la Aplicación: Aseguraremos una salida y limpieza elegantes del contexto de la aplicación cuando se cierre, mediante el gancho de apagado que SpringApplication registra en la JVM.
 
+## 5.1.4. Software Deployment Configuration.
+Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, esta plataforma permite a los desarrolladores contruir, desplegar y esscalar aplicaciones front-end sin necesidad de servidores. Decidimos usar esta plataforma debido a la facilidad que nos brinda, solo necesitamos colocar el repositorio de nuestra Landing Page para que la despliegue sin problemas, es un proceso automatizado y rápido.
+
 # 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.1. Sprint 1
-## 5.2.1.1 Sprint 1
+## 5.2.1.1 Sprint Planning 1
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024/04/07</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:00 AM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Modalidad virtual, uso de Google Meets</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Camila Cristina Loli Ramirez</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alvaro Esteban Crispin Ccancce<br>Camila Cristina Loli Ramirez<br>Carlos Andres Rojas Ccama<br>Eduardo Renato Ventura Chancafe<br>Piero Mendoza Pimentel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">No hay Sprints anteriores, por lo tanto, no aplica. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe completar el imforme con los capitulos 1,2,3,4,5</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
 
-## Sprint Planning Background
+## 5.2.1.2 Sprint Backlog 1
 
-| Attribute               | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Date**                | 2024/04/07                                      |
-| **Time**                | 11:00 AM                                        |
-| **Location**            | Modalidad virtual, uso de Google Meets          |
-| **Prepared by**         | ConstruTech                                      |
-| **Attendees**           | Camila Loli                                     |
 
-## Sprint n - 0 Review Summary
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">	Diseñar la landing page</td>
+    <td align="center">Crear una página de inicio del sitio web para los usuarios</td>
+    <td align="center">4</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear sección de navegación</td>
+    <td align="center">Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+    <td align="center">4</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Agregar imágenes y contenido</td>
+    <td align="center">Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+    <td align="center">5</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Implementar un boto de llamada a la acción</td>
+    <td align="center">Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+    <td align="center">2</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">To-Do</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">2</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-do</td>
+  </tr>
+</table>
 
-| Review Summary          | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Previous Sprints**    | No hay Sprints anteriores, por lo tanto, no aplica. |
+### 5.2.1.3 Development Evidence for Sprint Review
 
-## Sprint n - 1 Retrospective Summary
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="10" valign="top">landing</td><td rowspan="10" valign="top">develop</td><td valign="top">f6d0bc6c84fde8f03f612d2c873897f62fe4000b</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">9/04/2024</td></tr>
+<tr><td valign="top">92c38ef84e51cc54f1716cc622579bede8b4f6ab</td><td valign="top">Update README.md</td><td valign="top"></td><td valign="top">9/04/2024</td></tr>
+<tr><td valign="top">d85c4171401f63a4ba115f2b8dc1b6472187a3e1</td><td valign="top">feat: adding navbar & banner</td><td valign="top"></td><td valign="top">10/04/2024</td></tr>
+<tr><td valign="top">3b9f05453e5c1f15ece59b07ef1ec5a6e8b4b910</td><td valign="top"><p>fix: adding logo & images</p><p></p></td><td valign="top"></td><td valign="top">11/04/2024</td></tr>
+<tr><td valign="top">842b2a4f3080fd3149bfbd6dde5e242c4ea77205</td><td valign="top">fix: changing language to EN</td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">cc50b26257ab0213f38ee474f0888d713291a887</td><td valign="top"><p>feat: add about us and features sections</p><p></p></td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">37bacb7b604ef1f2b94c9a76945a448e0a195201</td><td valign="top"><p>feat: Contact us form added</p><p></p><p></p><p></p></td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">8107fca1336b3e72ffbc497f63a759311998a79e</td><td valign="top">feat: add Mission and Vision, and Our Plans to index.html</td><td valign="top"></td><td valign="top">12/04/2024</td></tr>
+<tr><td valign="top">014b64f5e077f05e8debd452b345a7ec9ca21b5b</td><td valign="top">feat: add respective style for Mission and Vision, and Our Plans styles.css</td><td valign="top"></td><td valign="top">13/04/2024</td></tr>
+<tr><td valign="top">2b70b7d652a8b190bc7db02966c7d2770a9d1814</td><td valign="top">fix: correct the id for section Mission and Vision index.html</td><td valign="top"></td><td valign="top">14/04/2024</td></tr>
+</table>
 
-| Retrospective Summary   | Detail                                          |
-|-------------------------|-------------------------------------------------|
-| **Summary**             | En esta reunión hemos divido las respectivas responsabilidades de cada integrante para el cumplimiento del Capítulo 5, que incluye la Landing Page, y algunas modificaciones de los capítulos previos. Asimismo, estuvimos conversando sobre las posibles herramientas a usar para la creación de la Landing Page y el despliegue. |
+## 5.2.1.4 Testing Suite Evidence for Sprint Review
+En esta parte del trabajo aún no se desarrolla el fronted, debido a eso no se pueden realizar Unit Test. Pero se agregaron nuevas user stories a las que ayudara mucho en el diseño de la pagina.
 
-## Sprint Goal & User Stories
+## 5.2.1.5 Execution Evidence for Sprint Review
 
-| Sprint Goal             | User Stories                                    | Velocity | Sum of Story Points |
-|-------------------------|-------------------------------------------------|----------|---------------------|
-| Lograr la creación de la Landing Page a partir de las user stories del Sprint Backlog 1 y su respectivo despliegue. | - | 10       | 8                   |
+- Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
 
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/inicio.png) 
+
+- Se diseñó y desarrolló esta sección con un mensaje atractivo y convincente para los usuarios, y se implementó los botones "Comencemos" y "Saber mas"
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/welcome.png)
+
+- Se implemento la sección "Quienes Somos".
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/somos.png)
+
+- Se implemento la sección "Caracteristicas" para los usuarios.
+  
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/caracteristicas.png)
+
+- Se completó la sección "Nuestros Proyectos" para que el usuario este enterado de nuestros en la landing page.
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/nuestros_proyectos.png)
+
+- Se añadio la seccion de "Unete" para que el usuario pueda ingresar sus datos
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/unete.png)
+
+- Se añadio la seccion de "Nuestros planes" para que el usuario pueda obserbar el plan profesional y el plan business
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/planes.png)
+
+## 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+HTML: Se hizo uso de HTML y Javacript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git.
+
+## 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, si hay un bug o error presentando en esta landing será adecuadamente corregido en las proximas entregas.
+
+## 5.2.1.8. Team Collaboration Insights during Sprint.
+Se representan los commits y actividad del grupo durante el Sprint 1. En este caso, es sobre el avance de la Landing Page.
+
+![](/Assets/InsightsSprint1A.png)
+![](/Assets/InsightsSprint1B.png)
+
+## 5.2.2. Sprint 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+Se realizó una reunión en Meet con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en el WhatsApp para poder resolver las dudas que tengamos.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024/04/22</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">12:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Modalidad virtual, uso de Google Meets</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Camila Cristina Loli Ramirez</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alvaro Esteban Crispin Ccancce<br>Camila Cristina Loli Ramirez<br>Carlos Andres Rojas Ccama<br>Eduardo Renato Ventura Chancafe<br>Piero Mendoza Pimentel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page en Vercel y se empezó la planificación del Front-End de la aplicación. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core).</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+## 5.2.2.2 Sprint Backlog 2
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Perfil (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de perfil para pequeña y gran empresa</td>
+    <td align="center">6</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">7</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Login (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de login para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Registro (Pequeña Empresa y Gran Empresa)</td>
+    <td align="center">Crear las páginas de registro para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Notificaciones</td>
+    <td align="center">Crear las páginas de notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+## 5.2.2.3. Development Evidence for Sprint Review. 
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">01/05/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">01/05/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">01/05/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">01/05/2024</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  <td align="center">01/05/2024</td>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">-</td>
+    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">Add Login component & Udate Login</td>
+  <td align="center">01/05/2024</td>
+  <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">-</td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">01/05/2024</td>
+  
+</table>
+
+## 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+-
+
+## 5.2.2.5. Execution Evidence for Sprint Review. 
+Welcome
+
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/bienvenido.png)
+
+Login
+
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/login.png)
+
+
+Singup
+
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/singup.png)
+
+
+## 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente. 
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend. 
+
+*Angular (Frameworks):* Usamos Angular como Frameworks de trabajo.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
+## 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+
+## 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+Insights
+
+### Bibliografía 
+
+
+### Conclusiones 
+- La startup ConstruTech tiene el potencial de revolucionar el mercado al ofrecer una solución más accesible y aprovechar el sector de la construcción. una plataforma intuitiva y eficiente con una profunda comprensión de las necesidades del usuario
+-  Es muy importante que la página principal de BrainWabe sea intuitiva. Mejorando la facilidad de uso con botones fáciles de entender, una navegación suave y un diseño atractivo, BrainWabe anima a más personas a usar su servicio. Al ofrecer este servicio, el proyecto se convertirá en una opción para quienes buscan gestionar su proyecto.
