@@ -251,23 +251,63 @@ Se representan los commits y actividad del grupo durante el Sprint 1. En este ca
 ![](/Assets/InsightsSprint1B.png)
 
 ## 5.2.2. Sprint 2
-## 5.2.2.1 Sprint Planning 2
 
-| Sprint #                               | Sprint 1                                                                                                                                                                                                                |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background             |
-| **Date**                               | 2024/04/22                                                                                                                                                                                                              |
-| **Time**                               | 12:00 PM                                                                                                                                                                                                                |
-| **Location**                           | Modalidad virtual, uso de Google Meets                                                                                                                                                                                  |
-| **Prepared by**                        | ConstruTech                                                                                                                                                                                                             |
-| **Attendees (to planning meeting)**    | ConstruTech                                                                                                                                                                                                             |
-| **Sprint n - 1 Review Summary**        | Se desplegó la Landing Page en Vercel y se empezó la planificación del Front-End de la aplicación                                                                                                                       |
-| **Sprint n - 2 Retrospective Summary** | Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core). |
-| **Sprint Goal & User Stories**         |
-| **Sprint 2 Goal**                      |
-| **Sprint 2 Velocity**                  |
-| **Sum of Story Points**                |
+#### 5.2.2.1 Sprint Planning 2
 
+Se realizó una reunión en Meet con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en el WhatsApp para poder resolver las dudas que tengamos.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024/04/22</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">12:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Modalidad virtual, uso de Google Meets</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Camila Cristina Loli Ramirez</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alvaro Esteban Crispin Ccancce<br>Camila Cristina Loli Ramirez<br>Carlos Andres Rojas Ccama<br>Eduardo Renato Ventura Chancafe<br>Piero Mendoza Pimentel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page en Vercel y se empezó la planificación del Front-End de la aplicación. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core).</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
 ## 5.2.2.2 Sprint Backlog 2
 
 ## 5.2.2.3. Development Evidence for Sprint Review. 
