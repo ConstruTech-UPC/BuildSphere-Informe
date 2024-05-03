@@ -655,9 +655,18 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
 
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review. 
 
+Welcome
+
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/bienvenido.png)
+
 Login
 
-Registro
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/login.png)
+
+
+Singup
+
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/singup.png)
 
 ## 5.2.2.5. Execution Evidence for Sprint Review. 
 
