@@ -595,8 +595,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-
-</td>
+    <td align="center">-</td>
     <td align="center">01/05/2024</td>
   </tr>
   <tr>
@@ -604,8 +603,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-
-</td>
+    <td align="center">-</td>
     <td align="center">01/05/2024</td>
   </tr>
   <tr>
