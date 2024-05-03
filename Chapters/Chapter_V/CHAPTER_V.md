@@ -282,41 +282,41 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI01</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">6</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">Done</td>
+    <td align="center">	Diseñar la landing page</td>
+    <td align="center">Crear una página de inicio del sitio web para los usuarios</td>
+    <td align="center">4</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI02</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">Crear sección de navegación</td>
+    <td align="center">Implementar una barra de navegación para facilitar la exploración de la landing page</td>
     <td align="center">4</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">Done</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI03</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
+    <td align="center">Agregar imágenes y contenido</td>
+    <td align="center">Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+    <td align="center">5</td>
+    <td align="center">Nombre</td>
+    <td align="center">To-Do</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI04</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
+    <td align="center">Implementar un boto de llamada a la acción</td>
+    <td align="center">Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+    <td align="center">2</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">To-Do</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
@@ -334,58 +334,8 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
     <td align="center">WI06</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">7</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">6</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
     <td align="center">Done</td>
   </tr>
 </table>
