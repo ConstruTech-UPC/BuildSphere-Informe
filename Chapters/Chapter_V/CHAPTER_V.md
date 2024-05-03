@@ -350,7 +350,33 @@ En esta parte del trabajo aún no se desarrolla el fronted, debido a eso no se p
 
 ## 5.2.1.5 Execution Evidence for Sprint Review
 
-Creo q aqui seria los mockups del landing:)
+- Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/inicio.png) 
+
+- Se diseñó y desarrolló esta sección con un mensaje atractivo y convincente para los usuarios, y se implementó los botones "Comencemos" y "Saber mas"
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/welcome.png)
+
+- Se implemento la sección "Quienes Somos".
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/somos.png)
+
+- Se implemento la sección "Caracteristicas" para los usuarios.
+  
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/caracteristicas.png)
+
+- Se completó la sección "Nuestros Proyectos" para que el usuario este enterado de nuestros en la landing page.
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/nuestros_proyectos.png)
+
+- Se añadio la seccion de "Unete" para que el usuario pueda ingresar sus datos
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/unete.png)
+
+- Se añadio la seccion de "Nuestros planes" para que el usuario pueda obserbar el plan profesional y el plan business
+
+  ![image](https://github.com/Andres2580/OpenSource-Images/blob/430e0491d5c13d2a01faae3077930eee30ffbc70/images/planes.png)
 
 ## 5.2.1.6 Services Documentation Evidence for Sprint Review
 
