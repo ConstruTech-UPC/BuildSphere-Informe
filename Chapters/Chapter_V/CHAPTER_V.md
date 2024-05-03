@@ -512,9 +512,9 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
 
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review. 
 
-#Login
+Login
 
-#Registro
+Registro
 
 ## 5.2.2.5. Execution Evidence for Sprint Review. 
 
@@ -540,3 +540,5 @@ Insights
 
 
 ### Conclusiones 
+- La startup ConstruTech tiene el potencial de revolucionar el mercado al ofrecer una solución más accesible y aprovechar el sector de la construcción. una plataforma intuitiva y eficiente con una profunda comprensión de las necesidades del usuario
+-  Es muy importante que la página principal de BrainWabe sea intuitiva. Mejorando la facilidad de uso con botones fáciles de entender, una navegación suave y un diseño atractivo, BrainWabe anima a más personas a usar su servicio. Al ofrecer este servicio, el proyecto se convertirá en una opción para quienes buscan gestionar su proyecto.
