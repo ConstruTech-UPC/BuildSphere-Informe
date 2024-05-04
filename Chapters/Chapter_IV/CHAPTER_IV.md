@@ -304,7 +304,7 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
-![imagen](https://github.com/Andres2580/OpenSource-Images/blob/99c08e237fb74b7cb9b2a273bb3b31e090fe7c24/images/classDiagram.png)
+![imagen](https://github.com/ConstruTech-UPC/BuildSphere-Informe/blob/2882a6cdc6982461f3d754602f038056e8f8a633/Assets/classDiagramTP.png)
 
 ### 4.7.2 Class Dictionary
 
@@ -319,4 +319,4 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 |**Invoices**|Representa la factura para que luego puedan ser utilizadas para solicitar el pago al cliente y para llevar un registro de las transacciones comerciales|
 
 ## 4.8. Database Design
-![imagen](https://github.com/Andres2580/OpenSource-Images/blob/217a760bb98afe9cc81a66a260992d09a47eb4f5/images/DatabaseDiagram.png)
+![imagen](https://github.com/ConstruTech-UPC/BuildSphere-Informe/blob/2882a6cdc6982461f3d754602f038056e8f8a633/Assets/Database_Diagram.png)
