@@ -304,7 +304,7 @@ Al estar en la vista configuración, el usuario puede editar su perfil y cambiar
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
-![imagen](https://github.com/Andres2580/OpenSource-Images/blob/217a760bb98afe9cc81a66a260992d09a47eb4f5/images/classDiagram.png)
+![imagen](https://github.com/Andres2580/OpenSource-Images/blob/99c08e237fb74b7cb9b2a273bb3b31e090fe7c24/images/classDiagram.png)
 
 ### 4.7.2 Class Dictionary
 
