@@ -246,90 +246,40 @@ Para el despliegue de nuestra Landing Page utilizamos la aplicación Vercel, est
   </tr>
   <tr>
     <td align="center">Sprint 1 Goal</td>
-    <td align="center">Se debe completar el imforme con los capitulos 1,2,3,4,5</td>
+    <td align="center">Se debe completar el informe con los cinco capítulos y la respectiva Landing Page</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
+    <td align="center">18</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
+    <td align="center">18</td>
   </tr>
 </table>
 
 ## 5.2.1.2 Sprint Backlog 1
 
 
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI01</td>
-    <td align="center">	Diseñar la landing page</td>
-    <td align="center">Crear una página de inicio del sitio web para los usuarios</td>
-    <td align="center">4</td>
-    <td align="center">Nombre</td>
-    <td align="center">To-Do</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI02</td>
-    <td align="center">Crear sección de navegación</td>
-    <td align="center">Implementar una barra de navegación para facilitar la exploración de la landing page</td>
-    <td align="center">4</td>
-    <td align="center">Nombre</td>
-    <td align="center">To-Do</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI03</td>
-    <td align="center">Agregar imágenes y contenido</td>
-    <td align="center">Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
-    <td align="center">5</td>
-    <td align="center">Nombre</td>
-    <td align="center">To-Do</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI04</td>
-    <td align="center">Implementar un boto de llamada a la acción</td>
-    <td align="center">Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
-    <td align="center">2</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">To-Do</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI05</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">2</td>
-    <td align="center">Nombre</td>
-    <td align="center">To-do</td>
-  </tr>
+<table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/ Task</td></tr>
+<tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation(hours)</b></td><td valign="top"><b>Assigned to</b></td><td valign="top"><b>Status(To-do /InProcess To Review Done)</b></td></tr>
+<tr><td rowspan="2" valign="top">US01/EPIC 01</td><td rowspan="2" valign="top"><p><b>Implementación de Barra de navegación</b></p><p></p></td><td valign="top">C01</td><td valign="top">Navbar section</td><td valign="top">Hacer barra de navegación con link internos a cada sección de la landing page</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done </td></tr>
+<tr><td valign="top">C02</td><td valign="top">Responsive design navbar section</td><td valign="top"></td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done </td></tr>
+<tr><td rowspan="2" valign="top">US02 / EPIC 01</td><td rowspan="2" valign="top">Logo y Descripción de la empresa</td><td valign="top">C03</td><td valign="top">Hero section</td><td valign="top"></td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done </td></tr>
+<tr><td valign="top">C04</td><td valign="top">Responsive design hero section</td><td valign="top"></td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done </td></tr>
+<tr><td rowspan="2" valign="top">US03 / EPIC 01</td><td rowspan="2" valign="top">Visión y Misión de la empresa</td><td valign="top">C05</td><td valign="top">About us section</td><td valign="top"></td><td valign="top"></td><td valign="top">Eduardo Ventura</td><td valign="top"></td></tr>
+<tr><td valign="top">C06</td><td valign="top">Responsive design about us section </td><td valign="top"></td><td valign="top"></td><td valign="top">Eduardo Ventura</td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US04 / EPIC01</td><td rowspan="2" valign="top">Detalles y Servicios de la empresa</td><td valign="top">C07</td><td valign="top">Features section</td><td valign="top"></td><td valign="top"></td><td valign="top">Eduardo Ventura</td><td valign="top"></td></tr>
+<tr><td valign="top">C08</td><td valign="top">Responsive design features section</td><td valign="top"></td><td valign="top"></td><td valign="top">Eduardo Ventura</td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US05 / EPIC01</td><td rowspan="2" valign="top">Contacto con un asesor</td><td valign="top">C09</td><td valign="top">Contact us section</td><td valign="top">Hacer el formulario de contacto</td><td valign="top">5h</td><td valign="top">Piero</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C10</td><td valign="top">Responsive design features section</td><td valign="top">Añadir el diseño responsive al formulario para que se adapte al tamaño de la pantalla</td><td valign="top">5h</td><td valign="top">Piero</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US06 / EPIC01</td><td rowspan="2" valign="top">Descripción de Planes de suscripción</td><td valign="top">C11</td><td valign="top">Mission and vision section</td><td valign="top">Añadir la sección de la Mision y Vision de la Landing Page</td><td valign="top">2h</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C12</td><td valign="top">Responsive design mission and vision section</td><td valign="top">Añadir el responsive design de la seccion Mision y Vision</td><td valign="top">2h</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US07 / EPIC01</td><td rowspan="2" valign="top">Compra de planes de suscripción</td><td valign="top">C13</td><td valign="top">Subscription plans section</td><td valign="top">Añadir la sección de Planes</td><td valign="top">2h</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C14</td><td valign="top">Responsive design subscription section</td><td valign="top">Añadir el respectivo responsive design para Planes</td><td valign="top">2h</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US08 / EPIC01</td><td rowspan="2" valign="top">Implementación de un Footer</td><td valign="top">C15</td><td valign="top">Footer section</td><td valign="top"></td><td valign="top"></td><td valign="top">Andres</td><td valign="top"></td></tr>
+<tr><td valign="top">C16</td><td valign="top">Responsive design footer section</td><td valign="top"></td><td valign="top"></td><td valign="top">Andres</td><td valign="top"></td></tr>
 </table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review
@@ -448,11 +398,11 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
+    <td align="center">20</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
+    <td align="center">20</td>
   </tr>
 </table>
 
@@ -660,6 +610,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
 -
 
 ## 5.2.2.5. Execution Evidence for Sprint Review. 
+
 Welcome
 
 ![imagen](https://github.com/Andres2580/OpenSource-Images/blob/580cc236e62ac0bb0b41e4e052733ec22b293145/images/bienvenido.png)
@@ -685,11 +636,13 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 ## 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
-Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+Para esta entrega se logró desplegar el front end de la aplicación en netlify. Link: 
+https://66354ee2f6a8fe566da63fea--buildsphere.netlify.app/
 
 ## 5.2.2.8. Team Collaboration Insights during Sprint. 
 
-Insights
+![](/Assets/InsightsSprint2.png)
+
 
 ### Bibliografía 
 
