@@ -87,14 +87,14 @@ Por último, organizamos e identificamos las ideas de las cuales nuestro proyect
 ### 3.3. **Impact Mapping**
 
 ## Grandes Empresas
-![foto_impact_mapping_grandesv1](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-GrandesEmpresasv1.png)
+![foto_impact_mapping_grandesv1](/Assets/CHAPTER_III/Impact%20map-GrandesEmpresasv1.png)
 
-![foto_impact_mapping_grandesv2](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-GrandesEmpresasv2.png)
+![foto_impact_mapping_grandesv2](/Assets/CHAPTER_III/Impact%20map-GrandesEmpresasv2.png)
 
 ## Pequeñas Empresas
-![foto_impact_mapping_pequeñasv1](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-Peque%C3%B1asEmpresasv1.png)
+![foto_impact_mapping_pequeñasv1](/Assets/CHAPTER_III/Impact%20map-Peque%C3%B1asEmpresasv1.png)
 
-![foto_impact_mapping_pequeñasv2](https://github.com/Andres2580/OpenSource-Images/blob/5697ecc86cb7c4816bba7a2f91bfb9b93b7475d2/images/Impact%20map-Peque%C3%B1asEmpresasv2.png)
+![foto_impact_mapping_pequeñasv2](/Assets/CHAPTER_III/Impact%20map-Peque%C3%B1asEmpresasv2.png)
 
 ### 3.4. **Product Backlog**
 
