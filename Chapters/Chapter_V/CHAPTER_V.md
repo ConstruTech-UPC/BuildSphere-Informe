@@ -751,6 +751,15 @@ A continuación, se incluye el link del video about the producto:
 
 ![](/Assets/CHAPTER_V/Captura%20about%20the%20product.png)
 
+## 5.5. Video About-the-Team
+
+En esta sección se incluye el video about the team que presenta los miembros  del desarrollo la aplicación BuildSphere.
+A continuación, se incluye el link del video about the team:
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ES2NsddXAKdMrHbn_zGdtNEB4NF16QtMnQgMALt2l_sEKQ?e=2JEp7o&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Youtube: https://www.youtube.com/watch?v=6fO5tnMJuW0
+
+![](/Assets/CHAPTER_V/About%20the%20team.png)
+
 ### Bibliografía 
 
 
