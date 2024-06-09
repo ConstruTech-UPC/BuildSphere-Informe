@@ -663,13 +663,93 @@ https://66354ee2f6a8fe566da63fea--buildsphere.netlify.app/
 
 ## 5.3. Validation Interviews
 
-#### 5.3.1. Diseño de Entrevistas 
+### 5.3.1. Diseño de Entrevistas 
+
+## Contratistas independientes y pequeñas empresas constructoras
+
+### Preguntas Introductorias:
+
+- ¿Cuál es su nombre?
+- ¿Cuántos años tiene?
+- ¿Cuáles son sus hobbies?
+- ¿Qué ocupación tiene y cuál es el tamaño de su empresa?
+- ¿Cuánto tiempo lleva trabajando en la industria de la construcción?
+- ¿Cuál es su rol específico dentro de su empresa?
+
+### Landing Page
+- ¿Qué le parece la apariencia general de nuestra página de inicio?
+- ¿La información presentada sobre las funcionalidades de la aplicación es clara y relevante para sus necesidades?
+- ¿Qué cambiaría o añadiría para mejorar la presentación de la página de inicio
+- ¿Hay algún aspecto de la navegación o diseño que encuentre confuso?
+
+### Aplicación web
+- ¿Qué opina del diseño y la disposición de la aplicación web?
+- ¿Le resulta fácil entender y navegar por las distintas secciones de la aplicación?
+- ¿Qué le parece la forma en que se muestran los proyectos?
+- ¿El diseño de la lista o el formulario de creación de proyectos es intuitivo? ¿Qué mejoraría?
+- ¿Qué opina sobre la disposición y gestión de los trabajadores, equipos y tareas?
+- ¿Qué le parece la visualización del inventario de maquinaria y materiales?
+- ¿Hay alguna funcionalidad adicional que le gustaría ver en la aplicación para facilitar su trabajo como contratista o pequeña empresa?
+- ¿Considera que esta aplicación mejoraría su gestión de proyectos de construcción?
+- ¿Estaría dispuesto a utilizar esta aplicación en sus proyectos actuales o futuros? ¿Por qué?
+- ¿Qué valor agregado cree que esta aplicación podría ofrecer a su negocio?
+
+## Grandes empresas de construccion
+
+### Información personal
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿En qué distrito reside?
+- ¿Qué ocupación tiene y cuál es el tamaño de su empresa?
+- ¿Cuánto tiempo lleva trabajando en su lugar de oficio?
+- ¿Cuál es su rol específico dentro de su empresa?
+- A fin de recordar un poco la entrevista pasada, para tener en cuenta la validación, ¿qué sistema operativo utiliza mayormente (windows, linux, macOS), navegador (firefox, google chrome, safari), y dispositivo (celular, computadora, laptop)?
+
+### Landing Page
+- ¿Qué le parece la apariencia general de nuestra página de inicio?
+- ¿La información presentada sobre las funcionalidades de la aplicación es clara y relevante para sus necesidades?
+- ¿Qué cambiaría o añadiría para mejorar la presentación de la página de inicio?
+- ¿Encontró fácil la navegación por la página de inicio?
+- ¿Pudo encontrar rápidamente la información que estaba buscando?
+- ¿Hay algún aspecto de la navegación o diseño que encuentre confuso?
+Luego de revisar la página, ¿entiende claramente lo que hace BuildSphere?
+- ¿Hay información adicional que le gustaría ver en la página de inicio?
+- A su parecer, ¿el diseño le parece profesional?
+- ¿Encontró alguna dificultad al usar la página de inicio?
+- ¿Cuál fue su primera impresión respecto a la página?
+
+### Aplicación web
+- ¿Qué opina del diseño y la disposición de la aplicación web?
+- ¿Le resulta fácil entender y navegar por las distintas secciones de la aplicación?
+- ¿Qué tan fácil le fue interactuar con los elementos de la aplicación?
+- ¿Experimentó alguna frustración al momento de usarlo?
+- ¿Qué tan intuitivos son los controles y las interacciones de la aplicación?
+- ¿Qué le parece la forma en que se muestran los proyectos?
+- ¿El diseño de la lista o el formulario de creación de proyectos es intuitivo? ¿Qué mejoraría?
+- ¿Considera que la opción de crear más de tres proyectos es útil? *Esto es en referencia que el segmento anterior no tiene opción de más proyectos debido a que es otro tipo de plan.
+- ¿Qué opina sobre la disposición y gestión de los trabajadores, equipos y tareas?
+- Considerando que se enfocan en proyectos de gran magnitud, ¿considera que es fácil la asignación de tareas y coordinar los equipos dentro de la aplicación web?
+- ¿Qué le parece la visualización del inventario de maquinaria y materiales?
+- Las funciones de añadir, editar o eliminar elementos de la administración de recursos, ¿mejora el control de materiales y maquinarias de los proyectos?
+- En la sección de documentos, ¿considera que le provee una manera más conveniente de almacenar los archivos necesarios del proyecto?
+- ¿Hay alguna funcionalidad adicional que le gustaría ver en la aplicación para facilitar su trabajo en su empresa?
+- ¿Considera que esta aplicación mejorará la gestión de proyectos de construcción? 
+- ¿Estaría dispuesto a utilizar esta aplicación en sus proyectos actuales o futuros? ¿Por qué?
+- ¿Qué valor agregado cree que esta aplicación podría ofrecer a su negocio?
+
 
 #### 5.3.2. Registro de Entrevistas
 
 #### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+
+En esta sección se incluye el video about the producto que presenta las funcionalidades principales de la aplicación BuildSphere a los usuarios potenciales.
+A continuación, se incluye el link del video about the producto:
+- Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ESZlggMojwJHgLuM5ZMZXIQBA-tobRBdjl0ZcXenriYJ6A?e=TEgAEd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Youtube: https://youtu.be/w_YDBBP68yI?si=eOelgDSnjojODMkg
+
+![](/Assets/CHAPTER_V/Captura%20about%20the%20product.png)
 
 ### Bibliografía 
 
