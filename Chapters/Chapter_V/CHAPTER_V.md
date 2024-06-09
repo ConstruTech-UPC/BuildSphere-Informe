@@ -990,6 +990,18 @@ Luego de revisar la página, ¿entiende claramente lo que hace BuildSphere?
 
 #### 5.3.2. Registro de Entrevistas
 
+### Segmento objetivo: Grandes empresas 
+
+Entrevista 1:
+
+![Interview3](/Assets/CHAPTER_V/Fabio%20entrevista%20captura.png)
+
+Nombre de entrevistado: Fabio Velarde<br>
+Edad: 26 años<br>
+Distrito de residencia: Pueblo Libre<br>
+
+En lo que respecta a la landing page, Fabio Velarde comenta que el diseño le resulta llamativo y elegante. Destaca especialmente la paleta de colores utilizada en la aplicación, la cual considera moderna y atractiva, captando la atención del usuario de manera efectiva. Además, menciona que la distribución de la información está muy bien lograda, permitiendo que sea fácil de entender y ofreciendo una apariencia profesional. En cuanto a la aplicación web en sí, Fabio expresa que le resultó extremadamente sencilla y fácil de utilizar. La interfaz intuitiva facilita la navegación entre las diferentes vistas, permitiendo acceder rápidamente a la información necesaria. La forma en que está organizada la información y las opciones disponibles para cada tabla son, según él, aspectos que ayudan significativamente a mejorar la eficiencia en la gestión de la información de los proyectos de construcción. Al final de la entrevista, Fabio nos comparte una sugerencia importante para futuras mejoras. Señala que, en la sección de Gestión de Recursos, sería beneficioso incluir una funcionalidad adicional: la visualización del costo total de los alquileres de las máquinas. Considera que esta característica permitiría a los usuarios presupuestar de manera más precisa a largo plazo, proporcionando una visión más completa de los gastos asociados con el equipo alquilado.<br>
+
 #### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
