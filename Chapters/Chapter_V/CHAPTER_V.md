@@ -646,8 +646,192 @@ https://66354ee2f6a8fe566da63fea--buildsphere.netlify.app/
 ## 5.2.3. Sprint 3
 
 #### 5.2.3.1 Sprint Planning 3
+Se realizó una reunión en Meet con todos los integrantes del grupo para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en el WhatsApp para poder resolver las dudas que tengamos.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024/06/8</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">12:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Modalidad virtual, uso de Google Meets</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Camila Cristina Loli Ramirez</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alvaro Esteban Crispin Ccancce<br>Camila Cristina Loli Ramirez<br>Carlos Andres Rojas Ccama<br>Eduardo Renato Ventura Chancafe<br>Piero Mendoza Pimentel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 – 2 - 1Review Summary</td>
+    <td align="center">Se desplegó la Landing Page en Vercel y se empezó la planificación del Front-End de la aplicación. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Retrospective Summary</td>
+    <td align="center">Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core).</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center"> Se debe realizar correcciones para Front-End para la implementación del Backend. </td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 dias</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">20</td>
+  </tr>
+</table>
 
 #### 5.2.3.2.Sprint Backlog 3
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Profile</td>
+    <td align="center">Crear las páginas de perfil para pequeña y gran empresa</td>
+    <td align="center">6</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">7</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Login</td>
+    <td align="center">login para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Rojas</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Signup</td>
+    <td align="center">registro para pequeña y gran empresa</td>
+    <td align="center">4</td>
+    <td align="center">Carlos Andres Rojas Ccama</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">6</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Notificaciones</td>
+    <td align="center">notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">-</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
 #### 5.2.3.3.Development Evidence for Sprint Review
 
