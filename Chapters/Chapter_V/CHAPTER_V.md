@@ -1016,6 +1016,8 @@ Luego de revisar la página, ¿entiende claramente lo que hace BuildSphere?
 
 ### Segmento objetivo: Grandes empresas 
 
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/ERDqhrEbplpDrPbJei0KHiYBFQMHL9QJsRQl3K2-acuVlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wkqIyW
+
 Entrevista 1:
 
 ![Interview3](/Assets/CHAPTER_V/Fabio%20entrevista%20captura.png)
@@ -1023,6 +1025,8 @@ Entrevista 1:
 Nombre de entrevistado: Fabio Velarde<br>
 Edad: 26 años<br>
 Distrito de residencia: Pueblo Libre<br>
+Inicio de la entrevista: 00:00
+Duración: 11 minutos
 
 En lo que respecta a la landing page, Fabio Velarde comenta que el diseño le resulta llamativo y elegante. Destaca especialmente la paleta de colores utilizada en la aplicación, la cual considera moderna y atractiva, captando la atención del usuario de manera efectiva. Además, menciona que la distribución de la información está muy bien lograda, permitiendo que sea fácil de entender y ofreciendo una apariencia profesional. En cuanto a la aplicación web en sí, Fabio expresa que le resultó extremadamente sencilla y fácil de utilizar. La interfaz intuitiva facilita la navegación entre las diferentes vistas, permitiendo acceder rápidamente a la información necesaria. La forma en que está organizada la información y las opciones disponibles para cada tabla son, según él, aspectos que ayudan significativamente a mejorar la eficiencia en la gestión de la información de los proyectos de construcción. Al final de la entrevista, Fabio nos comparte una sugerencia importante para futuras mejoras. Señala que, en la sección de Gestión de Recursos, sería beneficioso incluir una funcionalidad adicional: la visualización del costo total de los alquileres de las máquinas. Considera que esta característica permitiría a los usuarios presupuestar de manera más precisa a largo plazo, proporcionando una visión más completa de los gastos asociados con el equipo alquilado.<br>
 
@@ -1030,10 +1034,10 @@ Entrevista 2:
 
 ![Validation Interview 2](/Assets/ValidationInterview1.png)
 
-Nombre de entrevistada: Andrea Loli
-Edad: 25 años
-Inicio de entrevista: 11:30
-Duración: 8 minutos
+Nombre de entrevistada: Andrea Loli <br>
+Edad: 25 años <br>
+Inicio de entrevista: 11:30 <br>
+Duración: 8 minutos <br>
 
 La arquitecta Andrea Loli nos comentó que la landing page es de su agrado porque es bastante intuitiva. Los botones están posicionados en un lugar que suele ser esperado, por ejemplo, que el toolbar esté en la parte de arriba y que, al hacer click, lleve a la sección deseada. Explica que suele tener problemas con otro tipo de páginas porque tienen mucha información y es difícil saber qué es lo que brinda el producto. Sin embargo, menciona que nuestra página contiene lo necesario y entiende a la perfección cómo funciona BuildSphere. Asimismo, considera que la página es bastante profesional y llama la atención debido a la paleta de colores utilizada. Después, continuamos con la aplicación web. Al igual que con la landing page, ella nos menciona que la aplicación era profesional e intuitiva. Considera que es muy útil para su empresa debido al orden y manejo recursos que brindaria. También, el manejo de documentos es extremadamente útil para ella porque cuenta con muchos archivos para cada proyecto dentro de su computadora y llega a ser confuso. Es por eso que considera que la aplicación permitiría que avancen más rápido ya que toda la información de cada proyecto estaría en orden.
 
