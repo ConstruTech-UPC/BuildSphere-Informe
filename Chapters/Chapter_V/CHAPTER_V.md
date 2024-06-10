@@ -800,6 +800,7 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 |||||||
 
 #### 5.2.3.5.Execution Evidence for Sprint Review
+- Se mostrarán las capturas necesarias de la aplicación que se llevaron a cado durante este sprint
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
