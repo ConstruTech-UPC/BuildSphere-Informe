@@ -658,7 +658,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
   </tr>
   <tr>
     <td align="center">Date</td>
-    <td align="center">2024/06/8</td>
+    <td align="center">2024/05/13</td>
   </tr>
   <tr>
     <td align="center">Time</td>
@@ -682,18 +682,18 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
   </tr>
   <tr>
     <td align="center">Sprint 3 - 2 – 1 Retrospective Summary</td>
-    <td align="center">Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Inició el proceso de la creación del Front-End de BuildSphere. Priorizamos la creación de los componentes que definen a la aplicación (core).</td>
+    <td align="center">Se planeó incluir la posibilidad de cambiar de idioma en la Landing Page. Arreglar mínimos detalles en el front-end. Asimismo, empezó el desarrollo del back-end de la aplicación en java, se priorizó el core de la empresa (project, documents, resource, operations management).</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
     <td align="center">Sprint 3 Goal</td>
-    <td align="center"> Se debe realizar correcciones para Front-End para la implementación del Backend. </td>
+    <td align="center"> Se debe realizar correcciones para Front-End para la implementación del Backend. Empezar el desarrollo del backend y que los endpoints respectivos funcionen, sean visibles en Swagger.</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">5 dias</td>
+    <td align="center">2 semanas</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
@@ -897,9 +897,11 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td align="center">Merge pull request #15</td>
     <td align="center">Merge pull request #15</td>
   <td align="center">01/06/2024</td>
+
   
 </table>
 
+![](/Assets/jira-backlog.png)
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
