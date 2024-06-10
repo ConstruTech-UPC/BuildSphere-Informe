@@ -793,6 +793,11 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 ![](/Assets/jira-backlog-3.png) <br>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review
+Para este sprint no se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que la tabla se mostrará vacía
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|||||||
 
 #### 5.2.3.5.Execution Evidence for Sprint Review
 
