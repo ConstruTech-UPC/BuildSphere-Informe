@@ -931,6 +931,11 @@ Tras haber hecho eso solo presionaremos en Deployl y se desplegará la base de d
 
 Es importante destacar que, al llegar a este punto, obtendremos un dominio público que nos permitirá realizar consultas a través de Postman e interactuar con nuestra base de datos.
 
+**Link de la base de datos desplegada:** affectionate-appreciation-production.up.railway.app
+
+Usuario: user <br>
+Contraseña: password <br>
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint 
 
 ![](/Assets/InsightsSprint3.png)
