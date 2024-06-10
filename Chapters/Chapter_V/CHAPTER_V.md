@@ -702,136 +702,23 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 </table>
 
 #### 5.2.3.2.Sprint Backlog 3
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI01</td>
-    <td align="center">Profile</td>
-    <td align="center">Crear las páginas de perfil para pequeña y gran empresa</td>
-    <td align="center">6</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI02</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI03</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI04</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI05</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">7</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
-    <td align="center">Login</td>
-    <td align="center">login para pequeña y gran empresa</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Rojas</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">Signup</td>
-    <td align="center">registro para pequeña y gran empresa</td>
-    <td align="center">4</td>
-    <td align="center">Carlos Andres Rojas Ccama</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">6</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Notificaciones</td>
-    <td align="center">notificaciones</td>
-    <td align="center">4</td>
-    <td align="center">-</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
-  </tr>
+
+<table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/ Task</td></tr>
+<tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation(hours)</b></td><td valign="top"><b>Assigned to</b></td><td valign="top"><b>Status(To-do /InProcess To Review Done)</b></td></tr>
+<tr><td rowspan="2" valign="top">US01/EPIC 01</td><td rowspan="2" valign="top"><p>Implementación de bounded context IAM</p><p></p></td><td valign="top">C01</td><td valign="top">Registro de Nuevo Usuario (Sign-up)</td><td valign="top">Los usuarios pueden registrarse y recibir un email de verificación.</td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C02</td><td valign="top">` `Inicio de Sesión de Usuario (Sign-in)</td><td valign="top">Los usuarios podrán iniciar sesión </td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US02 / EPIC 01</td><td rowspan="2" valign="top">Implementación de bounded context Logistic</td><td valign="top">C03</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">C04</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US03 / EPIC 01</td><td rowspan="2" valign="top">Implementación de bounded context Operation</td><td valign="top">C05</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">C06</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US04 / EPIC01</td><td rowspan="2" valign="top">Implementación de bounded context Project Management</td><td valign="top">C07</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top">C08</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="3" valign="top">US05 / EPIC01</td><td rowspan="3" valign="top">Implementación de bounded context Document Management</td><td valign="top">C09</td><td valign="top">Realizar el endpoint para añadir documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar GET</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C10</td><td valign="top">Realizar el endpoint para editar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar PUT</td><td valign="top">1</td><td valign="top">Avaro</td><td valign="top">Done</td></tr>
+<tr><td valign="top">C11</td><td valign="top">Realizar el endpoint para eliminar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar DELETE</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
 </table>
+
 
 #### 5.2.3.3.Development Evidence for Sprint Review
 
