@@ -803,6 +803,36 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
+- En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context de authentication, resource management, operations, document and projects.
+
+- Se adjunta el enlace al repositorio correspondiente: <https://github.com/ConstruTech-UPC/back-end.git>  
+
+|Bounded Context|Documentation||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Document|/api/v1/documents|![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente]()|
+|Material|/api/v1/materials|![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente]()|
+|Machine|/api/v1/machines|![Interfaz de usuario gráfica, Aplicación, Correo electrónico
+
+Descripción generada automáticamente]()|
+|Profile|/api/v1/profiles|![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico
+
+Descripción generada automáticamente]()|
+|Project|/api/v1/projects|![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente]()|
+|Team|/api/v1/teams|![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente]()|
+|Worker|/api/v1/workers|![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente]()|
+
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 Primero, accedemos a railway.com e iniciamos sesión. Luego, navegamos hasta la sección donde haremos clic en "Start a New Project".
