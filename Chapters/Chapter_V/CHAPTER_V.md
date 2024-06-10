@@ -803,6 +803,17 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context de authentication, resource management, operations, document and projects.
+Se adjunta el enlace al repositorio correspondiente: https://github.com/ConstruTech-UPC/back-end.git  
+
+![](/Assets/CHAPTER_V/services%201.png)
+
+![](/Assets/CHAPTER_V/services%202.png)
+
+![](/Assets/CHAPTER_V/services%203.png)
+![](/Assets/CHAPTER_V/services%204.png)
+
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 Primero, accedemos a railway.com e iniciamos sesión. Luego, navegamos hasta la sección donde haremos clic en "Start a New Project".
@@ -939,6 +950,29 @@ Duración: 8 minutos <br>
 La arquitecta Andrea Loli nos comentó que la landing page es de su agrado porque es bastante intuitiva. Los botones están posicionados en un lugar que suele ser esperado, por ejemplo, que el toolbar esté en la parte de arriba y que, al hacer click, lleve a la sección deseada. Explica que suele tener problemas con otro tipo de páginas porque tienen mucha información y es difícil saber qué es lo que brinda el producto. Sin embargo, menciona que nuestra página contiene lo necesario y entiende a la perfección cómo funciona BuildSphere. Asimismo, considera que la página es bastante profesional y llama la atención debido a la paleta de colores utilizada. Después, continuamos con la aplicación web. Al igual que con la landing page, ella nos menciona que la aplicación era profesional e intuitiva. Considera que es muy útil para su empresa debido al orden y manejo recursos que brindaria. También, el manejo de documentos es extremadamente útil para ella porque cuenta con muchos archivos para cada proyecto dentro de su computadora y llega a ser confuso. Es por eso que considera que la aplicación permitiría que avancen más rápido ya que toda la información de cada proyecto estaría en orden.
 
 #### 5.3.3. Evaluaciones según heurísticas
+
+Según la información que se logró obtener de las entrevistas realizadas, realizamos el análisis respectivo para poder ver las heurísticas de diseño en nuestra aplicación:
+1. Visibilidad del estado del sistema:<br>
+Nuestro sistema ofrece la capacidad de ver el estado de los diferentes items que se agregan a los proyectos de los usuarios. Esto permite un mejor control a nivel visual para los usuarios.<br>
+2. Relación entre el sistema y el mundo real:<br>
+La terminología usada es fácilmente reconocible para los diferentes contextos de los usuarios y no se encuentren obstruidos en el uso de nuestra solución. Es decir, los usuarios encuentran nuestro software accesible, comprensible y facilitador para sus actividades.<br>
+3. Libertad y control por parte del usuario:<br>
+Los usuarios al probar la aplicación no presentaron inconvenientes al desplazarse por las diferentes pestañas para completar sus tareas. Sin embargo, algunas acciones de accesibilidad deben ser mejoradas.<br>
+4. Consistencia y estándares:<br>
+Los usuarios lograron entender de manera intuitiva las funcionalidades del sistema, lo cual evidencia que nuestra meta de consistencia se cumplió efectivamente.<br>
+5. Prevención de errores:<br>
+Gracias a la aplicación de distintos niveles de codificación, no se presentaron problemas a los usuarios.<br>
+6. Reconocimiento antes que recuerdo:<br>
+Se buscó que los usuarios pudieran intuir las funcionalidades de las pestañas presentadas de manera sencilla de tal manera que no debían memorizar.<br>
+7. Flexibilidad y eficiencia de uso:<br>
+Nuestro sistema puede ser utilizado en diferentes equipos y programas permitiendo que los usuarios tengan la libertad de usuario sin dificultades.
+8. Estética y diseño minimalista:<br>
+La meta de nuestra solución fue desarrollar una interfaz intuitiva y fácil de entender por nuestros usuarios, para cumplir este objetivo, hicimos una división de pestañas en las que el usuario encuentra lo que necesite sin inconvenientes. El diseño fue bien recibido por los usuarios, aunque nos dejaron varias recomendaciones para futuras mejoras.
+9. Ayudar a los usuarios a reconocer:<br>
+Los mensajes de error que se pueden llegar a observar dan al usuario un buen entendimiento de lo que sucede dentro de la aplicación. De tal manera que el usuario puede resolver los inconvenientes por su cuenta o contactarnos si en caso es nuestra responsabilidad.<br>
+10. Ayuda y documentación:<br>
+La documentación de nuestro proyecto se encuentra bien redactada de tal manera que resume todo para una comprensión eficiente del usuario, sin embargo, no resulta comprensible para todos<br>
+
 
 ## 5.4. Video About-the-Product
 
