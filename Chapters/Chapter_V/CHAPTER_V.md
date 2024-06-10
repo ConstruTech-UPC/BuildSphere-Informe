@@ -913,6 +913,24 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
+Primero, accedemos a railway.com e iniciamos sesión. Luego, navegamos hasta la sección donde haremos clic en "Start a New Project".
+
+![](/Assets/CHAPTER_V/railway%20inicio.png)
+
+Luego, en la siguiente pantalla, seleccionamos la opción "Deploy MySQL".
+
+![](/Assets/CHAPTER_V/deploysql.png)
+
+En la siguiente sección, aparecerán varias opciones de configuración para nuestro archivo appsettings.json, las cuales necesitaremos actualizar.
+
+![](/Assets/CHAPTER_V/sqlSettings.png)
+
+Tras haber hecho eso solo presionaremos en Deployl y se desplegará la base de datos y la lógica de backend en 2 servicios que estarán interconectados.
+
+![](/Assets/CHAPTER_V/sqldesplegado.png)
+
+Es importante destacar que, al llegar a este punto, obtendremos un dominio público que nos permitirá realizar consultas a través de Postman e interactuar con nuestra base de datos.
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint 
 
 ![](/Assets/InsightsSprint3.png)
