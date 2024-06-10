@@ -901,7 +901,9 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
   
 </table>
 
-![](/Assets/jira-backlog.png)
+![](/Assets/jira-backlog-1.png) <br>
+![](/Assets/jira-backlog-2.png) <br>
+![](/Assets/jira-backlog-3.png) <br>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review
 
@@ -912,6 +914,8 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint 
+
+![](/Assets/InsightsSprint3.png)
 
 ## 5.3. Validation Interviews
 
