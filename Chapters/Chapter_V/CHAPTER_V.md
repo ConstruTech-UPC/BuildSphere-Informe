@@ -878,11 +878,16 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 | :- | :- | :- | :- | :- | :- |
 |||||||
 
+Sin embargo, la comprobación de los endpoints se realizó mediante la herramienta de Swagger:
+
+![Endpoints for Resources](/Assets/TestingSuite/EndPointsResources.png)
+
+
 #### 5.2.3.5.Execution Evidence for Sprint Review
 
-Para esta entrega se ha logrado implementar y desplegar la tercera versión del Frondend y primera version del backend
+Para esta entrega se ha logrado implementar y desplegar la tercera versión del Frontend y primera version del backend
 
-### Frondend
+### Frontend
 
 ### Projects
 
@@ -902,6 +907,7 @@ Para esta entrega se ha logrado implementar y desplegar la tercera versión del 
 
 Video Frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ET5KaWG1dbtOpdmiPzyv5kkB0kLo-FHq8e3om0j2GfWUww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33JY0B
 
+Asimismo, se tuvo en cuenta la actualización de la Landing Page, se añadió un 
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
