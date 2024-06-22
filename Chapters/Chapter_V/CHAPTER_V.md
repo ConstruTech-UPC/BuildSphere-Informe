@@ -700,8 +700,6 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 <tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation(hours)</b></td><td valign="top"><b>Assigned to</b></td><td valign="top"><b>Status(To-do /InProcess To Review Done)</b></td></tr>
 <tr><td rowspan="2" valign="top">US01/EPIC 01</td><td rowspan="2" valign="top"><p>Implementación de bounded context IAM</p><p></p></td><td valign="top">C01</td><td valign="top">Registro de Nuevo Usuario (Sign-up)</td><td valign="top">Los usuarios pueden registrarse y recibir un email de verificación.</td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
 <tr><td valign="top">C02</td><td valign="top">` `Inicio de Sesión de Usuario (Sign-in)</td><td valign="top">Los usuarios podrán iniciar sesión </td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
-<tr><td rowspan="2" valign="top">US02 / EPIC 01</td><td rowspan="2" valign="top">Implementación de bounded context Logistic</td><td valign="top">C03</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td valign="top">C04</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td rowspan="2" valign="top">US03</td><td rowspan="2" valign="top">Implementación de bounded context Operation</td><td valign="top">C05</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td valign="top">C06</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td rowspan="2" valign="top">US04</td><td rowspan="2" valign="top">Implementación de bounded context Project Management</td><td valign="top">C07</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
@@ -710,24 +708,93 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 <tr><td valign="top">C10</td><td valign="top">Realizar el endpoint para editar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar PUT</td><td valign="top">1</td><td valign="top">Avaro</td><td valign="top">Done</td></tr>
 <tr><td valign="top">C11</td><td valign="top">Realizar el endpoint para eliminar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar DELETE</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
 
-
-<tr><td rowspan="3" valign="top">TS10</td>Añadir material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C10</td><td valign="top">Crear endpoint para el ingreso de materiales</td><td valign="top">Implementación de un método POST para el ingreso de datos</td><td valign="top">3</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-<tr><td rowspan="3" valign="top">TS11</td>Editar un material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C11</td><td valign="top">Crear endpoint para la edición de un material</td><td valign="top">Implementación de un método PUT para la edición de datos</td><td valign="top">2</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-<tr><td rowspan="3" valign="top">TS12</td>Eliminar un material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C12</td><td valign="top">Crear endpoint para la eliminación de un material</td><td valign="top">Implementación de un método DELETE para eliminar el material</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>.
-
-<tr><td rowspan="3" valign="top">TS13</td>Añadir una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C13</td><td valign="top">Crear endpoint para el ingreso de máquinas</td><td valign="top">Implementación de un método POST para el ingreso de datos</td><td valign="top">3</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-<tr><td rowspan="3" valign="top">TS14</td>Editar una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C14</td><td valign="top">Crear endpoint para la edición de una máquina</td><td valign="top">Implementación de un método PUT para la edición de datos</td><td valign="top">2</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-<tr><td rowspan="3" valign="top">TS15</td>Eliminar una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C15</td><td valign="top">Crear endpoint para la eliminación de una máquina</td><td valign="top">Implementación de un método DELETE para eliminar la máquina</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-
-<tr><td rowspan="3" valign="top">TS16</td>Visualizar toda la maquinaria disponible en un proyecto<td rowspan="3" valign="top"></td><td valign="top">C16</td><td valign="top">Crear endpoint para la visualización de máquinas dentro de un proyecto</td><td valign="top">Implementación de un método GET para mostrar todas las máquinas</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-
-<tr><td rowspan="3" valign="top">TS17</td>Visualizar todos los materiales disponibles en un proyecto<td rowspan="3" valign="top"></td><td valign="top">C17</td><td valign="top">Crear endpoint para la visualización de materiales dentro de un proyecto</td><td valign="top">Implementación de un método GET para mostrar todos los materiales</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
-</table>
+<tr>
+    <td rowspan="2" valign="top">TS10</td>
+    <td rowspan="2" valign="top">Añadir material con el uso del RESTful API</td>
+    <td valign="top">C10</td>
+    <td valign="top">Crear endpoint para el ingreso de materiales</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS11</td>
+    <td rowspan="2" valign="top">Editar un material con el uso del RESTful API</td>
+    <td valign="top">C11</td>
+    <td valign="top">Crear endpoint para la edición de un material</td>
+    <td valign="top">Implementación de un método PUT para la edición de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS12</td>
+    <td rowspan="2" valign="top">Eliminar un material con el uso del RESTful API</td>
+    <td valign="top">C12</td>
+    <td valign="top">Crear endpoint para la eliminación de un material</td>
+    <td valign="top">Implementación de un método DELETE para eliminar el material</td>
+    <td valign="top">1</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS13</td>
+    <td rowspan="2" valign="top">Añadir una máquina con el uso del RESTful API</td>
+    <td valign="top">C13</td>
+    <td valign="top">Crear endpoint para el ingreso de máquinas</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS14</td>
+    <td rowspan="2" valign="top">Editar una máquina con el uso del RESTful API</td>
+    <td valign="top">C14</td>
+    <td valign="top">Crear endpoint para la edición de una máquina</td>
+    <td valign="top">Implementación de un método PUT para la edición de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS15</td>
+    <td rowspan="2" valign="top">Eliminar una máquina con el uso del RESTful API</td>
+    <td valign="top">C15</td>
+    <td valign="top">Crear endpoint para la eliminación de una máquina</td>
+    <td valign="top">Implementación de un método DELETE para eliminar la máquina</td>
+    <td valign="top">1</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS16</td>
+    <td rowspan="2" valign="top">Visualizar toda la maquinaria disponible en un proyecto</td>
+    <td valign="top">C16</td>
+    <td valign="top">Crear endpoint para la visualización de máquinas dentro de un proyecto</td>
+    <td valign="top">Implementación de un método GET para mostrar todas las máquinas</td>
+    <td valign="top">1</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr>
+<tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS17</td>
+    <td rowspan="2" valign="top">Visualizar todos los materiales disponibles en un proyecto</td>
+    <td valign="top">C17</td>
+    <td valign="top">Crear endpoint para la visualización de materiales dentro de un proyecto</td>
+    <td valign="top">Implementación de un método GET para mostrar todos los materiales</td>
+    <td valign="top">1</td>
+    <td valign="top">Camila</td>
+    <td valign="top">Done</td>
+  </tr></table>
 
 
 #### 5.2.3.3.Development Evidence for Sprint Review
@@ -866,7 +933,7 @@ En la siguiente sección, aparecerán varias opciones de configuración para nue
 
 ![image](/Assets/CHAPTER_V/sqlSettings.png)
 
-Tras haber hecho eso solo presionaremos en Deployl y se desplegará la base de datos y la lógica de backend en 2 servicios que estarán interconectados.
+Tras haber hecho eso solo presionaremos en Deploy y se desplegará la base de datos y la lógica de backend en 2 servicios que estarán interconectados.
 
 ![image](/Assets/CHAPTER_V/sqldesplegado.png)
 
