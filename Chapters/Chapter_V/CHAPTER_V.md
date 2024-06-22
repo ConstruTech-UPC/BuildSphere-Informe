@@ -794,7 +794,140 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td valign="top">1</td>
     <td valign="top">Camila</td>
     <td valign="top">Done</td>
-  </tr></table>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS18</td>
+    <td rowspan="2" valign="top">Añadir un equipo con el uso del RESTful API</td>
+    <td valign="top">C18</td>
+    <td valign="top">Crear endpoint para el ingreso de un equipo</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+    <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS19</td>
+    <td rowspan="2" valign="top">Editar un equipo con el uso del RESTful API</td>
+    <td valign="top">C19</td>
+    <td valign="top">Crear endpoint para la edicion de un equipo</td>
+    <td valign="top">Implementación de un método PUT para la edición de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS20</td>
+    <td rowspan="2" valign="top">Eliminar un equipo con el uso del RESTful API</td>
+    <td valign="top">C20</td>
+    <td valign="top">Crear endpoint para la eliminacion de un equipo</td>
+    <td valign="top">Implementación de un método DELETE para eliminar un equipo</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS21</td>
+    <td rowspan="2" valign="top">Visualizar todos los equipos con disponibles en un proyecto</td>
+    <td valign="top">C21</td>
+    <td valign="top">Crear endpoint para la visualizacion de equipos de un proyecto</td>
+    <td valign="top">Implementación de un método GET para mostrar todos los equipos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS22</td>
+    <td rowspan="2" valign="top">Añadir un trabajador con el uso del RESTful API</td>
+    <td valign="top">C22</td>
+    <td valign="top">Crear endpoint para el ingreso de un trabajador</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+    <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS23</td>
+    <td rowspan="2" valign="top">Editar un trabajador con el uso del RESTful API</td>
+    <td valign="top">C19</td>
+    <td valign="top">Crear endpoint para la edicion de un trabajador</td>
+    <td valign="top">Implementación de un método PUT para la edición de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS24</td>
+    <td rowspan="2" valign="top">Eliminar un trabajador con el uso del RESTful API</td>
+    <td valign="top">C24</td>
+    <td valign="top">Crear endpoint para la eliminacion de un trabajador</td>
+    <td valign="top">Implementación de un método DELETE para eliminar un trabajador</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS25</td>
+    <td rowspan="2" valign="top">Visualizar todos los trabajadores disponibles en un proyecto</td>
+    <td valign="top">C25</td>
+    <td valign="top">Crear endpoint para la visualizacion de trabajadores de un proyecto</td>
+    <td valign="top">Implementación de un método GET para mostrar todos los trabajadores</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS26</td>
+    <td rowspan="2" valign="top">Añadir una tarea con el uso del RESTful API</td>
+    <td valign="top">C26</td>
+    <td valign="top">Crear endpoint para el ingreso de una tarea</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">To do</td>
+  </tr>
+    <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS27</td>
+    <td rowspan="2" valign="top">Editar una tarea con el uso del RESTful API</td>
+    <td valign="top">C27</td>
+    <td valign="top">Crear endpoint para la edición de una tarea</td>
+    <td valign="top">Implementación de un método PUT para la edición de datos</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">To do</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS28</td>
+    <td rowspan="2" valign="top">Eliminar una tarea con el uso del RESTful API</td>
+    <td valign="top">C28</td>
+    <td valign="top">Crear endpoint para la eliminación de una tarea</td>
+    <td valign="top">Implementación de un método DELETE para eliminar una tarea</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">To do</td>
+  </tr>
+      <tr></tr>
+  <tr>
+    <td rowspan="2" valign="top">TS29</td>
+    <td rowspan="2" valign="top">Visualizar todas las tareas disponibles en un proyecto</td>
+    <td valign="top">C29</td>
+    <td valign="top">Crear endpoint para la visualización de tareas de un proyecto</td>
+    <td valign="top">Implementación de un método GET para mostrar todos las tareas</td>
+    <td valign="top">2</td>
+    <td valign="top">Piero</td>
+    <td valign="top">To do</td>
+  </tr>
+  </table>
 
 
 #### 5.2.3.3.Development Evidence for Sprint Review
