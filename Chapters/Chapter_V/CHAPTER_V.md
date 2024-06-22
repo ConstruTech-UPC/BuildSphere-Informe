@@ -1018,29 +1018,70 @@ Sin embargo, la comprobación de los endpoints se realizó mediante la herramien
 
 #### 5.2.3.5.Execution Evidence for Sprint Review
 
-Para esta entrega se ha logrado implementar y desplegar la tercera versión del Frontend y primera version del backend
+Para esta entrega se ha logrado implementar y desplegar la segunda version del Landing Page, la tercera versión del Frontend y primera version del backend.
 
-### Frontend
+## Landing Page
 
-### Projects
+#### About the product
+
+  ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/About%20the%20product.PNG)
+
+#### About the team
+
+  ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/About%20the%20team.PNG)
+
+#### Contact us
+
+  ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/Contact%20us.PNG)
+
+#### Mision and vision
+
+  ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/Mision%20y%20vision.PNG)
+
+#### Plans
+
+  ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/Plans.PNG)
+
+Video Frontend: link
+
+## Frontend
+
+#### Projects
 
   ![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Projectos.png)
 
-### Resource Management
+#### Resource Management
 
 ![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Inventory%20Mangement.png)
 
-### Collaboration
+#### Collaboration
 
 ![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Collaboration%20worker%20team.png)
 
-### Documents
+#### Documents
 
 ![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Documents.png)
 
 Video Frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ET5KaWG1dbtOpdmiPzyv5kkB0kLo-FHq8e3om0j2GfWUww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33JY0B
 
-Asimismo, se tuvo en cuenta la actualización de la Landing Page, se añadió un 
+## Backend
+
+#### Materials
+
+![image](/Assets/CHAPTER_V/Imagenes%20backend/Materials.jpeg)
+
+#### Teams and Profiles
+
+![image](/Assets/CHAPTER_V/Imagenes%20backend/Team%20and%20profiles.jpeg)
+
+#### Machines and Documents
+
+![image](/Assets/CHAPTER_V/Imagenes%20backend/Machines%20and%20documents.jpeg)
+
+#### Projects and Workers
+![image](/Assets/CHAPTER_V/Imagenes%20backend/Projects%20and%20workers.jpeg)
+
+Video Backend: Link
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
