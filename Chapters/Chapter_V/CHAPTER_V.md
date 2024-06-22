@@ -702,13 +702,31 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 <tr><td valign="top">C02</td><td valign="top">` `Inicio de Sesión de Usuario (Sign-in)</td><td valign="top">Los usuarios podrán iniciar sesión </td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
 <tr><td rowspan="2" valign="top">US02 / EPIC 01</td><td rowspan="2" valign="top">Implementación de bounded context Logistic</td><td valign="top">C03</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td valign="top">C04</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td rowspan="2" valign="top">US03 / EPIC 01</td><td rowspan="2" valign="top">Implementación de bounded context Operation</td><td valign="top">C05</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US03</td><td rowspan="2" valign="top">Implementación de bounded context Operation</td><td valign="top">C05</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td valign="top">C06</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td rowspan="2" valign="top">US04 / EPIC01</td><td rowspan="2" valign="top">Implementación de bounded context Project Management</td><td valign="top">C07</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="2" valign="top">US04</td><td rowspan="2" valign="top">Implementación de bounded context Project Management</td><td valign="top">C07</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 <tr><td valign="top">C08</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td rowspan="3" valign="top">US05 / EPIC01</td><td rowspan="3" valign="top">Implementación de bounded context Document Management</td><td valign="top">C09</td><td valign="top">Realizar el endpoint para añadir documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar GET</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">US05</td><td rowspan="3" valign="top">Implementación de bounded context Document Management</td><td valign="top">C09</td><td valign="top">Realizar el endpoint para añadir documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar GET</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
 <tr><td valign="top">C10</td><td valign="top">Realizar el endpoint para editar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar PUT</td><td valign="top">1</td><td valign="top">Avaro</td><td valign="top">Done</td></tr>
 <tr><td valign="top">C11</td><td valign="top">Realizar el endpoint para eliminar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar DELETE</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
+
+
+<tr><td rowspan="3" valign="top">TS10</td>Añadir material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C10</td><td valign="top">Crear endpoint para el ingreso de materiales</td><td valign="top">Implementación de un método POST para el ingreso de datos</td><td valign="top">3</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="3" valign="top">TS11</td>Editar un material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C11</td><td valign="top">Crear endpoint para la edición de un material</td><td valign="top">Implementación de un método PUT para la edición de datos</td><td valign="top">2</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="3" valign="top">TS12</td>Eliminar un material con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C12</td><td valign="top">Crear endpoint para la eliminación de un material</td><td valign="top">Implementación de un método DELETE para eliminar el material</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>.
+
+<tr><td rowspan="3" valign="top">TS13</td>Añadir una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C13</td><td valign="top">Crear endpoint para el ingreso de máquinas</td><td valign="top">Implementación de un método POST para el ingreso de datos</td><td valign="top">3</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="3" valign="top">TS14</td>Editar una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C14</td><td valign="top">Crear endpoint para la edición de una máquina</td><td valign="top">Implementación de un método PUT para la edición de datos</td><td valign="top">2</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="3" valign="top">TS15</td>Eliminar una máquina con el uso del RESTful API<td rowspan="3" valign="top"></td><td valign="top">C15</td><td valign="top">Crear endpoint para la eliminación de una máquina</td><td valign="top">Implementación de un método DELETE para eliminar la máquina</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+
+<tr><td rowspan="3" valign="top">TS16</td>Visualizar toda la maquinaria disponible en un proyecto<td rowspan="3" valign="top"></td><td valign="top">C16</td><td valign="top">Crear endpoint para la visualización de máquinas dentro de un proyecto</td><td valign="top">Implementación de un método GET para mostrar todas las máquinas</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="3" valign="top">TS17</td>Visualizar todos los materiales disponibles en un proyecto<td rowspan="3" valign="top"></td><td valign="top">C17</td><td valign="top">Crear endpoint para la visualización de materiales dentro de un proyecto</td><td valign="top">Implementación de un método GET para mostrar todos los materiales</td><td valign="top">1</td><td valign="top">Camila</td><td valign="top">Done</td></tr>
 </table>
 
 
@@ -785,10 +803,6 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td align="center">-</td>
   <td align="center">Jun 5, 2024</td>
 </table>
-
-![](/Assets/jira-backlog-1.png) <br>
-![](/Assets/jira-backlog-2.png) <br>
-![](/Assets/jira-backlog-3.png) <br>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review
 Para este sprint no se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que la tabla se mostrará vacía
