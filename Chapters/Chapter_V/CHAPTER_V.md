@@ -551,14 +551,6 @@ Se realizó una reunión en Meet con todos los integrantes del grupo presentes p
   </tr>
   <tr>
     <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">01/05/2024</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/ConstruTech-UPC/BuildSphere-front-end</td>
     <td align="center">feature/main</td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -731,61 +723,67 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td align="center"><strong>Commit Message Body</strong></td>
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
+    <tr>
+    <td align="center">https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">55a3a36c1469ad066bf368640e90869d152a2c57</td>
+    <td align="center">initial commit</td>
+    <td align="center">-</td>
+    <td align="center">May 25, 2024</td>
+  </tr>
   <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">889001ab4dbe0c08f74b5d2649baa09e06adb33f</td>
+    <td align="center">chore: added auditable base types</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">May 28, 2024</td>
+  </tr>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">056d58f7d95bc8449cc6fcd0b510e8e3f6913db0</td>
+    <td align="center">Create OpenApiConfiguration.java</td>
     <td align="center">-</td>
     <td align="center">01/06/2024</td>
   </tr>
   <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
     <td align="center">feature/main</td>
+    <td align="center">4f761713d6b0e77e183caa5d737b23bdfa290019</td>
+    <td align="center">feat: valueObjects created</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">01/06/2024</td>
+    <td align="center">Jun 1, 2024</td>
   </tr>
   <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
     <td align="center">feature/main</td>
+    <td align="center">556259d4918c9d98f3014af7e59932aea79eda6c</td>
+    <td align="center">feat: document aggregate created</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">01/06/2024</td>
+    <td align="center">Jun 1, 2024</td>
   </tr>
   <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
     <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">01/06/2024</td>
-  </tr>
-  <tr>
-    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
-    <td align="center">feature/main</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">4792b47b6105674ef6ac2118ea717ac3ba33246b</td>
+    <td align="center">feat: shared abstract models created</td>
     <td align="center">-</td>
   <td align="center">01/06/2024</td>
   <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
-    <td align="center">Carlos Rojas</td>
+    <td align="center">feature/main</td>
+    <td align="center">7b98e51633794d48c18f4ee1f3188d4d4c4c7beb</td>
+    <td align="center">feat(shared-context): Implement Shared Bounded Context</td>
     <td align="center">-</td>
-    <td align="center">Add Login component & Udate Login</td>
-    <td align="center">Add Login component & Udate Login</td>
-  <td align="center">01/06/2024</td>
-  <tr>
+  <td align="center">Jun 5, 2024</td>
+    <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
-    <td align="center">Carlos Rojas</td>
+    <td align="center">feature/main</td>
+    <td align="center">7b98e51633794d48c18f4ee1f3188d4d4c4c7beb</td>
+    <td align="center">feat(shared-context): Implement Shared Bounded Context</td>
     <td align="center">-</td>
-    <td align="center">Merge pull request #15</td>
-    <td align="center">Merge pull request #15</td>
-  <td align="center">01/06/2024</td>
-
-  
+  <td align="center">Jun 5, 2024</td>
 </table>
 
 ![](/Assets/jira-backlog-1.png) <br>
@@ -801,36 +799,62 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 
 #### 5.2.3.5.Execution Evidence for Sprint Review
 
+Para esta entrega se ha logrado implementar y desplegar la tercera versión del Frondend y primera version del backend
+
+### Frondend
+
+### Projects
+
+  ![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Projectos.png)
+
+### Resource Management
+
+![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Inventory%20Mangement.png)
+
+### Collaboration
+
+![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Collaboration%20worker%20team.png)
+
+### Documents
+
+![image](/Assets/Execution%20Evidence%20for%20Sprint%20Review/Documents.png)
+
+Video Frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ET5KaWG1dbtOpdmiPzyv5kkB0kLo-FHq8e3om0j2GfWUww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33JY0B
+
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context de authentication, resource management, operations, document and projects.
 Se adjunta el enlace al repositorio correspondiente: https://github.com/ConstruTech-UPC/back-end.git  
 
-![](/Assets/CHAPTER_V/services%201.png)
-
-![](/Assets/CHAPTER_V/services%202.png)
-
-![](/Assets/CHAPTER_V/services%203.png)
-![](/Assets/CHAPTER_V/services%204.png)
-
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Document|/api/v1/documents|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.001.png)|
+|Material|/api/v1/materials|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.002.jpeg)|
+|Machine|/api/v1/machines|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.003.jpeg)|
+|Profile|/api/v1/profiles|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.004.png)|
+|Project|/api/v1/projects|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.005.png)|
+|Team|/api/v1/teams|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.006.png)|
+|Worker|/api/v1/workers|![image](/Assets/CHAPTER_V/endpoints/Aspose.Words.52aed607-83ba-41ac-8660-2b8fc985849e.007.png)|
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 Primero, accedemos a railway.com e iniciamos sesión. Luego, navegamos hasta la sección donde haremos clic en "Start a New Project".
 
-![](/Assets/CHAPTER_V/railway%20inicio.png)
+![image](/Assets/CHAPTER_V/railway%20inicio.png)
 
 Luego, en la siguiente pantalla, seleccionamos la opción "Deploy MySQL".
 
-![](/Assets/CHAPTER_V/deploysql.png)
+![image](/Assets/CHAPTER_V/deploysql.png)
 
 En la siguiente sección, aparecerán varias opciones de configuración para nuestro archivo appsettings.json, las cuales necesitaremos actualizar.
 
-![](/Assets/CHAPTER_V/sqlSettings.png)
+![image](/Assets/CHAPTER_V/sqlSettings.png)
 
 Tras haber hecho eso solo presionaremos en Deployl y se desplegará la base de datos y la lógica de backend en 2 servicios que estarán interconectados.
 
-![](/Assets/CHAPTER_V/sqldesplegado.png)
+![image](/Assets/CHAPTER_V/sqldesplegado.png)
 
 Es importante destacar que, al llegar a este punto, obtendremos un dominio público que nos permitirá realizar consultas a través de Postman e interactuar con nuestra base de datos.
 
@@ -841,7 +865,7 @@ Contraseña: password <br>
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint 
 
-![](/Assets/InsightsSprint3.png)
+![image](/Assets/InsightsSprint3.png)
 
 ## 5.3. Validation Interviews
 
