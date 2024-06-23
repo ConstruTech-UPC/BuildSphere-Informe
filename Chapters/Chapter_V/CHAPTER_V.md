@@ -1086,13 +1086,251 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td align="center">feat(shared-context): Implement Shared Bounded Context</td>
     <td align="center">-</td>
   <td align="center">Jun 5, 2024</td>
-    <tr>
+  <tr>
     <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
     <td align="center">feature/main</td>
     <td align="center">7b98e51633794d48c18f4ee1f3188d4d4c4c7beb</td>
     <td align="center">feat(shared-context): Implement Shared Bounded Context</td>
     <td align="center">-</td>
   <td align="center">Jun 5, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">556259d4918c9d98f3014af7e59932aea79eda6c</td>
+    <td align="center">feat: document aggregate created</td>
+    <td align="center">-</td>
+  <td align="center">Jun 1, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">899dcff6dae5be339cdff6b9bd5d52f704953f34</td>
+    <td align="center">feat: adding commands to documents</td>
+    <td align="center">-</td>
+  <td align="center">Jun 5, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">899dcff6dae5be339cdff6b9bd5d52f704953f34</td>
+    <td align="center">feat: creating query to get documents</td>
+    <td align="center">-</td>
+  <td align="center">Jun 5, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">e7b11e7bee01fd5c54aaf650684aa4d4a7e33c28</td>
+    <td align="center">add: teams class in aggregates</td>
+    <td align="center">-</td>
+  <td align="center">Jun 6, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">69fa0d75d4fc0665129d5d17445886efea6c67f3</td>
+    <td align="center">feat(teams): added commands, queries and value objects in domain</td>
+    <td align="center">-</td>
+  <td align="center">Jun 6, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">537e1ff3f8107c299c0de96b5b99aacd8da7ea35</td>
+    <td align="center">feat(teams): added service contracts in domain</td>
+    <td align="center">-</td>
+  <td align="center">Jun 6, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">6d490a3b818e6a614cbf0144ae02fe44a612cb15</td>
+    <td align="center">feat(teams): added controller service for team</td>
+    <td align="center">-</td>
+  <td align="center">Jun 6, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">b61936a6ca59eb02d4f2348560072cc253643879</td>
+    <td align="center">feat: document repository</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">70d3131f861954f2e2a4f2c7a59b95077c5c2195</td>
+    <td align="center">feat: add new document resource</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">644f774fa27301593feaf9a9ba3662b3207bea25</td>
+    <td align="center">feat: document controller</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">6a398cc6fcd6613d329023de89d28bfc9013ad0d</td>
+    <td align="center">add: worker class in aggregates</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">f6e365f14e5508346f15a5b47092caf59a11a82c</td>
+    <td align="center">feat(workers): added service contracts in domain</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">f576b8e2d90dc590cfa3d4c39e35f9b0fc789f4f</td>
+    <td align="center">feat(workers): added command and query services implementation</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">a2b35d70e291a0eb197b6f363a7567ce426d7481</td>
+    <td align="center">feat(workers): added resources and assemblers for interfaces layer.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">0553302735b9dda848864c1925317d54d6513d23</td>
+    <td align="center">feat(workers): added controller service for worker.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">57ec8d2b9a9792d9b92b657046a8b5e958560456</td>
+    <td align="center">feat: swagger ui configuration</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">6cc5d4799e1450bab85ed5e440d76e538310a107</td>
+    <td align="center">feat: update document command</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">e3fdb9eb05051b74ba50d143da7e1d1597824739</td>
+    <td align="center">feat: added value objects for the aggregates.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 7, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">c2d1c7c1ecd57f91b02291af82dcc701db15e047</td>
+    <td align="center">feat: added aggregate for machine.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">769393a3d1d5b304f0da6e7d5fbe8b4c28c9c4bd</td>
+    <td align="center">feat: added aggregate for Material.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">ad4f7b2b6a586838d347b11a704d1eb3ede9ffd1</td>
+    <td align="center">feat: added command for create material.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">695d31be10191320b3919aca073264659cf2cb96</td>
+    <td align="center">feat: added create command in aggregate for Material.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">5d6cd16a1e6fe5324311d67e315ff0e1c92a37f9</td>
+    <td align="center">feat(project_management): add domain layer with aggregates, entities, value objects, commands, and queries</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">42d86485569df47410c475ee7441ccae682f67d2</td>
+    <td align="center">feat: added command services for both aggregates.</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">ed8c353c7a9c2a2d6677ae6210f3d5e7efef2bba</td>
+    <td align="center">feat(project_management): add services to domain layer</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">6b87cebf8cd3da875de66d89ae6e5c71ba063b34</td>
+    <td align="center">feat(project_management): add and fix infrastructure and interfaces layers</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">364a15539824c5b26757289c9ad726d82aa318bb</td>
+    <td align="center">feat(controller): implemented document controller</td>
+    <td align="center">-</td>
+  <td align="center">Jun 8, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">bc11713f0198734dd4e77db847759921154135b0</td>
+    <td align="center">docs: initial configuration for swagger</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">a35f26f60a3ef4f76cccf0440e2894fb1bbdccce</td>
+    <td align="center">feat: added the resources for material and machine (create, update).</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">cc82a4e63c2493f40699e23f09499bde5f9123b1</td>
+    <td align="center">Merge branch 'refs/heads/DocumentManagement' into development</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">ec7b886b4bf99d7c3b600f4c2382787ba5f501e6</td>
+    <td align="center">Merge remote-tracking branch 'refs/remotes/origin/featureIAM' into development</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">6e4a9abdb6cf3ae182dc9551a332a8c7dd93b291</td>
+    <td align="center">Merge remote-tracking branch 'refs/remotes/origin/feature/project-management' into development</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">78d8e3c8cee7dff60cde6de8aa2b822aa2f48bc7</td>
+    <td align="center">Merge remote-tracking branch 'refs/remotes/origin/featureInventoryManagement' into development</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
+  <tr>
+    <td align="center"> https://github.com/ConstruTech-UPC/back-end</td>
+    <td align="center">feature/main</td>
+    <td align="center">873a2ef1fb4947d6f5c2b20b7cb0e0ed09a01b9a</td>
+    <td align="center">Merge remote-tracking branch 'refs/remotes/origin/featureOperationsManagement' into development</td>
+    <td align="center">-</td>
+  <td align="center">Jun 9, 2024</td>
 </table>
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review
