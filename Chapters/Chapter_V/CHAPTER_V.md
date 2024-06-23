@@ -695,19 +695,110 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
 
 #### 5.2.3.2.Sprint Backlog 3
 
-<table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 3</th></tr>
+<table>
+<tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 3</th></tr>
 <tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item/ Task</td></tr>
 <tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation(hours)</b></td><td valign="top"><b>Assigned to</b></td><td valign="top"><b>Status(To-do /InProcess To Review Done)</b></td></tr>
-<tr><td rowspan="2" valign="top">US01/EPIC 01</td><td rowspan="2" valign="top"><p>Implementación de bounded context IAM</p><p></p></td><td valign="top">C01</td><td valign="top">Registro de Nuevo Usuario (Sign-up)</td><td valign="top">Los usuarios pueden registrarse y recibir un email de verificación.</td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
-<tr><td valign="top">C02</td><td valign="top">` `Inicio de Sesión de Usuario (Sign-in)</td><td valign="top">Los usuarios podrán iniciar sesión </td><td valign="top">1</td><td valign="top">Carlos Rojas</td><td valign="top">Done</td></tr>
-<tr><td rowspan="2" valign="top">US03</td><td rowspan="2" valign="top">Implementación de bounded context Operation</td><td valign="top">C05</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td valign="top">C06</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td rowspan="2" valign="top">US04</td><td rowspan="2" valign="top">Implementación de bounded context Project Management</td><td valign="top">C07</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td valign="top">C08</td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
-<tr><td rowspan="3" valign="top">US05</td><td rowspan="3" valign="top">Implementación de bounded context Document Management</td><td valign="top">C09</td><td valign="top">Realizar el endpoint para añadir documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar GET</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
-<tr><td valign="top">C10</td><td valign="top">Realizar el endpoint para editar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar PUT</td><td valign="top">1</td><td valign="top">Avaro</td><td valign="top">Done</td></tr>
-<tr><td valign="top">C11</td><td valign="top">Realizar el endpoint para eliminar documentos</td><td valign="top">Desarrollar el endpoint donde se pueda realizar DELETE</td><td valign="top">1</td><td valign="top">Alvaro</td><td valign="top">Done</td></tr>
 
+<tr>
+    <td rowspan="2" valign="top">TS01</td>
+    <td rowspan="2" valign="top">Añadir un perfil con el uso del RESTful API</td>
+    <td valign="top">C01</td>
+    <td valign="top">Crear endpoint para la creacion de un perfil</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS02</td>
+    <td rowspan="2" valign="top">Visualizar un perfil con el uso del RESTful API</td>
+    <td valign="top">C02</td>
+    <td valign="top">Crear endpoint para la vizualizacion de un perfil</td>
+    <td valign="top">Implementación de un método GET para la obtencion de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS03</td>
+    <td rowspan="2" valign="top">Añadir un proyecto con el uso del RESTful API</td>
+    <td valign="top">C03</td>
+    <td valign="top">Crear endpoint para la creacion de un proyecto</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS04</td>
+    <td rowspan="2" valign="top">Editar un proyecto con el uso del RESTful API</td>
+    <td valign="top">C04</td>
+    <td valign="top">Crear endpoint para la edicion de un proyecto</td>
+    <td valign="top">Implementación de un método PUT para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS05</td>
+    <td rowspan="2" valign="top">Eliminar un proyecto con el uso del RESTful API</td>
+    <td valign="top">C05</td>
+    <td valign="top">Crear endpoint para la eliminacion de un proyecto</td>
+    <td valign="top">Implementación de un método DELETE para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS06</td>
+    <td rowspan="2" valign="top">Vizualizar un proyecto con el uso del RESTful API</td>
+    <td valign="top">C06</td>
+    <td valign="top">Crear endpoint para la visualizacion de un proyecto</td>
+    <td valign="top">Implementación de un método GET para la obtencion ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Eduardo</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS07</td>
+    <td rowspan="2" valign="top">Añadir un documento con el uso del RESTful API</td>
+    <td valign="top">C07</td>
+    <td valign="top">Crear endpoint para la cracion de un documento</td>
+    <td valign="top">Implementación de un método POST para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Alvaro</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS08</td>
+    <td rowspan="2" valign="top">Editar un documento con el uso del RESTful API</td>
+    <td valign="top">C08</td>
+    <td valign="top">Crear endpoint para la edicion de un documento</td>
+    <td valign="top">Implementación de un método PUT para el ingreso de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Alvaro</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
+<tr>
+    <td rowspan="2" valign="top">TS09</td>
+    <td rowspan="2" valign="top">Eliminar un documento con el uso del RESTful API</td>
+    <td valign="top">C09</td>
+    <td valign="top">Crear endpoint para la eliminacion de un documento</td>
+    <td valign="top">Implementación de un método DELETE para la eliminacion de datos</td>
+    <td valign="top">3</td>
+    <td valign="top">Alvaro</td>
+    <td valign="top">Done</td>
+</tr>
+<tr></tr>
 <tr>
     <td rowspan="2" valign="top">TS10</td>
     <td rowspan="2" valign="top">Añadir material con el uso del RESTful API</td>
@@ -717,7 +808,7 @@ Se realizó una reunión en Meet con todos los integrantes del grupo para poder 
     <td valign="top">3</td>
     <td valign="top">Camila</td>
     <td valign="top">Done</td>
-  </tr>
+</tr>
 <tr></tr>
   <tr>
     <td rowspan="2" valign="top">TS11</td>
