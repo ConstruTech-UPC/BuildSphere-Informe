@@ -1371,7 +1371,7 @@ Para esta entrega se ha logrado implementar y desplegar la segunda version del L
 
   ![image](/Assets/CHAPTER_V/Imagenes%20landing%20page/Plans.PNG)
 
-Video Frontend: link
+Video Frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/Eem7n63KrxdCpawOCQCPpvYB9R-8UDYEfh6GRNW3Jk5cOg?e=OL1162&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Frontend
 
