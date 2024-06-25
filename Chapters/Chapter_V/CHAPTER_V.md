@@ -1565,28 +1565,151 @@ La arquitecta Andrea Loli nos comentó que la landing page es de su agrado porqu
 
 #### 5.3.3. Evaluaciones según heurísticas
 
-Según la información que se logró obtener de las entrevistas realizadas, realizamos el análisis respectivo para poder ver las heurísticas de diseño en nuestra aplicación:
-1. Visibilidad del estado del sistema:<br>
-Nuestro sistema ofrece la capacidad de ver el estado de los diferentes items que se agregan a los proyectos de los usuarios. Esto permite un mejor control a nivel visual para los usuarios.<br>
-2. Relación entre el sistema y el mundo real:<br>
-La terminología usada es fácilmente reconocible para los diferentes contextos de los usuarios y no se encuentren obstruidos en el uso de nuestra solución. Es decir, los usuarios encuentran nuestro software accesible, comprensible y facilitador para sus actividades.<br>
-3. Libertad y control por parte del usuario:<br>
-Los usuarios al probar la aplicación no presentaron inconvenientes al desplazarse por las diferentes pestañas para completar sus tareas. Sin embargo, algunas acciones de accesibilidad deben ser mejoradas.<br>
-4. Consistencia y estándares:<br>
-Los usuarios lograron entender de manera intuitiva las funcionalidades del sistema, lo cual evidencia que nuestra meta de consistencia se cumplió efectivamente.<br>
-5. Prevención de errores:<br>
-Gracias a la aplicación de distintos niveles de codificación, no se presentaron problemas a los usuarios.<br>
-6. Reconocimiento antes que recuerdo:<br>
-Se buscó que los usuarios pudieran intuir las funcionalidades de las pestañas presentadas de manera sencilla de tal manera que no debían memorizar.<br>
-7. Flexibilidad y eficiencia de uso:<br>
-Nuestro sistema puede ser utilizado en diferentes equipos y programas permitiendo que los usuarios tengan la libertad de usuario sin dificultades.
-8. Estética y diseño minimalista:<br>
-La meta de nuestra solución fue desarrollar una interfaz intuitiva y fácil de entender por nuestros usuarios, para cumplir este objetivo, hicimos una división de pestañas en las que el usuario encuentra lo que necesite sin inconvenientes. El diseño fue bien recibido por los usuarios, aunque nos dejaron varias recomendaciones para futuras mejoras.
-9. Ayudar a los usuarios a reconocer:<br>
-Los mensajes de error que se pueden llegar a observar dan al usuario un buen entendimiento de lo que sucede dentro de la aplicación. De tal manera que el usuario puede resolver los inconvenientes por su cuenta o contactarnos si en caso es nuestra responsabilidad.<br>
-10. Ayuda y documentación:<br>
-La documentación de nuestro proyecto se encuentra bien redactada de tal manera que resume todo para una comprensión eficiente del usuario, sin embargo, no resulta comprensible para todos<br>
+#### UX Heuristics & Principles Evaluation
 
+##### Usability – Inclusive Design – Information Architecture
+
+##### CARRERA : Ingeniería de Software
+
+##### CURSO : Desarrollo de Aplicaciones Open Source
+
+##### SECCIÓN : Código de la sección
+
+##### PROFESORES : Todos
+
+##### AUDITOR : AUDIT
+
+##### CLIENTE(S) : ConstruTech
+
+
+SITE o APP A EVALUAR:
+
+###### BuildSphere
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+
+2. Publicación de un proyecto
+
+3. Creación de un nuevo proyecto
+
+4. Inspección del inventario de un proyecto
+
+5. Creación de maquinarias y materiales
+
+6. Inspección de trabajadores, equipos y tareas
+
+7. Creación de trabajador
+
+8. Creación de equipo
+
+9. Asignación de tarea
+
+10. Inspección de documentos
+
+11. Creación de documentos
+
+12. Inspección de soporte
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Compartir proyectos entre usuarios
+
+2. Pre-visualización de documentos
+
+3. Administración de horarios de trabajadores
+
+4. Guardar equipos para integrar en otros proyectos
+
+5. Guardar trabajadores para integrar en otros proyectos
+
+6. Compartir material o maquinaria entre proyectos
+
+
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco<br><br>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                         |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de<br><br>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente<br><br>release |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es<br><br>importante que sean corregidos y se les debe asignar una prioridad alta.                                       |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de<br><br>la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                     |
+
+
+
+TABLA RESUMEN:
+
+|   |   |   |   |
+|---|---|---|---|
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+|1|No hay un diseño ordenado en la pestaña de “iniciar sesión”|2|Estética y diseño minimalista|
+|2|No hay un control para regresar a la pestaña de proyectos|4|Libertad y control por parte del usuario|
+|3|No hay un feedback visual para el usuario en cuanto a los ítems dentro del sistema (subida de archivos, estado de maquinarias, estado de tarea, etc)|2|Visibilidad del estado del sistema|
+
+
+
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+###### PROBLEMA #1: No hay un diseño ordenado en la pestaña de “iniciar sesión”
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Estética y diseño minimalista
+
+Problema:
+
+Al momento de ingresar a la primera pestaña de la página web, se muestra una pestaña de registro e inicio de sesión poco estilizada y no acorde al diseño de todo el sistema.
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXezxFhS0K6vpSQ6IGQkqQ5BUKu4m5aoF65NkRRlH0BsFDtH7bjmYNfCQv1Fnolh3jDUwwjszN24_ZC-aCdFV6ZdpdEefg7kqCU5x0Henak_YMauaUbh7S4FSRxwaR6DlgxQvamdck7W6aUO9_b5tiLveG1z?key=VZ3a3Qx_OHYUABNh-GBNKg)
+
+Recomendación:
+
+Realizar una pestaña visualmente atractiva para el usuario.
+
+
+
+###### PROBLEMA #2: No hay un control para regresar a la pestaña de proyectos
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Libertad y control por parte del usuario
+
+Problema:
+
+Al momento de estar navegando por un proyecto y sus pestañas de control del mismo, no se puede regresar a la pestaña de la lista de proyectos. No hay un botón que permita al usuario volver a la pestaña anterior para ingresar a otro proyecto.
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXciZA_C99QtVh7XtDntiMSDaVh9Ca8LXKFWYP_ROftCd5SPchM3Krqlbwp4hgZEWLy1d2DUl50GqvUCdh7GZG4O3vtDWy9OxPsdlf-9WrF7TwF5OA5YpOkzHhM10nwJkAOgPFDnkqthUGqE8B2r9V7cRi8?key=VZ3a3Qx_OHYUABNh-GBNKg)
+
+Recomendación:
+
+Lo más práctico es que se pueda añadir un botón en la barra lateral para que el usuario pueda regresar a la pestaña anterior. De tal manera que pueda tener más libertad a la hora de navegar por la página web.
+
+
+
+###### PROBLEMA #3: No hay un feedback visual para el usuario en cuanto a los ítems dentro del sistema (subida de archivos, estado de maquinarias, estado de tarea, etc).
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Estética y diseño minimalista
+
+Problema:
+
+Al momento de crear un ítem en cualquiera de las pestañas de maquinarias, trabajadores, materiales o documentación, no hay un feedback para que el usuario sepa si todo el proceso se ha realizado correctamente. Lo que deja una incertidumbre.
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfR-3PVCRsD6FnpDzfMxHLBrLhFJBFaL9uvfYAOPHF81WktMnKWuTYPRJ5EeREJnU50gW0m0dpO_veSBQyjwMRr_IEd0-6TUyvw2m4MEqOTSqCj-irET8nEu7VRpzdHXWhT7t5boNp2uGTvzm5tAykFtY8Q?key=VZ3a3Qx_OHYUABNh-GBNKg)
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdPZmih2io_TBZC3YlFxOlkz9HxEzFxGA1nwwZz0lYHsoD31a_v6AjtiMx_M5aZsELLGGCzvxF4AaBBl25JurBDfmP1I4xCvNkmuMGEOiIC0Pksmn2LV0XhtY3X-_4j8eVqFyqrwHqQUG5dLU00l6WuKxc?key=VZ3a3Qx_OHYUABNh-GBNKg)
+
+Recomendación:
+
+Realizar una notificación que le diga al usuario “El documento se ha subido correctamente” o, en caso contrario, “Fallo al subir documento”. Así como este ejemplo para las diferentes pestañas del sistema.
 
 ## 5.4. Video About-the-Product
 
