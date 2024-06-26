@@ -1827,3 +1827,5 @@ A continuación, se incluye el link del video about the team:
 ### Conclusiones 
 - La startup ConstruTech tiene el potencial de revolucionar el mercado al ofrecer una solución más accesible y aprovechar el sector de la construcción. una plataforma intuitiva y eficiente con una profunda comprensión de las necesidades del usuario
 -  Es muy importante que la página principal de BrainWabe sea intuitiva. Mejorando la facilidad de uso con botones fáciles de entender, una navegación suave y un diseño atractivo, BrainWabe anima a más personas a usar su servicio. Al ofrecer este servicio, el proyecto se convertirá en una opción para quienes buscan gestionar su proyecto.
+- La documentación de los servicios y endpoints desarrollados se ha presentado de manera clara y detallada, lo cual es fundamental para facilitar la comprensión y el uso por parte de los usuarios y desarrolladores.
+- La evaluación de las heurísticas de UX identificó varios puntos críticos que afectan la experiencia del usuario, como la falta de feedback visual y la navegación poco clara. Estos problemas se han abordado en el desarrollo del spring 3 y 4.
