@@ -1495,7 +1495,7 @@ Para este sprint no se contempló la realización funcionalidades referente al t
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
 | :- | :- | :- | :- | :- | :- |
-|||||||
+|https://github.com/ConstruTech-UPC/back-end/| main | 831621b | feat(test): added deleteMaterialSuccessful to test if it works. | |26/06/2024|
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
