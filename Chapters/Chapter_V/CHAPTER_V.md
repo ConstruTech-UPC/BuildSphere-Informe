@@ -1457,6 +1457,98 @@ Contraseña: password <br>
 
 ![image](/Assets/InsightsSprint3.png)
 
+#### 5.2.4.2. Sprint Backlog 4.
+
+
+|<p># Orden </p><p></p>|User Story Id|Título |Descripción |<p>Story Points (1 / 2 / 3 / 5</p><p>/ 8)</p>|
+| :- | :- | :- | :- | :- |
+|1|US-24|Como usuario deseo poder agregar, editar y eliminar maquinarias dentro de un proyecto|El usuario desea tener un control de todos las maquinarias que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|2|US-25|Como usuario deseo poder agregar, editar y eliminar materiales dentro de un proyecto|El usuario desea tener un control de todos los materiales que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|3|US-26|Como usuario deseo poder agregar, editar y eliminar documentos dentro de un proyecto|El usuario desea tener un control de todos los documentos que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|4|US-27|Como usuario deseo poder agregar, editar y eliminar documentos dentro de un proyecto|El usuario desea tener un control de todos los documentos que hay dentro de un proyecto para tener un mejor control de sus recursos|2|
+|5|US-28|Como usuario deseo poder agregar, editar y eliminar trabajadores dentro de un proyecto|El usuario desea tener un control de todos los trabajadores que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|6|US-29|Como usuario deseo poder agregar, editar y eliminar equipos de trabajo dentro de un proyecto|El usuario desea tener un control de todos los trabajadores que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|7|US-30|Como usuario deseo poder agregar, editar y eliminar tareas de trabajo dentro de un proyecto|El usuario desea tener un control de todos las tareas que hay dentro de un proyecto para tener un mejor control de sus recursos|3|
+|8|US-30|Como usuario deseo poder agregar, editar y eliminar mis datos de trabajo dentro de un proyecto|<p>El usuario desea tener un control de todos sus datos</p><p>que hay dentro de un proyecto para tener un mejor control</p><p>de sus recursos</p><p></p>|3|
+|9|US-31|Como usuario deseo poder agregar, editar y eliminar roles de trabajo dentro de un proyecto|<p>El usuario desea tener un control de todos los roles</p><p>que hay dentro de un proyecto para tener un mejor control</p><p>de sus recursos</p><p></p>|3|
+|8|TS-X|Autenticación del usuario|Crear un endpoint con método POST para permitir el ingreso del usuario|2|
+|9|TS-X|Gestión de sesiones|Creación de un token para cada usuario al momento de iniciar sesión y que cuente con una fecha de expiración|3|
+|10|TS-X|Auditoría de sesiones|Registra la fecha y hora de la creación para los features (cuando se creó un documento, un equipo, un material, un proyecto, etc.) disponibles.|2|
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+Enlace del repositorio trabajado durante el sprint: <https://github.com/ConstruTech-UPC/back-end.git> 
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
+<tr><td rowspan="5" valign="top">ConstruTech-UPC/back-end</td><td valign="top">featureIAM</td><td valign="top">635f6bd</td><td valign="top">feat(iam): added role and user</td><td valign="top"></td><td valign="top">10/06/2024</td></tr>
+<tr><td valign="top">feature/project-management</td><td valign="top">6b87ceb</td><td valign="top">feat(project_management): add and fix infrastructure and interfaces layers</td><td valign="top"></td><td valign="top">09/06/2024</td></tr>
+<tr><td valign="top">featureInventoryManagement</td><td valign="top">5d86d41</td><td valign="top">feat: added controllers for Machine and Material (includes delete, create, delete)</td><td valign="top"></td><td valign="top">07/06/2024</td></tr>
+<tr><td valign="top">featureOperationManagement</td><td valign="top">0553302</td><td valign="top"><p>feat(workers): added controller service for worker</p><p></p></td><td valign="top"></td><td valign="top">07/06/2024</td></tr>
+<tr><td valign="top">development</td><td valign="top">873a2ef</td><td valign="top">Merge remote-tracking branch 'refs/remotes/origin/featureOperationsManagement</td><td valign="top"></td><td valign="top">11/06/2024</td></tr>
+</table>
+
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Para este sprint no se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que la tabla se mostrará vacía
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|||||||
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Se mostrarán las capturas necesarias de la aplicación que se llevaron a cado durante este sprint
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context de authentication, resource management, operations, document and projects.
+
+Se adjunta el enlace al repositorio correspondiente: <https://github.com/ConstruTech-UPC/back-end.git>  
+
+|Bounded Context|Documentation||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Document|/api/v1/documents|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.001.png)|
+|Material|/api/v1/materials|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.002.jpeg)|
+|Machine|/api/v1/machines|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.003.jpeg)|
+|Profile|/api/v1/profiles|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.004.png)|
+|Project|/api/v1/projects|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.005.png)|
+|Team|/api/v1/teams|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.006.png)|
+|Worker|/api/v1/workers|![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.007.png)|
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+De la misma forma que se hizo en los anteriores sprints se continúa usando el servicio de despliegue Vercel. 
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Para este sprint como se mencionó se mejoraron las vistas en todas las pestañas del front-end. A continuación se presentará los insights del grupo.
+
+Enlace del repositorio: <https://github.com/ConstruTech-UPC/BuildSphere-front-end> 
+
+![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.008.png)
+
+Así mismo, presentamos las ramas que se desarrollaron para la implementación de los features
+
+![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.009.png)
+
+Enlace al back-end: <https://github.com/ConstruTech-UPC/back-end> 
+
+Para el desarrollo del RESTFulAPI, se han implementado los endpoints según el bounded context del negocio
+
+![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.010.png)
+
+De la misma manera, se presenta el gráfico con las ramas que se desarrollaron para los endpoints
+
+![image](/Assets/CHAPTER_V/Sprint4/Aspose.Words.a2dbc74c-d5b3-4ff0-9fa8-4bc46655b1cf.011.png)
+
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas 
