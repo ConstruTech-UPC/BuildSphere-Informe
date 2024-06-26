@@ -1416,6 +1416,7 @@ Video Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_
 
 En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context de authentication, resource management, operations, document and projects.
 Se adjunta el enlace al repositorio correspondiente: https://github.com/ConstruTech-UPC/back-end.git  
+Se adjunta el enlace del back end desplegado: https://construtech-production.up.railway.app/swagger-ui/index.html#/
 
 ||||
 | :- | :- | :- |
@@ -1448,10 +1449,8 @@ Tras haber hecho eso solo presionaremos en Deploy y se desplegará la base de da
 
 Es importante destacar que, al llegar a este punto, obtendremos un dominio público que nos permitirá realizar consultas a través de Postman e interactuar con nuestra base de datos.
 
-**Link de la base de datos desplegada:** construtech.up.railway.app
+**Link de la base de datos desplegada:** https://construtech-production.up.railway.app/
 
-Usuario: user <br>
-Contraseña: password <br>
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint 
 
